@@ -1,0 +1,1288 @@
+,,Darlington Borough Council - Analysis of Transactions Over £500,,,,,
+,,Jan-17,,,,,
+,,,,,,,
+,,,,,,,
+columns,,text description,text servdesc,apar_name,order_id,amount,accdesc
+,,Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account
+INSERTED DETAIL,,Economic Growth,Economic Initiative,DISTINCT DARLINGTON LIMITED,3091419,"19,215.54",Other Establishments
+INSERTED DETAIL,,Economic Growth,Economic Initiative,DRONEFLIGHT LTD,3089674,"1,400.00",Marketing & Advertising
+INSERTED DETAIL,,Economic Growth,Regulatory Services,AEL ELECTRICAL,3089370,"5,397.00",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Regulatory Services,AEL ELECTRICAL,3091054,"5,712.00",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Regulatory Services,APEC ENVIRONMENTAL,3082744,890,Cyclical - Asbestos Inspection
+INSERTED DETAIL,,Economic Growth,Regulatory Services,APEC ENVIRONMENTAL,3082741,775,Cyclical - Asbestos Inspection
+INSERTED DETAIL,,Economic Growth,Regulatory Services,APEC ENVIRONMENTAL,3082741,620,Cyclical - Asbestos Inspection
+INSERTED DETAIL,,Economic Growth,Regulatory Services,APEC ENVIRONMENTAL,3082745,775,Cyclical - Asbestos Inspection
+INSERTED DETAIL,,Economic Growth,Regulatory Services,ARNET LTD,3091880,"1,315.00",Repairs - Building Fabric
+INSERTED DETAIL,,Economic Growth,Regulatory Services,ARROW INDUSTRIAL GROUP LTD,3088520,541,Cyclical - Maint Gates & Doors
+INSERTED DETAIL,,Economic Growth,Regulatory Services,ARROW INDUSTRIAL GROUP LTD,3089259,644,Repairs - Door Entry System
+INSERTED DETAIL,,Economic Growth,Regulatory Services,BARR & WRAY LTD,3090146,595,Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Regulatory Services,BEMROSE BOOTH LTD,3088050,"1,500.00",Stationery
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CLEARWATER TECHNOLOGY LTD,3065125,530,Cyclical - Legionella Maint
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,"1,545.20",Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,"4,069.25",Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,912.57,Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,"13,956.01",Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,"5,072.20",Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,"1,355.80",Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,"1,557.66",Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,"1,303.10",Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CORONA ENERGY LTD,0,"1,072.64",Gas
+INSERTED DETAIL,,Economic Growth,Regulatory Services,CS CATERING EQUIPMENT LTD,3091503,562.8,Equipment
+INSERTED DETAIL,,Economic Growth,Regulatory Services,DISCLOSURE & BARRING SERVICE,3091322,880,DBS Checks
+INSERTED DETAIL,,Economic Growth,Regulatory Services,EASBY FLOORING LTD,3090500,"4,057.13",Repairs - Building Fabric
+INSERTED DETAIL,,Economic Growth,Regulatory Services,ELECTRONIC SECURITY SOLUTIONS LTD,3091426,567.71,Cyclical - Fire Alarms
+INSERTED DETAIL,,Economic Growth,Regulatory Services,ELECTRONIC SECURITY SOLUTIONS LTD,3090779,898,Equipment
+INSERTED DETAIL,,Economic Growth,Regulatory Services,FLEURETS (LEISURE PROPERTY SPECIALISTS),3091106,"3,600.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Economic Growth,Regulatory Services,HADRIAN AIR CONDITIONING & REFRIGE,3090163,"2,354.00",Cyclical - Air Conditioning
+INSERTED DETAIL,,Economic Growth,Regulatory Services,INITIAL WASHROOM HYGIENE,3082658,"3,895.85",Hygiene Services
+INSERTED DETAIL,,Economic Growth,Regulatory Services,JBA CONSULTING,3090505,"18,800.00",Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Regulatory Services,JBA CONSULTING,3090505,"18,800.00",Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Regulatory Services,JBA CONSULTING,3090505,"9,000.00",Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Regulatory Services,LLOYDS BRITISH A DIVISION OF SPEEDY ASSET SERVICES LTD,3089273,640,Repairs - Building Fabric
+INSERTED DETAIL,,Economic Growth,Regulatory Services,MAXI FILTRATION LTD,3090599,996.33,Cyclical - Air Handling
+INSERTED DETAIL,,Economic Growth,Regulatory Services,MIDDLESBROUGH BOROUGH COUNCIL,0,538,Equipment
+INSERTED DETAIL,,Economic Growth,Regulatory Services,MIDDLESBROUGH BOROUGH COUNCIL,3088551,538,Equipment
+INSERTED DETAIL,,Economic Growth,Regulatory Services,MITIE PROPERTY SERVICES (NORTH EAST) LTD,3087009,"6,046.00",Repairs - Building Fabric
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NORTHUMBRIAN WATER,0,519.59,Water Charges
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NORTHUMBRIAN WATER,0,991.77,Water Charges
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NORTHUMBRIAN WATER,0,604.9,Water Charges
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NORTHUMBRIAN WATER,0,991.77,Water Charges
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NORTHUMBRIAN WATER,0,"2,628.20",Water Charges
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NORTHUMBRIAN WATER,0,"2,013.66",Water Charges
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NORTHUMBRIAN WATER,0,"2,608.46",Water Charges
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NORTHUMBRIAN WATER,0,628.4,Water Charges
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"1,672.71",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,690.94,Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,794.79,Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"1,075.34",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"1,971.08",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"1,729.19",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"1,618.98",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"1,475.75",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"2,427.73",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"1,596.89",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"10,465.46",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN FINANCE,0,"21,301.47",Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NPOWER NORTHERN LTD,0,700,Electricity
+INSERTED DETAIL,,Economic Growth,Regulatory Services,NSL LIMITED,3083412,"3,182.22",Security Services
+INSERTED DETAIL,,Economic Growth,Regulatory Services,PAY BY PHONE,3079576,"1,049.65",Ict Software Support & Maintenance
+INSERTED DETAIL,,Economic Growth,Regulatory Services,ROVIN ENVIRONMENTAL (NORTH EAST) LTD,3090369,764,Repairs - Asbestos Removal
+INSERTED DETAIL,,Economic Growth,Regulatory Services,SCHOTT REMOVALS TRANSPORT LTD,3091074,"1,463.00",Storage Costs
+INSERTED DETAIL,,Economic Growth,Regulatory Services,STREBEL LTD,3091252,"4,436.00",Repairs - Mechanical
+INSERTED DETAIL,,Economic Growth,Regulatory Services,T P S BOILER SPARES,3090476,526.08,Repairs - Mechanical
+INSERTED DETAIL,,Economic Growth,Regulatory Services,T W WARD INDUSTRIAL BOILERS,3089670,525.61,Repairs - Mechanical
+INSERTED DETAIL,,Economic Growth,Regulatory Services,TT ELECMECH LIMITED,3089469,"1,733.00",Alterations & Improvements - Electrical
+INSERTED DETAIL,,Economic Growth,Regulatory Services,WPS UNITED KINGDOM LTD,3090806,"11,717.00",Equipment
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,4IMPRINT,3089573,614.95,Marketing & Advertising
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,ACCESS HIRE NATIONWIDE LTD,3083791,"1,306.43",Plant Hire
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,AT WAGGOTT HAULAGE,3081946,"5,731.50",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,BAKER MALLETT LLP,3090160,516,Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,BGP CONSULTING LIMITED,3091223,600,Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,BGP CONSULTING LIMITED,3091222,690.64,Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,BGP CONSULTING LIMITED,3090946,824.4,Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,BIKE STOP DARLINGTON LTD,3085832,"2,209.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,BIKE STOP DARLINGTON LTD,3085832,"3,400.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,BIKE STOP DARLINGTON LTD,3085832,"2,209.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,CHARLES WAGGOTT HAULAGE,3081947,"1,710.00",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,CHARLES WAGGOTT HAULAGE,3081947,572,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,654.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,647.48,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,654.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,647.48,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,532.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,647.48,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,678.63,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,676.85,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,654.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,676.85,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,564.25,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,678.63,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,564.25,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,564.25,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,564.25,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,676.85,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,771.15,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,676.85,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,676.85,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,602.09,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,589.89,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,638.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,602.09,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DE-POEL,0,684.45,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,DESCO,3091705,"3,840.00",Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,GROUNDWORK NORTH EAST,3085199,"3,470.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,GROUNDWORK NORTH EAST,3085199,"3,470.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,GROUNDWORK NORTH EAST,3085199,"3,470.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,HAYS SPECIALIST SERVICES,3091874,945.12,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,HAYS SPECIALIST SERVICES,3091874,751.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,HAYS SPECIALIST SERVICES,3091874,984.99,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,LOVE TO RIDE,3084563,"8,760.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,M BISSELL DISPLAY LTD,3088823,590,Equipment
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MACLEAN ELECTRICAL,3088855,"1,550.03",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MACLEAN ELECTRICAL,3082333,"39,118.38",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MACLEAN ELECTRICAL,3087848,741.48,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MACLEAN ELECTRICAL,3082333,"6,453.30",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MKM BUILDING SUPPLIES (HULL) LTD,3090842,"2,376.46",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MKM BUILDING SUPPLIES (HULL) LTD,3088045,"1,136.00",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MKM BUILDING SUPPLIES (HULL) LTD,3088770,983.68,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MKM BUILDING SUPPLIES (HULL) LTD,3086693,"1,020.31",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MKM BUILDING SUPPLIES (HULL) LTD,3088045,"1,474.40",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MOJO PROMOTIONS,3089482,"2,496.15",Marketing & Advertising
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,MRC ROADS LIMITED,3090824,580.92,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NEWSQUEST MEDIA GROUP,3090761,596.81,Traffic Management
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085361,533.61,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085354,"6,183.03",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3084531,957.98,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085352,"9,551.61",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3084531,533.86,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085350,533.86,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3089900,533.61,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3084496,745.67,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3084533,"1,915.96",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085362,"5,549.41",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085362,"6,604.84",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085354,533.86,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,0,903.11,Chemicals
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085356,"3,516.54",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085355,533.86,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085358,533.61,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085363,"1,501.88",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085363,"6,670.25",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085352,"1,600.83",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085363,"8,271.58",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NORTHERN POWERGRID (NORTHEAST) LTD,3085355,"1,601.33",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NPOWER NORTHERN FINANCE,0,773.13,Electricity
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NPOWER NORTHERN FINANCE,0,863.52,Electricity
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NPOWER NORTHERN FINANCE,0,559.77,Electricity
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NPOWER NORTHERN FINANCE,0,602.67,Electricity
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NPOWER NORTHERN LTD,0,"36,378.60",Electricity
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,NPOWER NORTHERN LTD,0,"1,400.00",Electricity
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,PREMIER TRAFFIC MANAGEMENT,3081938,509.01,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,PROTEUS EQUIPMENT LTD,3090940,957.6,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,S & I STRUCTURES,3090674,910,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,SEYMOUR (CIVIL ENGINEERING CONTRACTORS),3086361,"76,781.40",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,SMITH CREATIVE COMMUNICATIONS LIMITED,3088795,"8,034.88",Marketing & Advertising
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,SMITH CREATIVE COMMUNICATIONS LIMITED,3091235,"9,664.72",Marketing & Advertising
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,SPACE ARCHITECTURE (EUROPE) LTD,3091028,"2,368.43",Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,SPACE ARCHITECTURE (EUROPE) LTD,3091029,"2,212.14",Consultancy Fees
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,STONEGRAVE AGGREGATES LTD,3086696,626.61,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,T M WARD (DARLINGTON) LTD,3086465,576,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,T M WARD (DARLINGTON) LTD,3086465,609.9,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,T M WARD (DARLINGTON) LTD,3086465,573.3,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,T M WARD (DARLINGTON) LTD,3086465,609.9,Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,T M WARD (DARLINGTON) LTD,3081944,500,Waste Management
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,T M WARD (DARLINGTON) LTD,3091792,"1,000.00",Waste Management
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TARMAC LTD,3090409,629.15,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TARMAC LTD,3085904,644.82,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TARMAC TRADING LIMITED,3087769,"36,574.87",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TEES VALLEY COMBINED AUTHORITY,3081546,"239,040.00",Concessionary Fares
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TEES VALLEY COMBINED AUTHORITY,3081546,"239,040.00",Concessionary Fares
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TEES VALLEY COMBINED AUTHORITY,3081546,"239,040.00",Concessionary Fares
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,THE CREATIVE ALCHEMIST,3088734,"1,397.60",Marketing & Advertising
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TODDS HIGHWAY MAINTENANCE LTD,3081942,"1,170.00",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TODDS HIGHWAY MAINTENANCE LTD,3089445,"7,930.00",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TODDS HIGHWAY MAINTENANCE LTD,3089445,"2,600.00",Direct Charges - Contractors
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TYNEDALE ROADSTONE LIMITED,3088652,705.33,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TYNEDALE ROADSTONE LIMITED,3088652,545.71,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TYNEDALE ROADSTONE LIMITED,3088652,544.5,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TYNEDALE ROADSTONE LIMITED,3088652,543.15,Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TYNEDALE ROADSTONE LIMITED,3088652,"1,011.33",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,TYNEDALE ROADSTONE LIMITED,3088652,"1,196.69",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,WERNICK HIRE LTD,3090830,553.55,Equipment
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,WILKINSONS HARDWARE STORES LTD,3091740,"5,630.22",Premises Insurance
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,WM MORRISON (D'TON) ENTERPRISE TRUST,3089224,906.85,Rent Of Facilities
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,WM MORRISON (D'TON) ENTERPRISE TRUST,3089224,765,Rent Of Facilities
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,XMA LIMITED,3090742,533.26,Ict Hardware Purchase
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,YESSS ELECTRICAL,3089538,"5,372.00",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,YESSS ELECTRICAL,3089537,"5,530.00",Materials
+INSERTED DETAIL,,Economic Growth,Transport & Capital Projects,YESSS ELECTRICAL,3089566,"2,370.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,CABINET OFFICE,3091225,"3,650.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,ERNST & YOUNG LLP,3090781,"3,000.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,ERNST & YOUNG LLP,3090781,"3,200.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,ESRI (UK) LTD,3085231,"1,997.84",Consultancy Fees
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,INSIGHT DIRECT (UK) LTD,3091257,"9,690.00",Ict Hardware Purchase
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,LIQUID LOGIC,3091043,"34,880.00",Ict Software Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,LIQUID LOGIC,3091042,"6,040.00",Ict Software Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,PERMANENT FUTURES,3090763,"4,000.00",Consultancy Fees
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,RELIANCE HIGH TECH,0,"1,742.54",Ppe Clothing & Equipment
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Finance,RELIANCE HIGH TECH,0,"1,789.58",Ppe Clothing & Equipment
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - ICT,DAISY COMMUNICATIONS LTD,0,"8,367.59",Telephone Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - ICT,VIRGIN MEDIA BUSINESS LIMITED,0,"3,913.04",Telephone Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - ICT,VIRGIN MEDIA BUSINESS LIMITED,0,"4,200.33",Telephone Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - ICT,VODAFONE,0,"2,658.48",Telephone Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Human Resources,ALLIANCE PSYCHOLOGICAL SERVICES,3082197,"2,548.00",Counselling Recharge
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Human Resources,BODY 2 FIT LTD,3082198,"1,500.00",Physiotherapy Recharge
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Human Resources,BODY 2 FIT LTD,3082198,"1,500.00",Physiotherapy Recharge
+INSERTED DETAIL,,Neighbourhood Services & Resources,AD - Human Resources,CB LEARNING AND DEVELOPMENT,3091529,"3,345.00",Conferences & Seminars
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,A I R  LTD,0,"1,900.00",Production Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,A S AUDIO SERVICES,3091255,"2,135.00",Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,ACORN DAIRY,0,539.58,Catering Provisions
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,ARTISTES INTERNATIONAL REPRESENTATION LTD,0,"2,250.00",Production Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,BERENDSEN UK LTD,0,"1,183.90",Production Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,BEST UNION UK LTD,3091264,"3,825.00",Ict Software Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,BESTWAY WHOLESALE LIMITED,0,549.73,Catering Provisions
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,BUNZL CLEANING & HYGIENE SUPPLIES,3090887,979.74,Other Consumables
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,BUNZL CLEANING & HYGIENE SUPPLIES,0,683.07,Cleaning Materials & Consumables
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,CLARITY ENGLISH CONSULTANTS LTD,0,870,Books
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,CTRACK LTD,0,985.5,Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,DEBBIE WAISTELL,0,600,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,DEBBIE WAISTELL,3087094,"1,080.00",Artist Payments
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,DE-POEL,0,516.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,DE-POEL,0,615,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,DE-POEL,0,705.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,EGBERT H TAYLOR & COMPANY LIMITED,3090579,"4,217.78",Litter Bins
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,EIBE PLAY LTD,0,"2,680.00",Building Repairs And Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,EXPERIAN LTD,3090757,613,Ict Software Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,FLOWERS BY NATTRASS,0,"1,100.00",Production Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,FOOLS PARADISE LTD,3090449,"1,360.00",Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,G & A SECURITY,0,"1,199.25",Repairs - Intruder Alarms
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,GROUND IMPROVEMENTS,3090895,"8,879.00",Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,HOPWELLS LIMITED,0,576.13,Catering Provisions
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,HOPWELLS LIMITED,0,508.2,Catering Provisions
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,HOPWELLS LIMITED,0,543.62,Catering Provisions
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,INDOOR OUTDOOR,0,"4,330.00",Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,INDOOR OUTDOOR,0,"5,577.00",Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,INDOOR OUTDOOR,0,900,Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,JOHN WADE (HAULAGE) LTD,3089361,950,Vehicle Hire
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,JOHN WADE (HAULAGE) LTD,3089361,950,Vehicle Hire
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,KEVIN HUBERY,3081430,700,Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,LONGFIELD ACADEMY OF SPORT,3090649,"3,941.94",Equipment
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,M T AUDIO SYSTEMS,3081592,620,Production Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,MATTHEW CLARK WHOLESALE LTD,0,895.65,Bar Provisions For Resale
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,NORTHUMBRIAN WATER,0,"1,185.65",Water Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,NPC TRAINING LTD,3091009,"1,875.00",Employee Training Course Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,OAKHILL PUBLISHING LTD,0,540,Books
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,OCLC UK LTD,0,"2,553.08",Books
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,OIL NRG LTD,3091214,"1,522.20",Vehicle Fuel
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,OIL NRG LTD,3090641,"17,751.88",Vehicle Fuel
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,OIL NRG LTD,3091075,"14,379.24",Vehicle Fuel
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,OIL NRG LTD,3089978,"13,776.00",Vehicle Fuel
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,OIL NRG LTD,3089552,"13,654.66",Vehicle Fuel
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,OIL NRG LTD,3089552,"1,324.84",Vehicle Fuel
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,PELICAN ROUGE COFFEE SOLUTIONS LIMITED,0,748.01,Catering Provisions
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,PROQUEST INFORMATION & LEARNING LTD,0,"3,130.00",Books
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,Q20 THEATRE COMPANY,3087632,"1,067.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,SCHOTT REMOVALS TRANSPORT LTD,3091187,"1,081.25",Storage Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,SECURICOR CASH SERVICES LTD,0,708.53,Security Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,SEWELL & CARR,3091215,600,Equipment
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,SILVERBAND FALCONRY,0,500,Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,SOUTH DURHAM SOCIETY OF MODEL ENG,3081439,560,Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,SPORTMAX,0,764.1,Items For Resale
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,STADIA SPORTS,3090451,544,Equipment
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,STONEGRAVE AGGREGATES LTD,0,950,Vehicle Hire
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,STONEGRAVE AGGREGATES LTD,3084599,"253,631.14",Waste Management
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,STONEGRAVE AGGREGATES LTD,3084599,"3,469.62",Waste Management
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,STONEGRAVE AGGREGATES LTD,3084599,"5,137.72",Waste Management
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,STONEGRAVE AGGREGATES LTD,0,"14,501.30",Waste Management
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,THE PHOENIX PARTNERSHIP,3087006,800,Equipment R&M
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,THE PHOENIX PARTNERSHIP,3091341,"4,164.00",Equipment R&M
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,THE TOURING CONSORTIUM LTD,0,"1,000.00",Artist Payments
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,THE TOURING CONSORTIUM LTD,0,"1,000.00",Artist Payments
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,TICA,3091535,720,Employee Training Course Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,TRAPEZE,0,"1,302.44",Employee Training Course Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,TRAPEZE,3090038,"3,549.74",Employee Training Course Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,ULTIMATE DISCO (CARL DOUTHWAITE),0,"1,250.00",Production Costs
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,VAISALA LTD,3085826,"9,985.00",Ict Software Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Community Services,VOLVO GROUP UK LIMITED,0,518.46,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,CANON (UK) LIMITED,3089870,"19,790.35",Ict Hardware Purchase
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,CAWTHORNE PSYCHOLOGICAL SERVICES LTD,0,"2,303.10",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,CYGNET LAW,0,"4,514.80",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,CYGNET LAW,0,"1,431.90",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,DE-POEL,0,"1,363.06",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,DE-POEL,0,"1,121.97",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,DR STEPHANIE HILL,0,"1,309.50",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,DR STEPHANIE HILL,0,761.25,Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,IKEN BUSINESS LTD,0,"1,032.39",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,MRS ELAINE AVERIS,0,675,Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Legal & Procurement,XMA LIMITED,3090609,544.92,Ict Hardware Purchase
+INSERTED DETAIL,,Neighbourhood Services & Resources,"Customer Services, Admin & Democratic",CORPTEL,3091141,"1,057.92",Ict Hardware Purchase
+INSERTED DETAIL,,Neighbourhood Services & Resources,"Customer Services, Admin & Democratic",NORTHGATE PUBLIC SERVICES (UK) LTD,3078848,538.2,Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,"Customer Services, Admin & Democratic",ROYAL MAIL NORTH EAST,0,"1,467.85",Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,"Customer Services, Admin & Democratic",ROYAL MAIL NORTH EAST,0,"1,229.68",Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,"Customer Services, Admin & Democratic",ROYAL MAIL NORTH EAST,0,"1,183.93",Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,"Customer Services, Admin & Democratic",WHISTL UK LIMITED,3090943,"1,460.67",Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,"Customer Services, Admin & Democratic",WHISTL UK LIMITED,0,"1,673.21",Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,"Customer Services, Admin & Democratic",WHISTL UK LIMITED,0,"1,285.87",Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,CRITIQOM LIMITED,0,578.28,Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,CRITIQOM LIMITED,3090615,640,Stationery
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,CRITIQOM LIMITED,3091168,675.67,Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,CRITIQOM LIMITED,3091168,"1,386.64",Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,CRITIQOM LIMITED,3091168,675.67,Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,CRITIQOM LIMITED,3091168,"1,386.64",Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,CRITIQOM LIMITED,0,578.28,Postages
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,CRITIQOM LIMITED,3090615,640,Stationery
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,839.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,"1,018.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,"1,135.20",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,"1,018.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,519.85,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,"1,020.46",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,"1,017.50",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,997.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,"1,073.28",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,550.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,543.52,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,"1,018.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,DE-POEL,0,"1,018.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,EXPERIAN LTD,3090757,613,Ict Software Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,NORTHGATE PUBLIC SERVICES (UK) LTD,3090996,500,Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,NORTHGATE PUBLIC SERVICES (UK) LTD,3090995,"1,000.00",Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,NORTHGATE PUBLIC SERVICES (UK) LTD,3090995,"1,000.00",Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,NORTHGATE PUBLIC SERVICES (UK) LTD,3090996,500,Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,NORTHGATE PUBLIC SERVICES (UK) LTD,3082478,"1,800.00",Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,NORTHGATE PUBLIC SERVICES (UK) LTD,3090587,"1,500.00",Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,NORTHGATE PUBLIC SERVICES (UK) LTD,3091857,"2,581.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,VICTORIA SOLUTIONS LTD (T/A VICTORIA FORMS),3091072,"6,750.00",Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing General Fund,VICTORIA SOLUTIONS LTD (T/A VICTORIA FORMS),3091072,"6,750.00",Ict Software Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,A S CROCKER (PLASTERERS) LIMITED,3082779,"21,883.84",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,A S CROCKER (PLASTERERS) LIMITED,3076805,"11,198.64",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090226,"1,045.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090225,"1,003.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090226,"1,045.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090225,"1,003.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090225,"1,003.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090225,"1,105.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090225,"1,007.25",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090226,"1,045.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090224,"1,194.25",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090226,630,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090226,"1,045.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090226,"1,054.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090224,"1,096.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090225,"1,003.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090224,"1,092.25",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090224,"1,096.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090224,"1,096.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3091730,833,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090224,"1,096.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090224,"1,156.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ALL EVENTS SECURITY,3090224,"1,096.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,APEC ENVIRONMENTAL,3089487,620,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ARNET LTD,3088338,"1,600.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ARNET LTD,3088338,"1,760.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ARNET LTD,3088338,"2,720.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,B C STEWART LTD,3076862,"28,312.68",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BAILEYS BLINDS,3085597,767.9,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BARCLAY ROOFING LTD,3076844,"34,591.32",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BISHOP AUCKLAND GLAZING CO LTD,3082652,"15,619.50",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BISHOP AUCKLAND GLAZING CO LTD,3076807,"13,258.34",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BISHOP AUCKLAND GLAZING CO LTD,3076807,"16,044.61",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BISHOP AUCKLAND GLAZING CO LTD,3076807,"18,868.64",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BISHOP AUCKLAND GLAZING CO LTD,3076807,"18,868.64",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BISHOP AUCKLAND GLAZING CO LTD,3076807,"18,868.64",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BISHOP AUCKLAND GLAZING CO LTD,3076807,"2,171.02",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BLAKLEY ELECTRICS,3090062,505.1,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BLAKLEY ELECTRICS,3090062,"2,400.10",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BLAKLEY ELECTRICS,3090062,528.92,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BRICKWORK DIRECT LIMITED,3078437,"10,222.37",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BRICKWORK DIRECT LIMITED,3085702,"12,660.45",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BUILDROUTE LIMITED,3085988,"12,593.67",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BUILDROUTE LIMITED,3085988,"9,421.10",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BUILDROUTE LIMITED,3085988,"7,670.68",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BUILDROUTE LIMITED,3091069,"2,200.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BUILDROUTE LIMITED,3091069,"2,200.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BUILDROUTE LIMITED,3091069,"2,200.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,BUILDROUTE LIMITED,3085988,"5,756.31",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3090063,714.64,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3089798,817.81,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3089797,706.69,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3089924,"1,328.63",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3079989,"1,217.48",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3087567,551.39,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3087922,571.48,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3087924,600.1,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3087578,560.18,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3087885,503.29,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3081117,"1,375.83",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3090018,"1,689.68",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3081175,"1,196.95",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3081200,"1,134.25",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3087927,523.95,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3088830,"1,082.22",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3089602,569.96,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,CROSSLING LTD,3081113,"1,390.77",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,D STEWART SCAFFOLDING LTD,3087080,"1,600.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DARLINGTON SCAFFOLDING LTD,3089738,"1,800.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DARLINGTON SCAFFOLDING LTD,3083620,"11,283.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,818.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,866.63,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,669.33,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,608.28,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,"1,062.60",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,664.89,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,664.89,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,594.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,709.82,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,641.95,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,664.89,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,540.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,540.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,515.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,540.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,540.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,564.25,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,636.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,540.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,540.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,817.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,634.92,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,634.92,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,634.92,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,634.92,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,606.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,639.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,606.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,"1,063.02",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,594.32,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,852.15,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,668.22,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,924.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,684.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,668.22,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,699.66,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,552.24,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,600.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,"1,240.19",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,817.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,606.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,852.15,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,767.55,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,634.92,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,634.92,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,606.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,606.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,631.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,823.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,798.38,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,823.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,646,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,823.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,699.66,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,699.66,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,817.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,852.15,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,668.22,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,823.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,677.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,"1,063.02",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,568.48,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,823.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,924.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,634.92,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,634.92,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,606.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,606.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,606.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,529.23,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,562.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,"1,047.28",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,823.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,549.1,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,692.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,565.11,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,556.14,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,538.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,664.89,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,709.82,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,664.89,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,529.23,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,552.24,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,683.28,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,735.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,529.23,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,866.02,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,506.22,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,506.22,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,552.24,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,529.23,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,683.28,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,DE-POEL,0,552.24,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,EASBY FLOORING LTD,3087500,"1,737.45",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,EASBY FLOORING LTD,3088155,"2,386.80",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,EASBY FLOORING LTD,3088155,"2,386.80",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,EASBY FLOORING LTD,3087500,"1,447.88",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ELLIOTT GROUP LIMITED,3089055,889,Equipment
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,ESH CONSTRUCTION LIMITED,3090489,"3,960.90",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,GOLDSHIELD ELECTRONIC SECURITY LTD,3072039,"3,390.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,HAYS SPECIALIST SERVICES,3085540,761.35,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,HAYS SPECIALIST SERVICES,3085540,"1,235.39",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,HAYS SPECIALIST SERVICES,3089842,659.73,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,J T ATKINSON & SONS LTD,3088653,623,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,J T ATKINSON & SONS LTD,3088653,623,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JACK TIGHE DECORATING LTD,3083077,"7,000.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JCB FINANCE (LEASING LTD),0,"2,525.00",Leasing Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3090384,753.79,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3087194,669.46,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3090107,"3,098.88",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3086507,753.79,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3090483,784.4,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3087194,705.46,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3086617,"2,350.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3086617,"2,350.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3087194,669.46,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3086617,"2,350.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3089116,"1,015.20",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3087194,811.15,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3087194,997.15,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3088596,710.1,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3088964,979.2,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3080778,945.9,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3090066,"2,350.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3089740,"3,098.88",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3086985,"2,350.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3080778,750,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3090387,"1,483.92",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3080778,687.86,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3087194,"1,447.54",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3087194,"1,397.33",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3088711,673.04,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3086701,796.22,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3090067,"2,550.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3080778,"1,534.40",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JEWSON LTD,3087983,899.08,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JOHN N DUNN GROUP LTD,3082821,"23,519.43",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JOHN N DUNN GROUP LTD,3085703,"2,459.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,JOHN N DUNN GROUP LTD,3085703,"1,754.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,K HEWITT & CO LTD,3076812,"29,255.27",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,K HEWITT & CO LTD,3089722,"2,438.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,K M ELECTRICAL SERVICES,3080312,"13,681.62",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,K M ELECTRICAL SERVICES,3079119,"1,033.92",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,K M ELECTRICAL SERVICES,3089803,"1,693.53",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,K M ELECTRICAL SERVICES,3090112,"1,520.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,K M ELECTRICAL SERVICES,3089272,846.76,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,K M ELECTRICAL SERVICES,3089759,846.77,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LAMINATE PRODUCTS DIRECT LTD,3089884,"1,999.60",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LAMINATE PRODUCTS DIRECT LTD,3089884,"1,999.60",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LAMINATE PRODUCTS DIRECT LTD,3090715,948,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LAMINATE PRODUCTS DIRECT LTD,3089884,761.1,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LAMINATE PRODUCTS DIRECT LTD,3089884,"1,999.60",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LYNX PRECAST LTD,3085669,"7,239.37",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LYNX PRECAST LTD,3083627,"9,839.21",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LYTESTREAM ELECTRICAL CONTRACTORS,3084656,"1,708.55",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LYTESTREAM ELECTRICAL CONTRACTORS,3076813,"18,949.33",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,LYTESTREAM ELECTRICAL CONTRACTORS,3082731,"12,316.81",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3081882,671.02,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3088838,528.2,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3088720,580.78,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3088720,580.78,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3081883,572.57,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3089760,667.1,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3088720,580.73,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3087820,514.16,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3088720,518.44,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3088720,521.23,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3081928,715.33,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3081913,645.26,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3085106,509.76,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3081871,518.51,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3081906,503.62,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3081927,502.12,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3081932,548.7,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3088720,577.99,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MAGNET TRADE,3088840,516.59,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,MITIE PROPERTY SERVICES (NORTH EAST) LTD,3084750,"1,717.78",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,NORTHERN GAS NETWORKS,3081824,"5,904.51",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,NORTHERN POWERGRID LIMITED,3091194,641,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,S & I STRUCTURES,3076817,"4,000.00",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,STEELCRAFT LTD,3082831,"5,223.45",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,STONEGRAVE AGGREGATES LTD,3088174,"1,308.29",Premises Related Hire Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,STONEGRAVE AGGREGATES LTD,3089199,638.4,Premises Related Hire Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,STONEGRAVE AGGREGATES LTD,3086940,662.65,Premises Related Hire Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,STONEGRAVE AGGREGATES LTD,3089199,"1,401.99",Premises Related Hire Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,TODDS HIGHWAY MAINTENANCE LTD,3086394,500,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,TODDS HIGHWAY MAINTENANCE LTD,3077515,650,Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,TRIPLE POINT LEASE PARTNERS,3082076,"43,927.60",Leasing Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,WERNICK HIRE LTD,3086124,575.71,Equipment
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,YESSS ELECTRICAL,3080561,"1,652.50",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,YESSS ELECTRICAL,3080561,"1,370.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Building Services,YESSS ELECTRICAL,3090679,"4,808.00",Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,B & Q PLC,3091202,771.45,Responsive-Empty Hse Redecor
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,BCS PRESERVATION LIMITED,3088004,"1,569.00",Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,BISHOP AUCKLAND GLAZING CO LTD,3090045,538,Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,BISHOP AUCKLAND GLAZING CO LTD,3089513,538,Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,CORONA ENERGY LTD,0,729.11,Gas
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,CORONA ENERGY LTD,0,"1,430.75",Gas
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,CORONA ENERGY LTD,0,"1,394.59",Gas
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,CORONA ENERGY LTD,0,580.74,Gas
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,CORONA ENERGY LTD,0,754.98,Gas
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,CORONA ENERGY LTD,0,"1,366.39",Gas
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,CORONA ENERGY LTD,0,"1,746.36",Gas
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,CORONA ENERGY LTD,0,"1,672.99",Gas
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,DE-POEL,0,584.97,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,DE-POEL,0,595.82,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,DE-POEL,0,594.3,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,DE-POEL,0,584.97,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,DE-POEL,0,595.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,EASBY FLOORING LTD,3090655,597.4,Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,EASBY FLOORING LTD,3090046,637.82,Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,EXPERIAN LTD,3090757,613,Ict Software Support & Maintenance
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,GOLDSHIELD ELECTRONIC SECURITY LTD,3089028,"1,250.00",Repairs - Door Entry System
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,GOLDSHIELD ELECTRONIC SECURITY LTD,3090292,693,Equipment R&M
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,HANOVER HOUSING ASSOCIATION,0,"42,800.82",Other Supplies & Services
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,INNERGLASS LTD,3090759,644.92,Materials
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,JDP CONTRACTING SERVICES LIMITED,3090665,"1,872.54",Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,MITIE PROPERTY SERVICES (NORTH EAST) LTD,3090254,"42,939.71",Direct Charges - Contractors
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,MR JAMIE ANDERSON,0,800,Consultancy Fees
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NORTHUMBRIAN WATER,0,"2,152.29",Water Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NORTHUMBRIAN WATER,0,"1,210.85",Water Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NORTHUMBRIAN WATER,0,"1,143.06",Water Charges
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,"1,420.10",Electricity
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,802.64,Electricity
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,"1,889.93",Electricity
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,691.23,Electricity
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,"1,043.32",Electricity
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,NPOWER NORTHERN LTD,0,"1,070.00",Electricity
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,ORBIS PROTECT LTD,3091246,"2,230.25",Responsive-Empty Hse Security
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,ORBIS PROTECT LTD,3091246,600.98,Responsive-Empty Hse Security
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,SEYMOUR (CIVIL ENGINEERING CONTRACTORS),3089152,"1,061.83",Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,SEYMOUR (CIVIL ENGINEERING CONTRACTORS),3090057,822.09,Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,SEYMOUR (CIVIL ENGINEERING CONTRACTORS),3090057,734.32,Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,SEYMOUR (CIVIL ENGINEERING CONTRACTORS),3090057,873.16,Responsive Repairs (General)
+INSERTED DETAIL,,Neighbourhood Services & Resources,Housing Revenue Account,WINDOW WISE,3087070,630,Responsive Repairs (General)
+INSERTED DETAIL,,Chief Executive,Chief Executive,BONNIE DAVIES,3084964,"1,600.00",Artist Payments
+INSERTED DETAIL,,Chief Executive,Chief Executive,CIPFA,3090867,"7,560.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Chief Executive,Chief Executive,NEWSQUEST MEDIA GROUP,3089525,506.43,Advertising
+INSERTED DETAIL,,Chief Executive,Chief Executive,NPOWER NORTHERN FINANCE,0,768.45,Electricity
+INSERTED DETAIL,,Chief Executive,Chief Executive,PETRA LLOYD,3084966,"1,440.00",Artist Payments
+INSERTED DETAIL,,Chief Executive,Chief Executive,RACHEL PROUDLOCK,3084969,567,Artist Payments
+INSERTED DETAIL,,Chief Executive,Chief Executive,SWIFT ADVERTISING NE LTD,3091481,"3,300.00",Marketing & Advertising
+INSERTED DETAIL,,Chief Executive,Chief Executive,WATERSTONS,3091486,595,Ict Software Support & Maintenance
+INSERTED DETAIL,,People,Public Health,CLIFTON COURT MEDICAL PRACTICE,3068892,500,Private Contractors
+INSERTED DETAIL,,People,Public Health,DE-POEL,0,"2,088.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Public Health,DE-POEL,0,"2,094.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Public Health,DE-POEL,0,"2,618.10",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Public Health,DE-POEL,0,"1,101.70",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Public Health,DE-POEL,0,"2,618.10",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Public Health,DE-POEL,0,661.02,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Public Health,DE-POEL,0,661.02,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Public Health,DR CARTER AND PARTNERS,3082417,"1,925.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,DR S STONE,3068925,520,Private Contractors
+INSERTED DETAIL,,People,Public Health,"DRS MARSHALL, HOLMES & PEART",3082427,"1,435.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,"DRS. MCILHINNEY, RUSS & MATHIESON",3082437,"2,765.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,HARROGATE AND DISTRICT NHS FOUNDATION TRUST,3086164,"228,460.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,LLOYDS PHARMACY,0,"1,506.93",Private Contractors
+INSERTED DETAIL,,People,Public Health,NECA SERVICES LTD,3080966,"100,781.25",Private Contractors
+INSERTED DETAIL,,People,Public Health,NHS BUSINESS SERVICES AUTHORITY,3091163,"25,085.72",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,NHS DARLINGTON CCG,3091164,"22,838.26",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,PRIMARY HEALTHCARE DARLINGTON LIMITED,3086170,"24,166.67",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,ROCKCLIFFE COURT SURGERY,3082435,"2,100.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,ROWLANDS PHARMACY,0,921.62,Private Contractors
+INSERTED DETAIL,,People,Public Health,ROWLANDS PHARMACY,0,750.08,Private Contractors
+INSERTED DETAIL,,People,Public Health,TRACEY SHARP,3091242,"3,000.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,VIRGIN CARE STOCKTON LLP,3091694,917,Other Health Bodies
+INSERTED DETAIL,,People,Public Health,VIRGIN CARE STOCKTON LLP,3091692,"1,226.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,VIRGIN CARE STOCKTON LLP,3091693,"1,151.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,YORK TEACHING HOSPITAL NHS FOUNDATION TRUST,3091726,503,Other Health Bodies
+INSERTED DETAIL,,People,Public Health,YORK TEACHING HOSPITAL NHS FOUNDATION TRUST,3091727,607,Other Health Bodies
+INSERTED DETAIL,,People,AD - Commissioning,700 CLUB,0,"17,176.15",Private Contractors
+INSERTED DETAIL,,People,AD - Commissioning,CARERS FEDERATION LIMITED,3086920,809.07,Other Supplies & Services
+INSERTED DETAIL,,People,AD - Commissioning,CITIZENS ADVICE BUREAU,3087727,"8,333.34",Grants
+INSERTED DETAIL,,People,AD - Commissioning,CITIZENS ADVICE BUREAU,3087728,"12,090.42",Grants
+INSERTED DETAIL,,People,AD - Commissioning,CREATIVE SUPPORT LIMITED,0,"7,750.77",Private Contractors
+INSERTED DETAIL,,People,AD - Commissioning,CREATIVE TRAINING SOLUTIONS,3091203,"2,450.00",Employee Training Course Costs
+INSERTED DETAIL,,People,AD - Commissioning,CREATIVE TRAINING SOLUTIONS,3091204,"2,100.00",Employee Training Course Costs
+INSERTED DETAIL,,People,AD - Commissioning,DARLINGTON YMCA FOYER,0,"19,480.69",Private Contractors
+INSERTED DETAIL,,People,AD - Commissioning,DISC,0,"19,367.62",Private Contractors
+INSERTED DETAIL,,People,AD - Commissioning,DISC,0,"19,367.62",Private Contractors
+INSERTED DETAIL,,People,AD - Commissioning,DO THE WRITE THING,3089427,970,Employee Training Course Costs
+INSERTED DETAIL,,People,AD - Commissioning,DO THE WRITE THING,3089427,970,Employee Training Course Costs
+INSERTED DETAIL,,People,AD - Commissioning,DURHAM COUNTY COUNCIL,0,"16,250.00",Voluntary Associations
+INSERTED DETAIL,,People,AD - Commissioning,HEALTHWATCH DARLINGTON,3082900,"10,974.75",Grants
+INSERTED DETAIL,,People,AD - Commissioning,INTERFACE ENTERPRISES LTD,3090817,"2,685.00",Employee Training Course Costs
+INSERTED DETAIL,,People,AD - Commissioning,KEYRING LIVING SUPPORT NETWORK,0,"2,581.15",Private Contractors
+INSERTED DETAIL,,People,AD - Commissioning,MAIN,3091207,"2,400.00",Employee Training Course Costs
+INSERTED DETAIL,,People,AD - Commissioning,MINDFUL THERAPIES,3089761,"5,000.00",Marketing & Advertising
+INSERTED DETAIL,,People,AD - Commissioning,NEPRO LIMITED,3084550,"70,724.90",Course Purchase
+INSERTED DETAIL,,People,AD - Commissioning,NEWCASTLE CITY COUNCIL,3091070,"6,839.95",Community Care Support
+INSERTED DETAIL,,People,AD - Commissioning,TRACEY HILL TRAINING & CONSULTANCY LTD,3089305,"1,097.35",Employee Training Course Costs
+INSERTED DETAIL,,People,AD - Commissioning,TRACEY HILL TRAINING & CONSULTANCY LTD,3089305,"2,101.05",Employee Training Course Costs
+INSERTED DETAIL,,People,Adult Social Care,BUTTERWICK LIMITED,0,740,Respite
+INSERTED DETAIL,,People,Adult Social Care,BUTTERWICK LIMITED,0,"1,110.00",Respite
+INSERTED DETAIL,,People,Adult Social Care,BUTTERWICK LIMITED,0,740,Respite
+INSERTED DETAIL,,People,Adult Social Care,BUTTERWICK LIMITED,0,740,Respite
+INSERTED DETAIL,,People,Adult Social Care,BUTTERWICK LIMITED,0,"1,110.00",Respite
+INSERTED DETAIL,,People,Adult Social Care,CARE-ABILITY,3089360,"1,158.00",Occupational Therapy Equipment
+INSERTED DETAIL,,People,Adult Social Care,CARE-ABILITY,3090375,"1,248.00",Occupational Therapy Equipment
+INSERTED DETAIL,,People,Adult Social Care,DARLINGTON MIND,3083661,"5,838.00",Services For Carers
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,781.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,587.79,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,147.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,059.03",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,424.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,120.71",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,997.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,547.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,147.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,056.14",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,502.56,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,618,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,218.40",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,891.84,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,668.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,668.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,039.68",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,147.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,162.43",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,068.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,147.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,772.5,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,888.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,216.93",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,501.84,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,669.12,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,083.92",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,844.31,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,038.96",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,643.31,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,625.67,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,505.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,868.56,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,979.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,DE-POEL,0,"1,403.04",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adult Social Care,FOUR HOUSING,3092038,"8,021.39",Rent Of Facilities
+INSERTED DETAIL,,People,Adult Social Care,GREEN LINK (NORTH EAST),3088228,840,External Courier Service
+INSERTED DETAIL,,People,Adult Social Care,JUST CHECKING,3091145,"29,216.00",Equipment
+INSERTED DETAIL,,People,Adult Social Care,MEDeQUIP,3090877,"82,113.57",Occupational Therapy Equipment
+INSERTED DETAIL,,People,Adult Social Care,MEDeQUIP,3090876,"9,907.24",Occupational Therapy Equipment
+INSERTED DETAIL,,People,Adult Social Care,MENCAP,3092039,"6,027.75",Rent Of Facilities
+INSERTED DETAIL,,People,Adult Social Care,NORTH REGIONAL ASSOC FOR SENSORY SUPPORT,3091650,545,Advocacy
+INSERTED DETAIL,,People,Adult Social Care,THYSSENKRUPP ENCASA LIMITED,3080988,"1,006.00",Private Contractors
+INSERTED DETAIL,,People,Adult Social Care,TRINITY CHAMBERS,0,"1,100.00",Professional Fees & Consultancy
+INSERTED DETAIL,,People,Adult Social Care,TYNETEC LTD,3090765,617.72,Equipment
+INSERTED DETAIL,,People,Adult Social Care,VIRGIN MEDIA BUSINESS LIMITED,0,690.06,Telephone Costs
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,1AB TAXIS LTD,3087634,"1,640.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,1AB TAXIS LTD,3087633,522,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,1AB TAXIS LTD,3087634,779,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,1AB TAXIS LTD,0,"1,624.48",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,1AB TAXIS LTD,0,"1,816.88",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ACORN CARE (NE) LIMITED,3090882,"7,521.43",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ACORN CARE (NE) LIMITED,3090882,"12,953.58",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ACORN CARE (NE) LIMITED,3088017,"7,939.29",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ACTION FOR CHILDREN,3082113,"5,163.67",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,AJ RESIDENTIAL CARE LTD,3086773,"15,168.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ANN BAXTER LIMITED,3089512,799.1,Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ARTEMIS SUPPORT LTD,3082115,"11,600.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BARNARDO'S,3083983,"7,500.00",Other Supplies & Services
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BETA NORTH LIMITED,3088500,"4,645.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BETA NORTH LIMITED,3082116,"4,250.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BETA NORTH LIMITED,3082119,"3,850.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BETTERCARE KEYS LTD,3091037,"6,358.10",Independent Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BIG KIDS LITTLE KIDS DAY NURSERY,3091363,780,Childcare
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BRECKENBROUGH SCHOOL,3091458,"16,000.00",Independent Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BRECKENBROUGH SCHOOL,3091459,"16,000.00",Independent Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BRIGHT HORIZONS,3091152,"1,103.20",Adoption Allowance
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BRYN MELYN CARE LTD,3084353,"8,370.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BRYN MELYN CARE LTD,3084353,"23,914.29",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BYTES SOFTWARE SERVICES,3089995,655.12,Ict Software Purchase
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,BYTES SOFTWARE SERVICES,3091130,565.71,Ict Software Purchase
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CEDAR HOUSE SCHOOL,3091461,"70,609.00",Independent Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CHILDRENS FAMILY TRUST,3090808,"2,929.50",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CHILDRENS FAMILY TRUST,3082122,"3,122.01",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CHOICES & VOICES,3091562,892.5,Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CITIZENS ADVICE BUREAU,3090816,600,Hospitality & Room Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CORONA ENERGY LTD,0,"1,093.02",Gas
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CORONA ENERGY LTD,0,742.49,Gas
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CORONA ENERGY LTD,0,947.45,Gas
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,CORONA ENERGY LTD,0,"1,593.71",Gas
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,COUNTY DURHAM COMMUNITY FOUNDATION,0,"1,050.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DARLINGTON & DISTRICT YTH COMM ASS,3087349,"1,269.60",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DARLINGTON & DISTRICT YTH COMM ASS,3087402,"1,158.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DARLINGTON & DISTRICT YTH COMM ASS,3087401,"1,316.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DARLINGTON & DISTRICT YTH COMM ASS,3087352,"1,345.20",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DARLINGTON & DISTRICT YTH COMM ASS,3087351,"1,201.20",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DARLINGTON & DISTRICT YTH COMM ASS,3087350,"1,255.20",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DARLINGTON & DISTRICT YTH COMM ASS,3091643,605,Vehicle Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DARLINGTON MOWDEN PARK RUGBY CLUB,3091466,618.33,Hospitality & Room Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DAVID WALKER,3089111,551.25,Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DENE VALLEY COMMUNITY TRANSPORT,3087353,"1,800.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,052.10",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,990.86,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.60",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,046.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,571.58",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,789.08,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,774.72,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,683.87,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,725.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,771.85,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,896.1,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,403.04",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,295.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,407.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,593.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,190.68",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,861.95",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,611.55",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,355.25",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,606.85",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,663.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,684.86,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,034.57",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,587.79,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,215.68",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,377.28",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,192.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,300.20",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,571.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,875.25",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,619.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,571.58",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,644.43,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,333.85",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,962.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,298.88",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,181.04",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,315.13",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,952.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,793.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,118.40",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,192.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,740.93,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,330.52",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,697.95,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,790.32,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,522.18",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,793.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,143.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,222.85",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,334.96",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,924.26,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,664.82,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,192.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,293.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,925.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,117.20",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,592.45",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,531.9,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,192.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,592.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,293.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,143.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,643.5,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,052.10",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,643.5,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,941.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,291.20",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,894.29,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,330.50",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,658.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,234.20",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,957.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,188.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,841.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,122.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,649.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,407.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,295.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,557.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,403.04",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,381.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,811.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,052.10",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,122.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,710.22,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,222.85",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,643.5,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,946.89,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,120.71",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,312.00",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,632.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,694.26,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,222.85",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,052.10",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,592.47",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,181.04",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,293.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,987.9,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,192.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,914.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,143.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,922.04,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,522.18",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,643.5,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,930.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,330.52",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,952.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,952.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,293.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,330.52",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,930.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,922.04,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,522.18",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,564.18",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,789.08,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.60",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,046.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,334.96",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,297.59",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,410.07",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,793.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,034.57",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,592.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,192.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,666.33,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,218.41",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,262.52",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,793.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,221.37",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,216.93",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,300.92",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,221.37",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,291.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,291.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,332.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,052.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,589.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,179.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,295.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,179.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,970.02,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,295.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,103.16",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,949.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,645.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,786.38,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,789.08,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,742.14,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,925.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,063.72",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,407.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,407.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,309.80",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,332.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,330.51",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,987.9,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,806.61,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,857.48,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,048.50",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,332.73",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,552.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,876.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,800.31,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,875.23",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,619.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,619.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,806.61,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,987.9,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,592.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,192.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,641.06,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,405.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,592.45",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,192.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,675.64,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"1,034.57",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,875.25",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,619.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DE-POEL,0,"2,619.30",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DFW ADOPTION,0,"1,242.72",Adoption Allowance
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DFW ADOPTION,0,"1,194.00",Adoption Allowance
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DFW ADOPTION,0,"2,388.00",Adoption Allowance
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DMP ARENA TRADING LIMITED,0,"1,250.27",Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DURHAM CONSTABULARY,0,"2,000.00",Rent Of Facilities
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,DURHAM COUNTY COUNCIL (SCHOOLS' M I S),3079985,"4,700.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENHANCED HOME CARE SERVICES,3089587,"4,040.69",Independent Living
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENHANCED HOME CARE SERVICES,3088365,"4,030.68",Independent Living
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENHANCED HOME CARE SERVICES,3089587,"4,172.69",Independent Living
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENTERPRISE FLEX E RENT,0,"1,980.00",Vehicle Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENTERPRISE TRAVEL LTD,3087405,"1,375.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENTERPRISE TRAVEL LTD,3087404,"1,500.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENTERPRISE TRAVEL LTD,3087403,"1,375.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENTERPRISE TRAVEL LTD,3087409,"1,560.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENTERPRISE TRAVEL LTD,3087408,"1,440.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENTERPRISE TRAVEL LTD,3087407,"1,560.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ENTERPRISE TRAVEL LTD,3087406,"1,560.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FAIRFIELD HOUSE,3080438,"11,005.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FAIRFIELD HOUSE,3087358,"11,005.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FLEX SPACE,0,"1,159.00",Rent Of Facilities
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FLEX SPACE,0,883,Rent Of Facilities
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FLEX SPACE,0,560,Rent Of Facilities
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FOSTER CARE ASSOCIATES LTD,3088209,"1,998.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FOSTER CARES LTD,3082131,780,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FOSTER CARES LTD,3082131,780,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FOSTER CARES LTD,3082131,780,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FOSTERING SOLUTIONS LTD,3082132,"4,000.88",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FOSTERING SOLUTIONS LTD,3088503,664.26,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,FRONTLINE TAXIS LTD,0,"1,380.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,GARNETTS LTD,3087412,"1,488.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,GARNETTS LTD,3087413,"1,380.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,GARNETTS LTD,3087411,"2,112.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,HANDS-FREE COMPUTING,3089571,"1,280.00",Employee Training Course Costs
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,HANDS-FREE COMPUTING,3089570,620,Ict Software Purchase
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,HIGHFIELD (NORTH EAST) LIMITED,3080349,"11,292.85",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,HIGHFIELD (NORTH EAST) LIMITED,3089457,"10,960.71",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,HODGSONS COACH HIRE,3087417,"2,085.60",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,HODGSONS COACH HIRE,3087417,"1,137.60",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,HORIZONS SPECIALIST ACADEMY TRUST,3090708,500,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,INDEPENDENT CHILDCRE GROUP OF SCHOOLS LTD,3091473,"12,945.33",Independent Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,INDEPENDENT CHILDCRE GROUP OF SCHOOLS LTD,3091474,"12,666.66",Independent Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087361,"1,313.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087427,"1,313.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087426,"1,469.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087424,"1,469.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087421,"1,733.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087423,"1,439.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087428,"1,439.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087420,"1,733.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087360,"1,313.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087422,"1,469.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087425,"1,469.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,J & C COACHES LTD,3087359,"1,313.40",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,JEFF ANDERSON COACHES LIMITED,3087397,869.88,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,JIM MURDOCH,3091120,"1,631.88",Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,MACS TAXIS,3087364,840,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,MACS TAXIS,3087363,638.4,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,MACS TAXIS,3087649,960.96,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,MACS TAXIS,3087362,960,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,MIDDLESBROUGH BOROUGH COUNCIL,3090257,700,Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,NORTHWOOD PRIMARY SCHOOL,3089439,600,Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,NORTHWOOD PRIMARY SCHOOL,3088972,"1,200.00",Other Supplies & Services
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,NPOWER NORTHERN FINANCE,0,"1,034.25",Electricity
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,NPOWER NORTHERN FINANCE,0,"3,272.61",Electricity
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,OCR  (CAMBRIDGE & BIRMINGHAM),0,524.2,Exam Fees
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ORCHARD CARE NORTH EAST LTD,3090081,"1,400.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ORCHARD CARE NORTH EAST LTD,3090082,"1,460.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ORCHARD CARE NORTH EAST LTD,3090083,"1,460.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,OUTDOOR-AMBITION LTD,0,"1,280.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,OUTDOOR-AMBITION LTD,0,"1,120.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,OUTDOOR-AMBITION LTD,3091132,"7,000.00",Independent Living
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,PARKSIDE CHILDCARE,3089321,565.47,Childcare
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,PARKSIDE CHILDCARE,3089322,502.64,Childcare
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,PATTISON COACH HIRE,3087366,900,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,PATTISON COACH HIRE,3087432,"1,068.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,PEARTREE PROJECTS LTD,3080450,"14,048.40",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,PEARTREE PROJECTS LTD,3080449,"14,047.43",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,PEBBLES CARE,3084081,"11,071.43",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,PERSONAL BEST LIFE COACHING,3090444,"2,148.00",Employee Training Course Costs
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,REACH OUT CARE LIMITED NO 2 A/C,3081795,"2,676.47",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,REACH OUT CARE LIMITED NO 2 A/C,3081791,"3,148.79",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,REACH OUT CARE LIMITED NO 2 A/C,3081793,"2,762.10",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,REACH OUT CARE LIMITED NO 2 A/C,3081792,"2,762.10",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,REACH OUT CARE LIMITED NO 2 A/C,3081796,"2,608.65",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,REACH OUT CARE LIMITED NO 2 A/C,3081794,"2,608.65",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,REACH OUT CARE LIMITED NO 2 A/C,3081797,"2,676.47",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,RIGHT TRAX LTD,3091841,900,Independent Living
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROCSOLID,3086781,543.19,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROCSOLID,3090349,"2,059.62",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROCSOLID,3086781,"2,036.84",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROCSOLID,3086781,"2,104.79",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROSEDENE NURSERY,3091024,616,Childcare
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROSEDENE NURSERY,3091024,770,Childcare
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROSEDENE NURSERY,3091024,648,Childcare
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROSEDENE NURSERY,3091024,640,Childcare
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ROSEDENE NURSERY,3091024,720,Childcare
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,RS INDEPENDENT SOCIAL WORK LIMITED,0,"1,292.70",Fostering Allowance
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087639,675,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087399,979.2,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,0,"1,140.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087343,"1,200.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087342,759,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087344,672,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087345,"1,321.20",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087640,578.88,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,0,730,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087398,600,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087348,600,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087341,759,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087346,889.2,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,S & R CARS LTD,3087347,892.98,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SHAUN QUINN,3082912,"1,444.15",Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SHAUN QUINN,3091121,"1,469.55",Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SIMON HART,3088736,"1,568.45",Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SOUTHWAY @ THE RODILLIAN ACADEMY,3083199,"1,056.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ST CUTHBERTS CARE,3080461,"27,964.29",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ST CUTHBERTS CARE,3090812,"1,018.28",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ST CUTHBERTS CARE,3090813,975.86,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,ST CUTHBERTS CARE,3090811,"1,131.43",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUNNYSIDE ACADEMY,3091949,"3,026.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUNNYSIDE ACADEMY,3091948,"3,026.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTING INDEPENDENCE OUTREACH SERVICES LTD,3090652,"5,000.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTING INDEPENDENCE OUTREACH SERVICES LTD,3090652,"3,500.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTING INDEPENDENCE OUTREACH SERVICES LTD,3090652,"3,500.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTING INDEPENDENCE OUTREACH SERVICES LTD,3090653,"3,142.86",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTING INDEPENDENCE OUTREACH SERVICES LTD,3090652,"15,500.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTING INDEPENDENCE OUTREACH SERVICES LTD,3090653,"9,742.86",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTING INDEPENDENCE OUTREACH SERVICES LTD,3090653,"2,200.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTIVE SRC LTD,0,"2,217.71",Client Travel Costs
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SUPPORTIVE SRC LTD,0,542,Client Travel Costs
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3088519,780.01,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3083200,780.01,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3088519,780.01,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3088519,780.01,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082153,831.32,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082155,800.03,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082153,831.32,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082154,730.03,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082153,831.32,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082154,730.03,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082155,800.03,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3090084,730.03,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082155,800.03,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3082154,730.03,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3083200,780.01,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,SWIIS FOSTER CARE LTD,3083200,780.01,External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,THE KAIZEN PARTNERSHIP,0,768,Course Purchase
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,THE LEAVING CARE COMPANY ( ASPIRATIONS) LIVERPOOL,3089597,"6,833.33",Independent Living
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,THE OPEN UNIVERSITY,0,"2,200.00",Employee Training Course Costs
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,THOMAS BARRETT,3087340,617.74,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITE LTD,3091065,549,Professional Fees & Consultancy
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3087386,726.27,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,0,"2,063.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3087438,557.76,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3090144,703.72,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3087373,526.8,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3087437,552,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,0,"2,904.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,0,"1,110.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3089981,720,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3088075,576,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3091294,660,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3091294,660,Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,UNITED TAXIS LTD,3087371,"1,320.00",Contract Hire
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,XMA LIMITED,3085674,616.99,Ict Hardware Purchase
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,YJB - YOUTH JUSTICE BOARD,0,"1,062.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,YJB - YOUTH JUSTICE BOARD,0,"2,832.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,YJB - YOUTH JUSTICE BOARD,0,"1,416.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,YJB - YOUTH JUSTICE BOARD,0,"3,894.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,YJB - YOUTH JUSTICE BOARD,0,"5,310.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,YJB - YOUTH JUSTICE BOARD,0,"5,310.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,YJB - YOUTH JUSTICE BOARD,0,"5,310.00",External Placements
+INSERTED DETAIL,,Children's Services,Service Director - Children's Services,YJB - YOUTH JUSTICE BOARD,0,"5,487.00",External Placements
+INSERTED DETAIL,,Capital,Capital,APEC ENVIRONMENTAL,3082929,650,Consultants - Other
+INSERTED DETAIL,,Capital,Capital,APEC ENVIRONMENTAL,3080279,"2,350.00",Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,ARCHAEOLOGICAL RESEARCH SERVICES LTD,3087953,"1,070.00",Consultants - Other
+INSERTED DETAIL,,Capital,Capital,ARRIVA NORTH EAST LIMITED,3083203,"2,246.05",Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,ARRIVA NORTH EAST LIMITED,3083203,"2,323.50",Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,AVOCA CONSULTING ENGINEERS,3088989,"5,737.50",Payments Main Contractor - Non Dlo
+INSERTED DETAIL,,Capital,Capital,B & Q PLC,3089207,670.83,Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,B & Q PLC,3089207,735.83,Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,B & Q PLC,3089207,505,Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,B & Q PLC,3089207,691.47,Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,BAKER MALLETT LLP,3090834,500,Consultants - Other
+INSERTED DETAIL,,Capital,Capital,BGP CONSULTING LIMITED,3091659,"1,625.00",Consultants - Other
+INSERTED DETAIL,,Capital,Capital,BGP CONSULTING LIMITED,3088253,"7,400.00",Payments Main Contractor - Non Dlo
+INSERTED DETAIL,,Capital,Capital,BGP CONSULTING LIMITED,3090441,"9,125.00",Consultants - Other
+INSERTED DETAIL,,Capital,Capital,BOND DICKINSON,3091828,"2,789.50",Legal Fees
+INSERTED DETAIL,,Capital,Capital,BRITISH GAS SERVICES LTD,3062900,"26,585.06",Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,DESCO,3074610,500,Consultants - Other
+INSERTED DETAIL,,Capital,Capital,GVA GRIMLEY LTD,3088755,"1,250.00",Consultants - Other
+INSERTED DETAIL,,Capital,Capital,KEEPMOAT REGENERATION LTD,3090792,"3,279.55",Capitalised Repairs
+INSERTED DETAIL,,Capital,Capital,LIDGET COMPTON LTD,3090542,"9,450.00",Stamp Duty
+INSERTED DETAIL,,Capital,Capital,LIQUID LOGIC,0,"1,000.00",It Software
+INSERTED DETAIL,,Capital,Capital,LIQUID LOGIC,3084681,"1,000.00",It Software
+INSERTED DETAIL,,Capital,Capital,MASTERDOR  LTD,3089334,"1,332.05",Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,MASTERDOR  LTD,3089334,555.52,Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,MASTERDOR  LTD,3088898,"1,938.99",Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,MGL (DEMOLITION) LTD,3065306,"8,312.46",Payments Main Contractor - Non Dlo
+INSERTED DETAIL,,Capital,Capital,MGL (DEMOLITION) LTD,3065306,"8,312.46",Payments Main Contractor - Non Dlo
+INSERTED DETAIL,,Capital,Capital,MRC ROADS LIMITED,3091196,"4,550.00",Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,MRC ROADS LIMITED,3091196,"1,841.00",Other Contractor Payments
+INSERTED DETAIL,,Capital,Capital,NEPRO LIMITED,0,500,Consultants - Other
+INSERTED DETAIL,,Capital,Capital,NORTHERN POWERGRID (NORTHEAST) LTD,3087199,"2,218.36",Dlo Contractor Payments
+INSERTED DETAIL,,Capital,Capital,PARSONS BRINCKERHOFF,3089920,740.54,Planning Fees
+INSERTED DETAIL,,Capital,Capital,PRIESTMAN SANGSTER BUILDERS,0,"8,347.00",Building Purchase
+INSERTED DETAIL,,Capital,Capital,RLF BUILDING FUTURES,0,"4,774.00",Consultants - Other
+INSERTED DETAIL,,Capital,Capital,SCHMUCK WHORLTON LTD,3090459,"2,925.00",Consultants - Other
+INSERTED DETAIL,,Capital,Capital,SCHMUCK WHORLTON LTD,3090459,825,Consultants - Other
+INSERTED DETAIL,,Capital,Capital,SCHOTT REMOVALS TRANSPORT LTD,3086430,784,Removals
+INSERTED DETAIL,,Capital,Capital,SIS (UK) LTD,0,"28,767.57",Payments Main Contractor - Non Dlo
+INSERTED DETAIL,,Capital,Capital,THEATRE HULLABALOO,0,"7,741.89",Fees - Other
+INSERTED DETAIL,,Capital,Capital,WILLMOTT DIXON CONSTRUCTION LTD,3084770,"652,539.17",Payments Main Contractor - Non Dlo
+detail,,Capital,Capital,WILLMOTT DIXON CONSTRUCTION LTD,3084770,"164,922.73",Payments Main Contractor - Non Dlo

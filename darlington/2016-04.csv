@@ -1,0 +1,101 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Darlington Borough Council</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><!--makes IE use latest rendering engine-->
+    <meta name="keywords" content="Darlington Borough Council, 404, page not found">
+    <meta name="description" content="Darlington Borough Council, the requested page cannot be found">
+    <style>
+        body {
+            color: #605d5d;
+            font-family: Arial, Helvetica, sans-serif;
+            /*font-size: 24px;*/
+        }
+
+        .content {
+            margin: 0 auto;
+            max-width: 800px;
+			padding: 10px 15px;
+        }
+
+        span.internal500 {
+            color: #d60404;
+            font-size: 70px;
+            padding: 25px 15px;
+        }
+
+        .header {
+            background: black;
+            display: block;
+            height: 70px;
+            padding: 5px;
+            /*width: 100%;*/
+        }
+
+            .header h1 {
+                color: white;
+                font-weight: 400;
+                margin-top: 5px;
+            }
+
+        .message {
+            font-size: 40px;
+            margin-top: 5px;
+        }
+
+		label{
+			font-weight: 600;
+		}
+
+        #gcsInput {
+            border: 1px solid #b9b9b9;
+			border-radius: 4px;
+			height: 30px;
+			margin-bottom: 10px;
+			padding: 5px;
+            width: 340px;
+        }
+
+		#search404Button {
+			background: #217981;
+			border: 1px solid #19595f;
+			border-radius: 4px;
+			color: #fff;
+			height: 30px;
+		}
+
+		#search404Button:hover {
+			background: #185b62;
+			cursor: pointer;
+		}
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Darlington.gov.uk</h1>
+    </div>
+
+    <div class="content">
+        <span class="internal500">404 - Page Not Found</span>
+        <p>
+            The following page cannot be found: <strong>April 2016 revised.csv</strong>
+        </p>
+        <form action="/Search" method="get">
+
+            <label for="gcsInput">Search darlington.gov.uk</label>
+            <input id="gcsInput" type="search" name="query" value="April 2016 revised.csv" />
+            <input type="submit" value="Search" id="search404Button"/>
+        </form>
+        <p>This issue has been logged, but if you'd like to contact us about it, email us at <a href="mailto:mydarlington@darlington.gov.uk?subject=404 - https://www.darlington.gov.uk/404?404;https://www.darlington.gov.uk/media/1455036/April_2016_revised.csv&body=I was unable to access https://www.darlington.gov.uk/404?404;https://www.darlington.gov.uk/media/1455036/April_2016_revised.csv">mydarlington@darlington.gov.uk</a>.</p>
+        <p><a href="https://www.darlington.gov.uk">Back to home page.</a></p>
+        <p>DBC Web Team</p>
+        <p><a href="https://www.darlington.gov.uk"><img src="/images/dbc-logo-colour.png?width=100" alt="Darlington Borough Council Logo" /></a></p>
+    </div>
+</body>
+</html>

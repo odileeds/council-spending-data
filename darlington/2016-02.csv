@@ -1,0 +1,1017 @@
+,,Darlington Borough Council - Analysis of Transactions Over £500,,,,,
+,,Feb-16,,,,,
+,,,,,,,
+,,,,,,,
+columns,,text description,text servdesc,apar_name,order_id,amount,accdesc
+,,Directorate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account
+INSERTED DETAIL,,Resources Group,Resources,DECLAN HALL,3077956,"4,134.59",Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Resources,DR SUSAN COOPER,3078269,746.3,Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Resources,IDOX SOFTWARE LTD,3077910,"3,500.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Resources,JANINE RICHARDS,3078280,"1,100.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Resources,JANINE RICHARDS,3077912,"1,100.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Resources,MICHAEL PAGE INTERNATIONAL,3078628,"1,365.00",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Resources Group,Resources,MICHAEL PAGE INTERNATIONAL,3069451,"1,417.50",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Resources Group,Resources,MISS FIONA MCREDDIE,3078278,"1,000.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Resources,NEWSQUEST MEDIA GROUP,3076911,539.72,Marketing & Advertising
+INSERTED DETAIL,,Resources Group,Resources,NORTHGATE PUBLIC SERVICES (UK) LTD,3064412,529,Other Supplies & Services
+INSERTED DETAIL,,Resources Group,Resources,NORTHGATE PUBLIC SERVICES (UK) LTD,3064412,814.2,Other Supplies & Services
+INSERTED DETAIL,,Resources Group,Resources,PRIMARY PUBLISHING TEESSIDE LTD,3078294,"1,190.00",Marketing & Advertising
+INSERTED DETAIL,,Resources Group,Resources,ROYAL MAIL NORTH EAST,0,988.14,Postages
+INSERTED DETAIL,,Resources Group,Resources,ROYAL MAIL NORTH EAST,0,"1,411.22",Postages
+INSERTED DETAIL,,Resources Group,Resources,ROYAL MAIL NORTH EAST,0,"1,091.19",Postages
+INSERTED DETAIL,,Resources Group,Resources,WHISTL UK LIMITED,0,"1,184.18",Postages
+INSERTED DETAIL,,Resources Group,Resources,WHISTL UK LIMITED,0,"1,609.95",Postages
+INSERTED DETAIL,,Resources Group,Resources,WHISTL UK LIMITED,0,"1,660.99",Postages
+INSERTED DETAIL,,Resources Group,Resources,WHISTL UK LIMITED,0,"1,177.85",Postages
+INSERTED DETAIL,,Resources Group,Resources,WHISTL UK LIMITED,0,690.47,Postages
+INSERTED DETAIL,,Resources Group,Resources,WHISTL UK LIMITED,0,"1,174.25",Postages
+INSERTED DETAIL,,Resources Group,Resources,WHISTL UK LIMITED,0,"1,336.41",Postages
+INSERTED DETAIL,,Resources Group,Resources,WHISTL UK LIMITED,0,"1,429.52",Postages
+INSERTED DETAIL,,Resources Group,Finance,CIPFA,3076129,"1,560.00",Subscriptions
+INSERTED DETAIL,,Resources Group,Finance,ERNST & YOUNG LLP,3075276,"25,544.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Finance,PRICE WATERHOUSE COOPERS,3058985,"18,080.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Finance,SECURICOR CASH SERVICES LTD,0,"1,002.21",Security Services
+INSERTED DETAIL,,Resources Group,ICT,BT TELEPHONE PAYMENT CENTRE,0,"2,941.83",Telephone Costs
+INSERTED DETAIL,,Resources Group,ICT,BT TELEPHONE PAYMENT CENTRE,0,697.85,Telephone Costs
+INSERTED DETAIL,,Resources Group,ICT,DAISY COMMUNICATIONS LTD,0,"7,072.10",Telephone Costs
+INSERTED DETAIL,,Resources Group,ICT,VIRGIN MEDIA BUSINESS LIMITED,0,"4,277.11",Telephone Costs
+INSERTED DETAIL,,Resources Group,Human resources management,BOND DICKINSON,3065636,900,Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Human resources management,CASTLE GROUP LTD,3077461,746.75,Service & Repairs
+INSERTED DETAIL,,Resources Group,Human resources management,DISCLOSURE & BARRING SERVICE,0,"2,700.00",DBS Checks
+INSERTED DETAIL,,Resources Group,Human resources management,DISCLOSURE & BARRING SERVICE,0,"2,356.00",DBS Checks
+INSERTED DETAIL,,Resources Group,Human resources management,MEDACS HEALTHCARE PLC,3067011,"7,765.52",Professional Fees & Consultancy
+INSERTED DETAIL,,Resources Group,Human resources management,SYD STRIKE TRAINING SOLUTIONS,3078081,520,Employee Training Course Costs
+INSERTED DETAIL,,Resources Group,Human resources management,THE CONFLICT TRAINING COMPANY,3076313,845,Employee Training Course Costs
+INSERTED DETAIL,,Resources Group,Transformation,AIRCON REFRIGERATION LTD,3067740,510,Cyclical - Air Conditioning
+INSERTED DETAIL,,Resources Group,Transformation,ARROW INDUSTRIAL GROUP LTD,3075636,"1,503.00",Repairs - Door Entry System
+INSERTED DETAIL,,Resources Group,Transformation,ARROW INDUSTRIAL GROUP LTD,3075863,810,Repairs - Door Entry System
+INSERTED DETAIL,,Resources Group,Transformation,BGP CONSULTING LIMITED,3075991,775,Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,COMBINED POWER (SOUTH) LTD,0,"2,633.88",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"6,248.53",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"16,703.87",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"1,068.63",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"1,571.11",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"1,947.26",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"3,963.09",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"1,719.71",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,952.5,Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"1,612.85",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,"1,785.58",Gas
+INSERTED DETAIL,,Resources Group,Transformation,CORONA ENERGY LTD,0,584.83,Gas
+INSERTED DETAIL,,Resources Group,Transformation,CROSSLING LTD,3077386,805.2,Repairs - Mechanical
+INSERTED DETAIL,,Resources Group,Transformation,DARLINGTON SCAFFOLDING LTD,3077390,"2,624.00",Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,DURHAM COUNTY COUNCIL,3073831,"3,835.60",Repairs - Lifts
+INSERTED DETAIL,,Resources Group,Transformation,EASBY FLOORING LTD,3074187,925.28,Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,ELECTRONIC SECURITY SOLUTIONS LTD,3075187,"2,175.00",Repairs - Electrical
+INSERTED DETAIL,,Resources Group,Transformation,FRANCIS CONSTRUCTION,3077870,"2,200.00",Building Repairs And Maintenance
+INSERTED DETAIL,,Resources Group,Transformation,FRANCIS CONSTRUCTION,3077870,"1,833.33",Building Repairs And Maintenance
+INSERTED DETAIL,,Resources Group,Transformation,FRANCIS CONSTRUCTION,3074449,"5,000.00",Building Repairs And Maintenance
+INSERTED DETAIL,,Resources Group,Transformation,FRANCIS CONSTRUCTION,3074449,"4,166.67",Building Repairs And Maintenance
+INSERTED DETAIL,,Resources Group,Transformation,FRANCIS CONSTRUCTION,3078378,633.33,Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,HAYLES & HOWE LTD,3075642,"2,032.25",Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,HAYLES & HOWE LTD,3075640,"1,448.75",Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,HAYLES & HOWE LTD,3075641,"2,031.25",Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,INSIGHT DIRECT (UK) LTD,3077565,533.92,Ict Hardware Purchase
+INSERTED DETAIL,,Resources Group,Transformation,INTEGRATED UTILITY SERVICES,3077159,597,Repairs - Electrical
+INSERTED DETAIL,,Resources Group,Transformation,LLOYDS BRITISH TESTING CO LTD,3077234,680,Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,LLOYDS BRITISH TESTING CO LTD,3077811,700,Repairs - Lifts
+INSERTED DETAIL,,Resources Group,Transformation,MITIE PROPERTY SERVICES (NORTH EAST) LTD,3074649,"2,565.00",Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,NORTHUMBRIAN WATER,0,637.06,Water Charges
+INSERTED DETAIL,,Resources Group,Transformation,NORTHUMBRIAN WATER,0,"2,124.62",Water Charges
+INSERTED DETAIL,,Resources Group,Transformation,NORTHUMBRIAN WATER,0,"1,358.68",Water Charges
+INSERTED DETAIL,,Resources Group,Transformation,NORTHUMBRIAN WATER,0,"3,786.08",Water Charges
+INSERTED DETAIL,,Resources Group,Transformation,NORTHUMBRIAN WATER,0,"3,288.68",Water Charges
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"1,565.87",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,553.28,Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,651.22,Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,969.86,Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"1,069.66",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"2,505.27",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,808.47,Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"3,648.37",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"1,189.11",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,878.22,Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"24,432.18",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,876.28,Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,862.81,Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"1,188.15",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"10,559.98",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"2,504.97",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"1,474.27",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN FINANCE,0,"2,773.56",Electricity
+INSERTED DETAIL,,Resources Group,Transformation,NPOWER NORTHERN LTD,0,700,Electricity
+INSERTED DETAIL,,Resources Group,Transformation,PICKERINGS EUROPE LTD,3075395,"3,540.60",Repairs - Lifts
+INSERTED DETAIL,,Resources Group,Transformation,PICKERINGS EUROPE LTD,3075395,"8,851.50",Repairs - Lifts
+INSERTED DETAIL,,Resources Group,Transformation,PORTABLE APPLIANCE SAFETY SERVICES,3077376,"1,245.50",Equipment
+INSERTED DETAIL,,Resources Group,Transformation,SMITH OF DERBY LTD,3076943,974,Repairs - Building Fabric
+INSERTED DETAIL,,Resources Group,Transformation,T P S BOILER SPARES,3077782,539.13,Repairs - Mechanical
+INSERTED DETAIL,,Resources Group,Transformation,YESSS ELECTRICAL,3077416,"1,358.50",Repairs - Mechanical
+INSERTED DETAIL,,Resources Group,DLO Services,BUNZL CLEANING & HYGIENE SUPPLIES,3077431,"1,084.36",Other Consumables
+INSERTED DETAIL,,Place,Building Design Services,BAKER MALLETT LLP,3078190,"3,149.75",Consultancy Fees
+INSERTED DETAIL,,Place,Building Design Services,BAKER MALLETT LLP,3078190,"2,666.00",Consultancy Fees
+INSERTED DETAIL,,Place,Building Design Services,DE-POEL,0,893.1,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Building Design Services,DE-POEL,0,509.53,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Building Design Services,DE-POEL,0,875.93,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Building Design Services,DE-POEL,0,772.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Building Design Services,DE-POEL,0,738.53,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Building Design Services,DE-POEL,0,566.78,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Building Design Services,SPACE ARCHITECTURE (EUROPE) LTD,3078297,985.85,Consultancy Fees
+INSERTED DETAIL,,Place,Commercial Services,CSL DUALCOM LIMITED,3078560,"1,260.00",Equipment
+INSERTED DETAIL,,Place,Commercial Services,ELECTRONIC SECURITY SOLUTIONS LTD,3078655,"8,492.00",Equipment
+INSERTED DETAIL,,Place,Commercial Services,HULLEYS,0,634.5,Catering Provisions
+INSERTED DETAIL,,Place,Commercial Services,INDOOR OUTDOOR,0,"3,536.00",Other Supplies & Services
+INSERTED DETAIL,,Place,Commercial Services,INDOOR OUTDOOR,0,"3,198.00",Other Supplies & Services
+INSERTED DETAIL,,Place,Commercial Services,MATTHEW CLARK WHOLESALE LTD,0,839.11,Bar Provisions For Resale
+INSERTED DETAIL,,Place,Commercial Services,MATTHEW CLARK WHOLESALE LTD,0,973.81,Bar Provisions For Resale
+INSERTED DETAIL,,Place,Commercial Services,MATTHEW CLARK WHOLESALE LTD,0,593.07,Bar Provisions For Resale
+INSERTED DETAIL,,Place,Commercial Services,RICHARD STUBBS,3078663,500,Professional Fees & Consultancy
+INSERTED DETAIL,,Place,Commercial Services,STOBBS WHOLESALERS,0,529.72,Catering Provisions
+INSERTED DETAIL,,Place,Culture,ANDREA RAPER,3065840,504,Artist Payments
+INSERTED DETAIL,,Place,Culture,ARENA,0,"8,461.09",Artist Payments
+INSERTED DETAIL,,Place,Culture,ARTISTES INTERNATIONAL MANAGEMENT,0,"2,812.04",Artist Payments
+INSERTED DETAIL,,Place,Culture,BEYOND THE BARRICADE LIMITED,0,"5,000.00",Artist Payments
+INSERTED DETAIL,,Place,Culture,BEYOND THE BARRICADE LIMITED,0,"3,786.92",Artist Payments
+INSERTED DETAIL,,Place,Culture,BIBLIOGRAPHIC DATA SERVICE LTD (BDS),0,"1,450.00",Books
+INSERTED DETAIL,,Place,Culture,BRENNTAG UK & IRELAND,3077180,"2,238.21",Chemicals
+INSERTED DETAIL,,Place,Culture,BUNZL CLEANING & HYGIENE SUPPLIES,0,583.38,Cleaning Materials & Consumables
+INSERTED DETAIL,,Place,Culture,CLASSICAL EVENTS LTD,0,"16,000.00",Artist Payments
+INSERTED DETAIL,,Place,Culture,COCA COLA ENTERPRISES LTD,0,566.13,Bar Provisions For Resale
+INSERTED DETAIL,,Place,Culture,COCA COLA ENTERPRISES LTD,0,541.61,Bar Provisions For Resale
+INSERTED DETAIL,,Place,Culture,DEREK BLOCK CONCERT PROMOTIONS,0,"6,476.99",Artist Payments
+INSERTED DETAIL,,Place,Culture,DEREK BLOCK CONCERT PROMOTIONS,0,"12,000.00",Artist Payments
+INSERTED DETAIL,,Place,Culture,EASBY FLOORING LTD,3077264,"8,234.22",Other Supplies & Services
+INSERTED DETAIL,,Place,Culture,ENTERTAINERS SHOW PROVIDERS LTD,0,"7,936.18",Artist Payments
+INSERTED DETAIL,,Place,Culture,FAB-TECH ENGINEERING (UK) LTD,0,580,Building Repairs And Maintenance
+INSERTED DETAIL,,Place,Culture,FESTIVAL OF THRIFT CIC,3073010,"2,500.00",Projects
+INSERTED DETAIL,,Place,Culture,FESTIVAL OF THRIFT CIC,3077954,"2,500.00",Contributions/Donations
+INSERTED DETAIL,,Place,Culture,FIERY LIGHT PPS LTD,0,"13,156.95",Artist Payments
+INSERTED DETAIL,,Place,Culture,FIERY LIGHT PPS LTD,0,"30,000.00",Artist Payments
+INSERTED DETAIL,,Place,Culture,FLOWERS BY NATTRASS,0,968,Production Costs
+INSERTED DETAIL,,Place,Culture,FLYING ENTERTAINMENT LIMITED,0,"13,532.54",Artist Payments
+INSERTED DETAIL,,Place,Culture,G2 FIREWORKS,0,"1,500.00",Other Supplies & Services
+INSERTED DETAIL,,Place,Culture,KARCHER (UK) LTD,3078186,"1,300.00",Equipment
+INSERTED DETAIL,,Place,Culture,LIMELIGHT ENTERTAINMENT LTD,0,513,Merchandise Sales Paid To Others
+INSERTED DETAIL,,Place,Culture,LLOYDS BRITISH TESTING CO LTD,3078137,680,Building Repairs And Maintenance
+INSERTED DETAIL,,Place,Culture,LOUGHBOROUGH UNIVERSITY,0,"1,138.00",Books
+INSERTED DETAIL,,Place,Culture,M T AUDIO SYSTEMS,3078077,640,Production Costs
+INSERTED DETAIL,,Place,Culture,MATTHEW CLARK WHOLESALE LTD,0,"1,174.22",Bar Provisions For Resale
+INSERTED DETAIL,,Place,Culture,MITIE PROPERTY SERVICES (NORTH EAST) LTD,3077197,"2,040.00",Building Repairs And Maintenance
+INSERTED DETAIL,,Place,Culture,MITIE PROPERTY SERVICES (NORTH EAST) LTD,3077427,750,Building Repairs And Maintenance
+INSERTED DETAIL,,Place,Culture,MOUSETRAP ON TOUR LIMITED,0,"40,000.00",Artist Payments
+INSERTED DETAIL,,Place,Culture,NATIONWIDE WATERSLIDE SERVICES LTD,0,"1,850.00",Building Repairs And Maintenance
+INSERTED DETAIL,,Place,Culture,OXFORD UNIVERSITY PRESS,0,"2,278.00",Books
+INSERTED DETAIL,,Place,Culture,PARK PROMOTIONS LTD,0,"1,975.67",Artist Payments
+INSERTED DETAIL,,Place,Culture,PARK PROMOTIONS LTD,0,"9,000.00",Artist Payments
+INSERTED DETAIL,,Place,Culture,PELICAN ROUGE COFFEE SOLUTIONS LIMITED,0,745.01,Catering Provisions
+INSERTED DETAIL,,Place,Culture,PHOENIX SOFTWARE LTD,3077790,786.6,Ict Software Purchase
+INSERTED DETAIL,,Place,Culture,PHOENIX SOFTWARE LTD,3077789,922.84,Ict Software Purchase
+INSERTED DETAIL,,Place,Culture,PHOENIX SOFTWARE LTD,3077791,840.32,Ict Software Purchase
+INSERTED DETAIL,,Place,Culture,QDOS PANTOMIMES,0,"135,779.36",Artist Payments
+INSERTED DETAIL,,Place,Culture,READ - THE READING AGENCY,0,994.9,Books
+INSERTED DETAIL,,Place,Culture,RLF BUILDING FUTURES,3064675,885,Other Supplies & Services
+INSERTED DETAIL,,Place,Culture,SAVILLS (UK) LTD,0,"4,007.09",Rent Of Facilities
+INSERTED DETAIL,,Place,Culture,SCREENTECH,0,675,Equipment
+INSERTED DETAIL,,Place,Culture,SCREENTECH,0,"1,495.00",Equipment
+INSERTED DETAIL,,Place,Culture,STOBBS WHOLESALERS,0,578.56,Catering Provisions
+INSERTED DETAIL,,Place,Culture,TALKING SCARLET,0,"6,894.68",Artist Payments
+INSERTED DETAIL,,Place,Culture,TECHNOGYM UK LTD,0,"10,889.20",Equipment
+INSERTED DETAIL,,Place,Culture,THE BIG STUDIO,3077673,800,Artist Payments
+INSERTED DETAIL,,Place,Culture,THE BREAD & BUTTER THEATRE COMPANY,3077181,"1,300.00",Production Costs
+INSERTED DETAIL,,Place,Culture,THE HISTORY WARDROBE,0,500,Other Supplies & Services
+INSERTED DETAIL,,Place,Culture,THE TOURING CONSORTIUM LTD,0,900,Production Costs
+INSERTED DETAIL,,Place,Culture,THEATRICAL MANAGEMENT ASSOCIATION LTD,0,"1,455.00",Subscriptions
+INSERTED DETAIL,,Place,Culture,TRAVELZOO (EUROPE)LTD,0,"1,778.63",Artist Payments
+INSERTED DETAIL,,Place,Culture,VAMPIRES ROCK LIMITED,0,"4,352.75",Artist Payments
+INSERTED DETAIL,,Place,Culture,XMA LIMITED,3077795,777,Ict Hardware Purchase
+INSERTED DETAIL,,Place,Culture,XN LEISURE SYSTEMS LTD,3069975,"1,300.00",Other Supplies & Services
+INSERTED DETAIL,,Place,DLO Services,A S CROCKER (PLASTERERS) LIMITED,3077917,982.4,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,A S CROCKER (PLASTERERS) LIMITED,3067529,"1,705.00",Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,AT WAGGOTT HAULAGE,3074959,"4,251.00",Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,BEAVER84,3077432,"4,283.00",Materials
+INSERTED DETAIL,,Place,DLO Services,BEAVER84,3078131,"2,248.00",Materials
+INSERTED DETAIL,,Place,DLO Services,CROSSLING LTD,3077387,801.18,Materials
+INSERTED DETAIL,,Place,DLO Services,CROSSLING LTD,3077448,722.47,Materials
+INSERTED DETAIL,,Place,DLO Services,DARLINGTON SCAFFOLDING LTD,3076354,502,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,510.3,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,637.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,637.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,637.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,637.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,510.3,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,510.3,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,637.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,637.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,676.55,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,502.09,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,502.09,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,617.16,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,643.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,592.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,688.86,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,592.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,613.46,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,829.54,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,510.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,592.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,572.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,592.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,613.46,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,613.46,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,613.46,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,613.46,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,613.46,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,732.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,771.08,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,697.82,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,541.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,510.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,829.54,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,771.08,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,672.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,688.86,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,829.54,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,771.08,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,647.5,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,785.72,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,771.08,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,672.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,672.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,672.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,714.42,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,558.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,558.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,558.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,910,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,972.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,557.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,672.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,672.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,672.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,559.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,695.06,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,918.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,798.84,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,603.72,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,582.56,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,820.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,937.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,529.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,812.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,572.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,820.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,798.84,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,603.72,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,572.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,"1,062.84",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,529.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,812.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,572.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,798.84,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,603.72,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,582.56,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,820.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,885.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,529.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,812.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,572.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,778.75,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,558.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,602.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.74,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,580.5,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,820.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,798.84,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,603.72,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,854.44,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,529.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,812.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,812.16,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,629.37,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,572.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,782.18,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,782.18,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,782.18,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,845.6,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,634.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,ELDERS WALKER GLASS LTD,0,688.24,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,ESH CONSTRUCTION LIMITED,3077997,"47,750.00",Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,EXTERIOR LIGHTING SOLUTIONS LTD,3075607,"1,482.00",Materials
+INSERTED DETAIL,,Place,DLO Services,EXTERIOR LIGHTING SOLUTIONS LTD,3075411,909.2,Materials
+INSERTED DETAIL,,Place,DLO Services,EXTERIOR LIGHTING SOLUTIONS LTD,3075411,"1,363.80",Materials
+INSERTED DETAIL,,Place,DLO Services,EXTERIOR LIGHTING SOLUTIONS LTD,3075607,"5,466.75",Materials
+INSERTED DETAIL,,Place,DLO Services,GROUNDFORCE VP PLC,3076474,"3,160.00",Equipment
+INSERTED DETAIL,,Place,DLO Services,HAYS SPECIALIST SERVICES,3076196,"1,102.52",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,HAYS SPECIALIST SERVICES,3076196,"1,153.80",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,HAYS SPECIALIST SERVICES,3077955,599.05,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,HAYS SPECIALIST SERVICES,3077955,599.05,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,HAYS SPECIALIST SERVICES,3076196,"1,076.88",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,HAYS SPECIALIST SERVICES,0,"1,235.38",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,DLO Services,HIGHWAYS TRAINING ASSOCIATES LIMITED,3077981,"4,695.00",Employee Training Course Costs
+INSERTED DETAIL,,Place,DLO Services,JEWSON LTD,3077108,702.27,Materials
+INSERTED DETAIL,,Place,DLO Services,JEWSON LTD,3077096,960.48,Materials
+INSERTED DETAIL,,Place,DLO Services,LORD HIRE CENTRES,3077044,"1,695.00",Equipment Hire
+INSERTED DETAIL,,Place,DLO Services,LYTESTREAM ELECTRICAL CONTRACTORS,3077998,"1,309.48",Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,M H LAVERICK & PARTNERS,3071844,712,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,MACLEAN ELECTRICAL,3069489,"34,475.69",Materials
+INSERTED DETAIL,,Place,DLO Services,MACLEAN ELECTRICAL,3075419,"2,100.00",Materials
+INSERTED DETAIL,,Place,DLO Services,MACLEAN ELECTRICAL,3076402,884,Materials
+INSERTED DETAIL,,Place,DLO Services,MACLEAN ELECTRICAL,3072551,"72,214.42",Materials
+INSERTED DETAIL,,Place,DLO Services,MACLEAN ELECTRICAL,3069489,"23,573.43",Materials
+INSERTED DETAIL,,Place,DLO Services,MALLATITE LIMITED,3076108,"1,761.20",Materials
+INSERTED DETAIL,,Place,DLO Services,MKM BUILDING SUPPLIES (HULL) LTD,3077584,"5,390.10",Materials
+INSERTED DETAIL,,Place,DLO Services,MKM BUILDING SUPPLIES (HULL) LTD,3077584,"5,461.58",Materials
+INSERTED DETAIL,,Place,DLO Services,MKM BUILDING SUPPLIES (HULL) LTD,3077584,"3,005.00",Materials
+INSERTED DETAIL,,Place,DLO Services,MKM BUILDING SUPPLIES (HULL) LTD,3077403,"5,392.00",Materials
+INSERTED DETAIL,,Place,DLO Services,MKM BUILDING SUPPLIES (HULL) LTD,3071404,876.89,Materials
+INSERTED DETAIL,,Place,DLO Services,MKM BUILDING SUPPLIES (HULL) LTD,3077584,559.3,Materials
+INSERTED DETAIL,,Place,DLO Services,MKM BUILDING SUPPLIES (HULL) LTD,3077740,"5,462.30",Materials
+INSERTED DETAIL,,Place,DLO Services,MKM BUILDING SUPPLIES (HULL) LTD,3077402,"2,038.80",Materials
+INSERTED DETAIL,,Place,DLO Services,NORTHERN POWERGRID (NORTHEAST) LTD,3077984,610.7,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,PREMIER TRAFFIC MANAGEMENT,3065907,783.85,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,PREMIER TRAFFIC MANAGEMENT,3065907,"2,743.98",Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,PREMIER TRAFFIC MANAGEMENT,3065907,580.34,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,PREMIER TRAFFIC MANAGEMENT,3065907,522.57,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,PREMIER TRAFFIC MANAGEMENT,3065907,"3,067.94",Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,SOCIETE GENERALE EQUIPMENT FINANCE,0,"4,166.65",Leasing Charges
+INSERTED DETAIL,,Place,DLO Services,SOCIETE GENERALE EQUIPMENT FINANCE,0,"6,875.00",Leasing Charges
+INSERTED DETAIL,,Place,DLO Services,STEEL UNIQUE FABRICATIONS,3076648,510,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,549.9,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,725.2,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,640,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,549.9,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,540,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,600,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,600,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,588,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,549.9,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,T M WARD (DARLINGTON) LTD,3066648,563.5,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,TARMAC LTD,3077014,"31,404.61",Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,TODDS HIGHWAY MAINTENANCE LTD,3062753,860,Direct Charges - Contractors
+INSERTED DETAIL,,Place,DLO Services,TODDS HIGHWAY MAINTENANCE LTD,3065919,520,Materials
+INSERTED DETAIL,,Place,DLO Services,TODDS HIGHWAY MAINTENANCE LTD,3065919,520,Materials
+INSERTED DETAIL,,Place,DLO Services,TYNEDALE ROADSTONE LIMITED,3075424,697.88,Materials
+INSERTED DETAIL,,Place,DLO Services,TYNEDALE ROADSTONE LIMITED,3075424,"1,004.30",Materials
+INSERTED DETAIL,,Place,DLO Services,TYNEDALE ROADSTONE LIMITED,3075424,565.07,Materials
+INSERTED DETAIL,,Place,DLO Services,WERNICK HIRE LTD,3071447,553.55,Equipment
+INSERTED DETAIL,,Place,DLO Services,WM SMITH & SONS (BARNARD CASTLE) LTD,3077595,982.88,Materials
+INSERTED DETAIL,,Place,DLO Services,WM SMITH & SONS (BARNARD CASTLE) LTD,3077259,"2,414.23",Materials
+INSERTED DETAIL,,Place,Environmental Services,CLOTHES AID (SERVICES) LTD,0,615.95,Refuse Services
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,525.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,525.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,525.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,529.1,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,529.1,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,525.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,529.1,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,529.1,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,525.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,529.1,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DE-POEL,0,525.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Environmental Services,DURHAM WILDLIFE TRUST,3074679,"1,164.17",Other Consumables
+INSERTED DETAIL,,Place,Environmental Services,EGBERT H TAYLOR & COMPANY LIMITED,3077094,"3,211.44",Litter Bins
+INSERTED DETAIL,,Place,Environmental Services,GROUNDWORK NORTH EAST,3074161,"1,266.58",3Rd Part Apprentices
+INSERTED DETAIL,,Place,Environmental Services,PHS GROUP,0,526.36,Refuse Services
+INSERTED DETAIL,,Place,Environmental Services,STONEGRAVE AGGREGATES LTD,3068970,"5,979.09",Waste Management
+INSERTED DETAIL,,Place,Environmental Services,STONEGRAVE AGGREGATES LTD,3068970,"252,525.97",Waste Management
+INSERTED DETAIL,,Place,Environmental Services,STONEGRAVE AGGREGATES LTD,3068970,"7,915.05",Waste Management
+INSERTED DETAIL,,Place,Environmental Services,STONEGRAVE AGGREGATES LTD,3068970,"247,220.72",Waste Management
+INSERTED DETAIL,,Place,Environmental Services,STONEGRAVE AGGREGATES LTD,0,"14,724.60",Waste Management
+INSERTED DETAIL,,Place,Environmental Services,STONEGRAVE AGGREGATES LTD,3073186,950,Equipment Hire
+INSERTED DETAIL,,Place,Environmental Services,THE PHOENIX PARTNERSHIP,3078534,821,Equipment R&M
+INSERTED DETAIL,,Place,Environmental Services,THE PHOENIX PARTNERSHIP,3078492,671,Equipment R&M
+INSERTED DETAIL,,Place,Environmental Services,WINTER SERVICE SOLUTIONS,3077855,830.33,Other Consumables
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,643.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,643.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,541.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,643.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,785.2,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,643.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,558.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,558.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,643.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,643.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,671.95,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,558.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,643.03,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,534.65,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,DE-POEL,0,671.95,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Highway Asset Management,NPOWER NORTHERN FINANCE,0,"1,049.18",Electricity
+INSERTED DETAIL,,Place,Highway Asset Management,NPOWER NORTHERN FINANCE,0,"1,609.68",Electricity
+INSERTED DETAIL,,Place,Highway Asset Management,NPOWER NORTHERN LTD,0,"50,237.87",Electricity
+INSERTED DETAIL,,Place,Highway Network Management,DIRECT SIGNS (NORTHERN) LTD,3078083,660,Building Repairs And Maintenance
+INSERTED DETAIL,,Place,Highway Network Management,NEWSQUEST MEDIA GROUP,3077812,"1,243.35",Traffic Management
+INSERTED DETAIL,,Place,Highway Network Management,NORTHUMBRIAN WATER,0,625.62,Water Charges
+INSERTED DETAIL,,Place,Highway Network Management,NPOWER NORTHERN LTD,0,"1,400.00",Electricity
+INSERTED DETAIL,,Place,Policy & Regeneration Management,VALUATION OFFICE AGENCY,3078001,"1,200.00",Consultancy Fees
+INSERTED DETAIL,,Place,Policy & Regeneration Management,YORK AVIATION LLP,3072166,"10,000.00",Consultancy Fees
+INSERTED DETAIL,,Place,Programme & Projects,ESP SYSTEX,3076696,"6,855.89",Professional Fees & Consultancy
+INSERTED DETAIL,,Place,Programme & Projects,ITHICA FILMS,0,"1,750.00",Marketing & Advertising
+INSERTED DETAIL,,Place,Regulatory Services,DAAC LIMITED,3078282,"5,000.00",Other Supplies & Services
+INSERTED DETAIL,,Place,Regulatory Services,EQUITA LTD,3077687,525,Car Parking Permits
+INSERTED DETAIL,,Place,Regulatory Services,HMCTS,3078952,"2,000.00",Other Supplies & Services
+INSERTED DETAIL,,Place,Regulatory Services,INSTITUTE OF ACOUSTICS,3078253,"1,220.00",Employee Training Course Costs
+INSERTED DETAIL,,Place,Regulatory Services,KILLGERM CHEMICALS LTD,3077620,812.04,Pest Control
+INSERTED DETAIL,,Place,Regulatory Services,MOGO UK,3077585,791.9,Equipment
+INSERTED DETAIL,,Place,Regulatory Services,NES SERVICES LTD,3072259,981.84,Security Services
+INSERTED DETAIL,,Place,Regulatory Services,NSL LIMITED,3066092,"3,137.40",Security Services
+INSERTED DETAIL,,Place,Regulatory Services,PATROL,3077589,"1,414.40",Other Supplies & Services
+INSERTED DETAIL,,Place,Regulatory Services,PAY BY PHONE,3069513,940.59,Ict Software Support & Maintenance
+INSERTED DETAIL,,Place,Regulatory Services,WPS UNITED KINGDOM LTD,3076515,"3,002.00",Equipment R&M
+INSERTED DETAIL,,Place,Strategy & Commissioning,IDOX SOFTWARE LTD,3077207,"1,900.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Place,Strategy & Commissioning,NORTH EAST BUSINESS & INNOVATION CENTRE LTD,0,574.5,Hospitality & Room Hire
+INSERTED DETAIL,,Place,Transport & Building Cleaning,CHATFIELDS TYNE TEES,0,832.21,Materials
+INSERTED DETAIL,,Place,Transport & Building Cleaning,DARLINGTON CAR & COMMERCIAL RECOVERY,0,540,Materials
+INSERTED DETAIL,,Place,Transport & Building Cleaning,DENNIS EAGLE LTD,0,"1,057.86",Materials
+INSERTED DETAIL,,Place,Transport & Building Cleaning,DE-POEL,0,569.8,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Transport & Building Cleaning,FAUN ZOELLER UK LIMITED,0,"1,282.48",Materials
+INSERTED DETAIL,,Place,Transport & Building Cleaning,FUCHS LUBRICANTS UK PLC,0,"1,440.00",Materials
+INSERTED DETAIL,,Place,Transport & Building Cleaning,HARVEST ENERGY,3078363,"17,477.59",Vehicle Fuel
+INSERTED DETAIL,,Place,Transport & Building Cleaning,HARVEST ENERGY,3077823,"16,267.60",Vehicle Fuel
+INSERTED DETAIL,,Place,Transport & Building Cleaning,HARVEST ENERGY,3077185,"16,027.20",Vehicle Fuel
+INSERTED DETAIL,,Place,Transport & Building Cleaning,NORTH EAST TRUCK & VAN LTD,0,727.12,Materials
+INSERTED DETAIL,,Place,Transport & Building Cleaning,PKR ASSOCIATES,0,"6,300.00",Consultancy Fees
+INSERTED DETAIL,,Place,Transport & Building Cleaning,TECALEMIT GARAGE EQUIPMENT CO LTD,3077413,"2,533.05",Routine Maintenance
+INSERTED DETAIL,,Place,Transport & Building Cleaning,TERBERG MATEC UK LTD,0,570.19,Materials
+INSERTED DETAIL,,Place,Housing,CRITIQOM LIMITED,3078183,547.2,Stationery
+INSERTED DETAIL,,Place,Housing,CRITIQOM LIMITED,3078183,547.2,Stationery
+INSERTED DETAIL,,Place,Housing,DE-POEL,0,868.77,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Housing,DE-POEL,0,668.82,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Housing,DE-POEL,0,820.51,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Housing,DE-POEL,0,875.67,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Housing,KINGS CHURCH DARLINGTON,3065871,"3,057.97",Crisis Support
+INSERTED DETAIL,,Place,Housing,NEWCASTLE CITY COUNCIL,3065862,"2,905.31",Community Care Support
+INSERTED DETAIL,,Place,Housing,NEWCASTLE CITY COUNCIL,3065862,"1,933.31",Community Care Support
+INSERTED DETAIL,,Place,Housing,NORTHGATE PUBLIC SERVICES (UK) LTD,3077672,"1,500.00",Ict Hardware Support & Maintenance
+INSERTED DETAIL,,Place,Housing,NORTHGATE PUBLIC SERVICES (UK) LTD,3078241,500,Conferences & Seminars
+INSERTED DETAIL,,Place,Housing,NORTHUMBRIAN WATER,0,"1,618.86",Discount On Collection - Nwl
+INSERTED DETAIL,,Place,Housing,THE FURNISHING SERVICE (ENGLAND),3070864,518.01,Community Care Support
+INSERTED DETAIL,,Place,Housing,TURNAROUND HOMES,0,930,Board & Lodgings For Homeless Clients
+INSERTED DETAIL,,Place,Housing Revenue Account,ARCUS CONSULTING LLP,3073359,937.5,Responsive - Void E.P.C.
+INSERTED DETAIL,,Place,Housing Revenue Account,BCS PRESERVATION LIMITED,3065346,530,Responsive Repairs (General)
+INSERTED DETAIL,,Place,Housing Revenue Account,BCS PRESERVATION LIMITED,3076965,"1,046.00",Responsive Repairs (General)
+INSERTED DETAIL,,Place,Housing Revenue Account,BCS PRESERVATION LIMITED,0,695,Responsive Repairs (General)
+INSERTED DETAIL,,Place,Housing Revenue Account,BCS PRESERVATION LIMITED,3076965,743,Responsive Repairs (General)
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,865.49,Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,"1,455.92",Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,"1,649.24",Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,"2,175.21",Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,856.05,Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,"1,725.06",Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,"1,965.30",Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,"1,682.37",Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,CORONA ENERGY LTD,0,669.2,Gas
+INSERTED DETAIL,,Place,Housing Revenue Account,DE-POEL,0,606.06,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Housing Revenue Account,DE-POEL,0,571.89,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Housing Revenue Account,DE-POEL,0,626.4,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,Place,Housing Revenue Account,GOLDSHIELD ELECTRONIC SECURITY LTD,3073980,735,Equipment
+INSERTED DETAIL,,Place,Housing Revenue Account,GOLDSHIELD ELECTRONIC SECURITY LTD,3073980,612,Equipment
+INSERTED DETAIL,,Place,Housing Revenue Account,HQN LTD,3077971,820,Subscriptions
+INSERTED DETAIL,,Place,Housing Revenue Account,NEWCASTLE CITY COUNCIL,3077350,"32,825.88",Furniture
+INSERTED DETAIL,,Place,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,"1,957.09",Electricity
+INSERTED DETAIL,,Place,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,"1,127.26",Electricity
+INSERTED DETAIL,,Place,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,844.5,Electricity
+INSERTED DETAIL,,Place,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,"1,823.48",Electricity
+INSERTED DETAIL,,Place,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,"1,424.15",Electricity
+INSERTED DETAIL,,Place,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,586.75,Electricity
+INSERTED DETAIL,,Place,Housing Revenue Account,NPOWER NORTHERN FINANCE,0,"1,532.75",Electricity
+INSERTED DETAIL,,Place,Housing Revenue Account,NPOWER NORTHERN LTD,0,"1,070.00",Electricity
+INSERTED DETAIL,,Place,Housing Revenue Account,ORCHARD INFORMATION SYSTEMS LTD,3077505,"15,687.50",Ict Software Purchase
+INSERTED DETAIL,,Place,Housing Revenue Account,ORCHARD USER GROUP,0,"1,250.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Place,Housing Revenue Account,ORCHARD USER GROUP,0,"1,250.00",Professional Fees & Consultancy
+INSERTED DETAIL,,Place,Housing Revenue Account,RIDER INDUSTRIAL & SPECIALIST CLEANING,3076942,"1,345.00",Direct Charges - Contractors
+INSERTED DETAIL,,Place,Housing Revenue Account,TYNETEC LTD,3075715,"1,158.50",Equipment
+INSERTED DETAIL,,People,Public Health,CLIFTON COURT MEDICAL PRACTICE,3075108,"2,741.49",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,DENMARK STREET SURGERY,3066795,"1,914.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,DR CARTER AND PARTNERS,3075105,"2,534.45",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,DR G METCALFE & PARTNERS,3067256,"3,570.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,DR W H BYRNE & PARTNERS,3075104,"2,986.43",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,DR W H BYRNE & PARTNERS,3067238,"2,135.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,GREYHOUND IT LTD,3077718,"2,000.00",Consultancy Fees
+INSERTED DETAIL,,People,Public Health,INTRAHEALTH,3067260,"1,050.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,LIVING MINDFULLY CIC,3067255,"6,075.00",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,NHS BUSINESS SERVICES AUTHORITY,3066802,"24,465.98",Other Health Bodies
+INSERTED DETAIL,,People,Public Health,ROWLANDS PHARMACY,3067097,728.88,Private Contractors
+INSERTED DETAIL,,People,Public Health,VIRGIN CARE SERVICES LTD (NON SURREY),3078189,655,Other Health Bodies
+INSERTED DETAIL,,People,Public Health,WHINFIELD MEDICAL PRACTICE,3067272,"3,885.00",Other Health Bodies
+INSERTED DETAIL,,People,Adults Social Care,ADULT PLACEMENT SERVICES T/A AVALON,3031148,"3,088.72",Adult Placement Schemes
+INSERTED DETAIL,,People,Adults Social Care,ADULT PLACEMENT SERVICES T/A AVALON,3031148,686.8,Adult Placement Schemes
+INSERTED DETAIL,,People,Adults Social Care,BARNARDO'S,0,555.84,Residential
+INSERTED DETAIL,,People,Adults Social Care,BARNARDO'S,0,"1,111.68",Residential
+INSERTED DETAIL,,People,Adults Social Care,BARNARDO'S,0,555.84,Respite
+INSERTED DETAIL,,People,Adults Social Care,BARNARDO'S,0,555.84,Respite
+INSERTED DETAIL,,People,Adults Social Care,BUTTERWICK LIMITED,0,720,Respite
+INSERTED DETAIL,,People,Adults Social Care,BUTTERWICK LIMITED,0,720,Respite
+INSERTED DETAIL,,People,Adults Social Care,CHESS LIMITED,0,"2,250.00",Telephone Costs
+INSERTED DETAIL,,People,Adults Social Care,DARLINGTON ASSOCIATION ON DISABILITY LTD,3069873,"4,166.25",Services For Carers
+INSERTED DETAIL,,People,Adults Social Care,DARLINGTON ASSOCIATION ON DISABILITY LTD,3071164,"4,166.25",Services For Carers
+INSERTED DETAIL,,People,Adults Social Care,DARLINGTON ASSOCIATION ON DISABILITY LTD,3069521,"3,165.75",Advocacy
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,643.31,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,867.07,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,853.09,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,895.04,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,067.82",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,146.55",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,179.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,866.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,179.57",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,115.80",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,929.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,068.93",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,179.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,068.93",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,866.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,548.91,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,693.36,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,895.04,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,142.19",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,615.34,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,555.66,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,937,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,DE-POEL,0,"1,034.89",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,GREEN LINK (NORTH EAST),3073892,840,External Courier Service
+INSERTED DETAIL,,People,Adults Social Care,JEWSON LTD,3077653,630.2,Client Home Adaptations - Private Housing
+INSERTED DETAIL,,People,Adults Social Care,JUST CHECKING,3077160,"11,634.00",Ict Software Purchase
+INSERTED DETAIL,,People,Adults Social Care,MENCAP,3078212,"6,027.75",Rent Of Facilities
+INSERTED DETAIL,,People,Adults Social Care,NORTH REGIONAL ASSOC FOR SENSORY SUPPORT,3078158,525,Advocacy
+INSERTED DETAIL,,People,Adults Social Care,NORTH YORKSHIRE MOBILITY & SAFETY,3077657,776.5,Client Home Adaptations - Private Housing
+INSERTED DETAIL,,People,Adults Social Care,PHOENIX SOFTWARE LTD,3077531,"2,499.00",Ict Software Purchase
+INSERTED DETAIL,,People,Adults Social Care,POSITIVE LIFE CHOICES LTD,0,"1,250.00",Home Care - Private Contractor
+INSERTED DETAIL,,People,Adults Social Care,PRISM MEDICAL UK,3066366,"1,267.10",Occupational Therapy Equipment
+INSERTED DETAIL,,People,Adults Social Care,SANCTUARY PERSONNEL LTD,3078202,700,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,SANCTUARY PERSONNEL LTD,3078201,840,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Adults Social Care,SHAUN QUINN,3073582,"1,251.60",Professional Fees & Consultancy
+INSERTED DETAIL,,People,Adults Social Care,STEEL UNIQUE FABRICATIONS,3076617,890.97,Client Home Adaptations - Private Housing
+INSERTED DETAIL,,People,Adults Social Care,STEEL UNIQUE FABRICATIONS,3075700,650.94,Client Home Adaptations - Private Housing
+INSERTED DETAIL,,People,Adults Social Care,THYSSENKRUPP ENCASA LIMITED,3074772,"2,490.00",Private Contractors
+INSERTED DETAIL,,People,Adults Social Care,TYNETEC LTD,3076469,"2,214.60",Equipment
+INSERTED DETAIL,,People,Childrens Social Care,1AB TAXIS LTD,3072965,828,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,1AB TAXIS LTD,3072964,"1,404.80",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,ACORN CARE (UK) LIMITED,3065184,"12,117.86",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,ACORN CARE NE - FOSTERING,3077709,"2,000.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,ACORN CARE NE - FOSTERING,3077709,"3,563.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,ARTEMIS SUPPORT LTD,3065187,"11,200.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,ARTEMIS SUPPORT LTD,3065187,"9,200.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BABCOCK 4S LTD,3075638,"4,440.00",Employee Training Course Costs
+INSERTED DETAIL,,People,Childrens Social Care,BARNARDO'S,3064830,"4,140.36",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BARNARDO'S,3064829,"3,053.50",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BARNARDO'S,3064834,"4,015.12",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BARNARDO'S,3064831,"3,893.60",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BARNARDO'S,3078502,"14,333.00",Adoption Allowance
+INSERTED DETAIL,,People,Childrens Social Care,BARNARDO'S,3064833,"2,870.29",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BARNARDO'S,3064830,"4,140.36",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BARNARDO'S,3064835,"3,454.02",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BETA NORTH LIMITED,3075232,"2,772.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BETA NORTH LIMITED,3065077,"3,400.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BETA NORTH LIMITED,3075233,"3,850.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BETA NORTH LIMITED,3075232,"3,465.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,BROUGH HOUSE,0,975,Independent Living
+INSERTED DETAIL,,People,Childrens Social Care,CHILDREN`S SERVICES LEADERSHIP LTD,3078246,"5,000.00",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,CHILDREN`S SERVICES LEADERSHIP LTD,3078428,"5,000.00",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,COMPASS ROYSTON TRAVEL LTD,3073230,608,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,COMPASS ROYSTON TRAVEL LTD,3073080,"1,994.40",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,COMPASS ROYSTON TRAVEL LTD,3073043,"2,850.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,COMPASS ROYSTON TRAVEL LTD,3073044,"2,470.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,CORONA ENERGY LTD,0,"1,692.92",Gas
+INSERTED DETAIL,,People,Childrens Social Care,C-TECH SOLUTIONS LTD,3074912,756.85,Ict Hardware Support & Maintenance
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON & DISTRICT YTH COMM ASS,3072977,"2,002.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON & DISTRICT YTH COMM ASS,3072978,"2,242.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON & DISTRICT YTH COMM ASS,3072979,"2,194.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON & DISTRICT YTH COMM ASS,3072976,"2,092.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON & DISTRICT YTH COMM ASS,3072975,"2,121.10",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON & DISTRICT YTH COMM ASS,3074832,"2,005.60",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON SCHOOL OF MATHEMATICS & SCIENCE,3075272,"1,410.00",Materials
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON SCHOOL OF MATHEMATICS & SCIENCE,3076089,"1,000.00",Materials
+INSERTED DETAIL,,People,Childrens Social Care,DARLINGTON SCHOOL OF MATHEMATICS & SCIENCE,3077713,"1,500.00",Materials
+INSERTED DETAIL,,People,Childrens Social Care,DENE VALLEY COMMUNITY TRANSPORT,3070904,"2,400.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DENE VALLEY COMMUNITY TRANSPORT,3078465,"2,300.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DENE VALLEY COMMUNITY TRANSPORT,3078465,"1,000.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DENE VALLEY COMMUNITY TRANSPORT,3078465,"2,150.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DENE VALLEY COMMUNITY TRANSPORT,3078465,"1,800.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DENE VALLEY COMMUNITY TRANSPORT,3078465,"1,950.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,216.93",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,184.00",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,679.14,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,179.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,195.50",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,162.13",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,589.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,321.71",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,663.52",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,221.37",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,237.88",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,991.68,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,301.65",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,313.25",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,179.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"2,359.95",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"2,863.20",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,069.16",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,752.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,752.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,724.88,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"2,359.95",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,188.66",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,221.37",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,940.47,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,666.54,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,589.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,663.52",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,216.93",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,899.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,314.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,314.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,314.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,816.96,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,314.24",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,694.58,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,072.26",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,589.15",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,663.52",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,221.37",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,606.48,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"2,290.54",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"2,290.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"2,290.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"2,290.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,899.7,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,179.56",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,415.97",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,415.97",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,332.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,332.74",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,216.93",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,600.14,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,162.13",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,134.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,221.37",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,589.14",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,348.80",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,146.63",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,216.90",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,"1,184.00",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DE-POEL,0,694.58,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,DFW ADOPTION,0,"4,439.50",Adoption Allowance
+INSERTED DETAIL,,People,Childrens Social Care,DFW ADOPTION,0,946.95,Adoption Allowance
+INSERTED DETAIL,,People,Childrens Social Care,DR ANDREW LOCKETT,0,830,Professional Fees & Consultancy
+INSERTED DETAIL,,People,Childrens Social Care,ENTERPRISE RENT-A-CAR,0,560,Vehicle Hire
+INSERTED DETAIL,,People,Childrens Social Care,ENTERPRISE RENT-A-CAR,0,640.61,Carers Vouchers
+INSERTED DETAIL,,People,Childrens Social Care,EVERYDAY LANGUAGE SOLUTIONS,3072696,670.32,Interpretation & Translation Fees
+INSERTED DETAIL,,People,Childrens Social Care,FAIRFIELD HOUSE,3072981,"11,005.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FAIRFIELD HOUSE,3072981,"11,005.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FIONA NOONE,3075699,"2,037.86",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3064844,"3,239.88",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3073650,"3,441.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3064840,"3,774.87",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3064841,"3,774.87",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3064839,"3,774.87",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3064843,"3,463.32",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3064843,"6,814.92",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3064839,"3,774.87",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3064841,"3,774.87",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARE ASSOCIATES LTD,3074405,"3,306.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065189,816.75,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065189,816.75,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065189,816.75,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065189,816.75,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065190,780,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065190,780,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065190,780,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065190,780,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065190,780,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065189,816.75,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065190,780,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065190,780,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065189,816.75,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTER CARES LTD,3065189,816.75,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3076656,"2,339.82",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3076659,"3,024.41",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3076657,"3,231.18",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3076658,"3,071.17",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3070855,"3,542.68",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3067891,"3,100.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3067892,"2,945.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3076659,"3,232.99",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3076657,"3,454.02",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3070855,"3,314.12",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3067892,"2,755.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3067891,"2,900.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,FOSTERING OUTCOMES LIMITED,3064848,"3,125.42",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,GARNETTS LTD,3073056,"3,040.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GARNETTS LTD,3073052,"2,964.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GARNETTS LTD,3073051,"3,020.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GARNETTS LTD,3073050,"2,622.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GARNETTS LTD,3073049,"3,097.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GARNETTS LTD,3073053,"2,622.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GARNETTS LTD,3073055,"2,964.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GARNETTS LTD,3073054,"3,040.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GRIERSONS COACHES,3073058,"1,960.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,GRIERSONS COACHES,3073057,"1,976.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,HARTLEPOOL BOROUGH COUNCIL,3077737,"1,000.00",Course Purchase
+INSERTED DETAIL,,People,Childrens Social Care,HIGHFIELD (NORTH EAST) LIMITED,3065314,"11,082.14",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,HIGHFIELD (NORTH EAST) LIMITED,3065314,"11,846.42",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,HOLME FARM RESIDENTIAL VILLAGE LTD,3072983,"16,571.43",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,HOLME FARM RESIDENTIAL VILLAGE LTD,3072983,"12,214.28",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,HUMMERSKNOTT ACTIVE LTD,0,557.5,Security Services
+INSERTED DETAIL,,People,Childrens Social Care,INCOM TELECOMMUNICATIONS,3077787,"1,600.00",Ict Hardware Purchase
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3073059,"2,840.50",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3072984,"1,993.20",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3072985,"1,993.20",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3072986,"1,993.20",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3072987,"2,000.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3073061,"2,327.50",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3073060,"2,460.50",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3073062,"2,590.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,J & C COACHES LTD,3073063,"2,491.28",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,JENNY NICHOLS,3074748,"2,269.75",Consultancy Fees
+INSERTED DETAIL,,People,Childrens Social Care,KALEIDOSCOPE,3075602,"10,517.85",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,M2 EDUCATION,0,"1,259.48",Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,M2 EDUCATION,0,581.76,Agency Staff Costs - Non Teaching
+INSERTED DETAIL,,People,Childrens Social Care,NORTHUMBERLAND COUNTY COUNCIL,3074329,"24,384.29",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,NPOWER NORTHERN FINANCE,0,"1,130.27",Electricity
+INSERTED DETAIL,,People,Childrens Social Care,NPOWER NORTHERN FINANCE,0,"3,567.94",Electricity
+INSERTED DETAIL,,People,Childrens Social Care,OVERLANDER MINI COACHES,3073065,"2,375.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,OVERLANDER MINI COACHES,3073064,"2,480.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,PEARTREE PROJECTS LTD,3065198,"14,048.40",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,PEARTREE PROJECTS LTD,3065199,"13,142.05",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,PEARTREE PROJECTS LTD,3065198,"13,142.05",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,PEARTREE PROJECTS LTD,3068285,"13,142.05",Independent Placements
+INSERTED DETAIL,,People,Childrens Social Care,PEBBLES CARE,3076661,"13,257.14",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,PEBBLES CARE,3065200,"13,795.00",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,PKR ASSOCIATES,0,"1,916.67",Professional Fees
+INSERTED DETAIL,,People,Childrens Social Care,PONTVILLE SCHOOL,0,"54,723.00",Independent Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065085,"2,608.65",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065086,"2,503.80",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065083,"2,583.90",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065087,"2,440.35",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065088,"2,676.47",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065082,"3,148.79",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065427,"2,762.10",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065086,"2,676.47",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065083,"2,762.10",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REACH OUT CARE LIMITED NO 2 A/C,3065087,"2,608.65",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,REDCAR & CLEVELAND BOROUGH COUNCIL,3077722,"18,000.00",Adoption Allowance
+INSERTED DETAIL,,People,Childrens Social Care,REDCAR & CLEVELAND BOROUGH COUNCIL,3077834,"2,000.00","Recruitment, Retention & Training"
+INSERTED DETAIL,,People,Childrens Social Care,REGUS MANAGEMENT,0,"2,318.00",Rent Of Facilities
+INSERTED DETAIL,,People,Childrens Social Care,REGUS MANAGEMENT,0,859,Rent Of Facilities
+INSERTED DETAIL,,People,Childrens Social Care,REGUS MANAGEMENT,0,"1,214.87",Rent Of Facilities
+INSERTED DETAIL,,People,Childrens Social Care,REGUS MANAGEMENT,0,"1,099.95",Rent Of Facilities
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3072970,"1,552.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3072971,"1,480.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073305,"1,320.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3072969,"1,920.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073304,"1,344.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073227,896,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073042,"1,401.60",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3072972,900,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3072968,"1,680.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073006,672,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073306,"1,000.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073307,"1,400.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073228,720,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3072967,"1,380.60",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073510,"2,124.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,S & R CARS LTD,3073402,"1,848.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,SAFE HAVEN CHILDRENS RESIDENTIAL CARE,3078511,"4,342.85",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,ST CUTHBERTS CARE,3068230,"1,771.43",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SUE OVERTON APPLIED PRACTICE,3077733,"4,400.00",Professional Fees & Consultancy
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3077157,800.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3070916,700,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3071205,780.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3070916,700,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3071205,780.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064920,771.33,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3065429,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3072992,730.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064918,814.17,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064918,814.17,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3072992,730.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3065429,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064920,771.33,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3065429,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3065429,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3071205,780.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3070916,700,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3070916,700,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3077157,800.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064919,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064919,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064919,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064919,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3071205,780.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3070916,700,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3071205,780.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064920,771.33,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064919,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3077157,800.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3071205,780.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3070916,700,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3070916,700,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3071205,780.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3072992,730.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3072992,730.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064918,814.17,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3065429,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064920,771.33,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3065429,"3,090.01",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3072992,730.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3070916,700,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064918,814.17,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3077157,800.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3077157,800.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3078514,557.1,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3065429,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3072992,730.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064920,771.33,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064919,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064919,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064920,771.33,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064919,857.01,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3064920,771.33,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3077157,800.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,SWIIS FOSTER CARE LTD,3077157,800.03,External Placements
+INSERTED DETAIL,,People,Childrens Social Care,TEAM FOSTERING NORTH EAST,3076665,"3,321.43",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,TEAM FOSTERING NORTH EAST,3065205,"3,900.42",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,TEAM FOSTERING NORTH EAST,3065209,"3,804.63",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,TEAM FOSTERING NORTH EAST,3065208,"3,804.63",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,TEAM FOSTERING NORTH EAST,3076665,"2,678.57",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,TEAM FOSTERING NORTH EAST,3065208,"3,614.38",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,TEAM FOSTERING NORTH EAST,3072993,"3,321.43",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,THE FEDERATION OF ABBEY SCHOOLS ACADEMY TRUST,3077708,"3,000.00",Materials
+INSERTED DETAIL,,People,Childrens Social Care,THE LEAVING CARE COMPANY,0,"1,150.00",Independent Living
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073248,633.6,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3072996,782.4,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073025,730,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3072999,782.4,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073069,782.99,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073002,905.6,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3072995,"1,344.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073565,"1,695.75",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073031,520,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3072997,791.2,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073565,"1,160.25",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3076167,520,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3076168,655.59,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073566,655.5,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073001,"1,800.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073000,"1,738.50",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073029,520,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073030,684.76,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3076230,574.13,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073026,565.25,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3072998,756,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073070,"1,600.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073567,610.8,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3073326,"2,600.00",Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,UNITED TAXIS LTD,3074535,576.28,Contract Hire
+INSERTED DETAIL,,People,Childrens Social Care,VISIONAID TECHNOLOGIES LTD,3078051,"1,005.00",Visual Equipment
+INSERTED DETAIL,,People,Childrens Social Care,WRIXON CARE,0,"1,299.98",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,XMA LIMITED,3077136,777,Ict Hardware Purchase
+INSERTED DETAIL,,People,Childrens Social Care,YOUNG FOUNDATION LTD,3077092,"12,842.86",External Placements
+INSERTED DETAIL,,People,Childrens Social Care,YOUNG FOUNDATION LTD,3076666,"12,842.86",External Placements
+INSERTED DETAIL,,People,Development & Commissioning,700 CLUB,0,"20,388.44",Private Contractors
+INSERTED DETAIL,,People,Development & Commissioning,CARERS FEDERATION LIMITED,0,627.72,Other Supplies & Services
+INSERTED DETAIL,,People,Development & Commissioning,CARERS FEDERATION LIMITED,0,550.02,Other Supplies & Services
+INSERTED DETAIL,,People,Development & Commissioning,CREATIVE SUPPORT LIMITED,0,"7,750.76",Private Contractors
+INSERTED DETAIL,,People,Development & Commissioning,DARLINGTON YMCA FOYER,0,"22,886.56",Private Contractors
+INSERTED DETAIL,,People,Development & Commissioning,DISC,0,"31,449.64",Private Contractors
+INSERTED DETAIL,,People,Development & Commissioning,KEYRING LIVING SUPPORT NETWORK,0,"2,532.44",Private Contractors
+INSERTED DETAIL,,People,Development & Commissioning,MOBILE ADVICE CO OP COMMUNITY INTEREST CO.,3078883,"5,400.00",Grants
+INSERTED DETAIL,,People,Development & Commissioning,MOTT MACDONALD,0,"6,114.80",Professional Fees & Consultancy
+INSERTED DETAIL,,People,Development & Commissioning,NECA SERVICES LTD,3066475,"100,781.25",Private Contractors
+INSERTED DETAIL,,People,Development & Commissioning,NEPACS,3078364,"1,150.00",Employee Training Course Costs
+INSERTED DETAIL,,Balance Sheet,Balance Sheet,KIDDIVOUCHERS LTD,0,"16,133.10",General Debits
+INSERTED DETAIL,,Bidra,Bidra,DISTINCT DARLINGTON LIMITED,3078678,"2,340.67",Other Establishments
+INSERTED DETAIL,,Capital,Capital,BENFIELD VAN CENTRE (TEESIDE),3072537,"32,113.75",Vehicles
+INSERTED DETAIL,,Capital,Capital,DWF LLP,3078897,680.2,Legal Fees
+INSERTED DETAIL,,Capital,Capital,GVA GRIMLEY LTD,3078777,"2,250.00",Consultants - Other
+INSERTED DETAIL,,Capital,Capital,IDPARTNERSHIP NORTHERN,3075337,"5,262.50",Consultants - Other
+INSERTED DETAIL,,Capital,Capital,NHBS,3077948,"1,100.42",Payments Main Contractor - Non Dlo
+INSERTED DETAIL,,Capital,Capital,NORTHERN GAS NETWORKS,3073454,871,Gas Removals
+INSERTED DETAIL,,Capital,Capital,THEATRESEARCH LTD,3075229,"4,636.41",Consultants - Other
+detail,,Capital,Capital,WS ATKINS (SERVICES) LTD,3062732,"1,023.31",Consultants - Other
