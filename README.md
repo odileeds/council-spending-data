@@ -4,4 +4,9 @@ Processed/cleaned versions of public body spending data files. These are further
 
 The original files often come in monthly publications (but sometimes follow other release schedules). A monthly release won't always contain all the spending in that month; sometimes it'll show up in later months just due to the practicality of accounting. We've renamed the files to make them more consistent between councils. The file names will be in a `YYYY-MM_X` style where `YYYY` is the year, `MM` is the release month, and `X` will be an index if multiple files are published for a specific month e.g. when they split card payments from other payments.
 
-The original file will have a file name of the form `YYYY-MM.csv`. We do a cleaning step that attempts to automatically remove header lines (or entire SQL queries in the case of Darlington) from the top of the CSV, put [dates in a consistent format](https://github.com/odileeds/open-data-tips#dates), remove trailing commas (that double the file size in the case of some Leeds data), and deal with any [other data gremlins](https://docs.google.com/document/d/1WEf54JwSnOcUV7F70AXVkg50LzDuD3lFSAAa47nX4F0/edit).
+The original file will have a file name of the form `YYYY-MM.csv`. We do a cleaning step that attempts to automatically remove header lines (or entire SQL queries in the case of Darlington) from the top of the CSV, put [dates in a consistent format](https://github.com/odileeds/open-data-tips#dates), remove trailing commas (that double the file size in the case of some Leeds data), and deal with any [other data gremlins](https://docs.google.com/document/d/1WEf54JwSnOcUV7F70AXVkg50LzDuD3lFSAAa47nX4F0/edit). These cleaned versions will be given names of the form `YYYY-MM_clean.csv`. We also make a reduced file (`YYYY-MM_processed.csv`) that attempts to use four consistent column headings that we use in our [visualisation tool](https://odileeds.org/projects/council-spending/):
+
+  * `Payment Date`,
+  * `Amount`,
+  * `Benificiary Name`,
+  * `Organisational Unit`
