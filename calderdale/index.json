@@ -1,0 +1,1147 @@
+{
+	"dir": "calderdale",
+	"src": {
+		"tool": "",
+		"sleep": 10,
+		"urls": ["https://www.calderdale.gov.uk/council/finances/income-spending/"],
+		"files": ["council-spending-2010.html","council-spending-2011.html","council-spending-2012.html","council-spending-2013.html","council-spending-2014.html","council-spending-2015.html","council-spending-2016.html","council-spending-2017.html","council-spending-2018.html","council-spending-2019.html","council-spending-2020.html"]
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Net amount","NetAmount","Net Amount £","Net Amount"],
+			"Beneficiary Name": ["Supplier name","SupplierName","Supplier Name","Supplier(Beneficiary) Name","Benificiary Name"],
+			"Organisation Label": ["Body name"],
+			"Organisational Unit": ["Expense Area","Service Label","Service label","ServiceLabel"],
+			"Payment Date": ["Transaction Date","Date","Date paid","Date Paid","DatePaid","Payment date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2010-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2010/October.csv",
+		"name": "October",
+		"file": "2010-10.csv"
+	},{
+		"format": "csv",
+		"month": "2010-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2010/November.csv",
+		"name": "November",
+		"file": "2010-11.csv"
+	},{
+		"format": "csv",
+		"month": "2010-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2010/December.csv",
+		"name": "December",
+		"file": "2010-12.csv"
+	},{
+		"format": "csv",
+		"month": "2011-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/January.csv",
+		"name": "January",
+		"file": "2011-01.csv"
+	},{
+		"format": "csv",
+		"month": "2011-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/February.csv",
+		"name": "February",
+		"file": "2011-02.csv"
+	},{
+		"format": "csv",
+		"month": "2011-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/March.csv",
+		"name": "March",
+		"file": "2011-03.csv"
+	},{
+		"format": "csv",
+		"month": "2011-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/April.csv",
+		"name": "April",
+		"file": "2011-04.csv"
+	},{
+		"format": "csv",
+		"month": "2011-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/May.csv",
+		"name": "May",
+		"file": "2011-05.csv"
+	},{
+		"format": "csv",
+		"month": "2011-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/June.csv",
+		"name": "June",
+		"file": "2011-06.csv"
+	},{
+		"format": "csv",
+		"month": "2011-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/July.csv",
+		"name": "July",
+		"file": "2011-07.csv"
+	},{
+		"format": "csv",
+		"month": "2011-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/August.csv",
+		"name": "August",
+		"file": "2011-08.csv"
+	},{
+		"format": "csv",
+		"month": "2011-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/September.csv",
+		"name": "September",
+		"file": "2011-09.csv"
+	},{
+		"format": "csv",
+		"month": "2011-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/October.csv",
+		"name": "October",
+		"file": "2011-10.csv"
+	},{
+		"format": "csv",
+		"month": "2011-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/November.csv",
+		"name": "November",
+		"file": "2011-11.csv"
+	},{
+		"format": "csv",
+		"month": "2011-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2011/December.csv",
+		"name": "December",
+		"file": "2011-12.csv"
+	},{
+		"format": "csv",
+		"month": "2012-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/January.csv",
+		"name": "January",
+		"file": "2012-01.csv"
+	},{
+		"format": "csv",
+		"month": "2012-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/February.csv",
+		"name": "February",
+		"file": "2012-02.csv"
+	},{
+		"format": "csv",
+		"month": "2012-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/March.csv",
+		"name": "March",
+		"file": "2012-03.csv"
+	},{
+		"format": "csv",
+		"month": "2012-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/April.csv",
+		"name": "April",
+		"file": "2012-04.csv"
+	},{
+		"format": "csv",
+		"month": "2012-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/May.csv",
+		"name": "May",
+		"file": "2012-05.csv"
+	},{
+		"format": "csv",
+		"month": "2012-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/June.csv",
+		"name": "June",
+		"file": "2012-06.csv"
+	},{
+		"format": "csv",
+		"month": "2012-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/July.csv",
+		"name": "July",
+		"file": "2012-07.csv"
+	},{
+		"format": "csv",
+		"month": "2012-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/August.csv",
+		"name": "August",
+		"file": "2012-08.csv"
+	},{
+		"format": "csv",
+		"month": "2012-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/September.csv",
+		"name": "September",
+		"file": "2012-09.csv"
+	},{
+		"format": "csv",
+		"month": "2012-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/October.csv",
+		"name": "October",
+		"file": "2012-10.csv"
+	},{
+		"format": "csv",
+		"month": "2012-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/November.csv",
+		"name": "November",
+		"file": "2012-11.csv"
+	},{
+		"format": "csv",
+		"month": "2012-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2012/December.csv",
+		"name": "December",
+		"file": "2012-12.csv"
+	},{
+		"format": "csv",
+		"month": "2013-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/January.csv",
+		"name": "January",
+		"file": "2013-01.csv"
+	},{
+		"format": "csv",
+		"month": "2013-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/February.csv",
+		"name": "February",
+		"file": "2013-02.csv"
+	},{
+		"format": "csv",
+		"month": "2013-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/March.csv",
+		"name": "March",
+		"file": "2013-03.csv"
+	},{
+		"format": "csv",
+		"month": "2013-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/April.csv",
+		"name": "April",
+		"file": "2013-04.csv"
+	},{
+		"format": "csv",
+		"month": "2013-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/may.csv",
+		"name": "may",
+		"file": "2013-05.csv"
+	},{
+		"format": "csv",
+		"month": "2013-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/June.csv",
+		"name": "June",
+		"file": "2013-06.csv"
+	},{
+		"format": "csv",
+		"month": "2013-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/July.csv",
+		"name": "July",
+		"file": "2013-07.csv"
+	},{
+		"format": "csv",
+		"month": "2013-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/August.csv",
+		"name": "August",
+		"file": "2013-08.csv"
+	},{
+		"format": "csv",
+		"month": "2013-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/September.csv",
+		"name": "September",
+		"file": "2013-09.csv"
+	},{
+		"format": "csv",
+		"month": "2013-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/October.csv",
+		"name": "October",
+		"file": "2013-10.csv"
+	},{
+		"format": "csv",
+		"month": "2013-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/November.csv",
+		"name": "November",
+		"file": "2013-11.csv"
+	},{
+		"format": "csv",
+		"month": "2013-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2013/December.csv",
+		"name": "December",
+		"file": "2013-12.csv"
+	},{
+		"format": "csv",
+		"month": "2014-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/January.csv",
+		"name": "January",
+		"file": "2014-01.csv"
+	},{
+		"format": "csv",
+		"month": "2014-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/February.csv",
+		"name": "February",
+		"file": "2014-02.csv"
+	},{
+		"format": "csv",
+		"month": "2014-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/March.csv",
+		"name": "March",
+		"file": "2014-03.csv"
+	},{
+		"format": "csv",
+		"month": "2014-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/April.csv",
+		"name": "April",
+		"file": "2014-04.csv"
+	},{
+		"format": "csv",
+		"month": "2014-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/May.csv",
+		"name": "May",
+		"file": "2014-05.csv"
+	},{
+		"format": "csv",
+		"month": "2014-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/June.csv",
+		"name": "June",
+		"file": "2014-06.csv"
+	},{
+		"format": "csv",
+		"month": "2014-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/July.csv",
+		"name": "July",
+		"file": "2014-07.csv"
+	},{
+		"format": "csv",
+		"month": "2014-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/August.csv",
+		"name": "August",
+		"file": "2014-08.csv"
+	},{
+		"format": "csv",
+		"month": "2014-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/September.csv",
+		"name": "September",
+		"file": "2014-09.csv"
+	},{
+		"format": "csv",
+		"month": "2014-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/October.csv",
+		"name": "October",
+		"file": "2014-10.csv"
+	},{
+		"format": "csv",
+		"month": "2014-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/October-card-payments.csv",
+		"name": "October card payments",
+		"file": "2014-10-card.csv"
+	},{
+		"format": "csv",
+		"month": "2014-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/November.csv",
+		"name": "November",
+		"file": "2014-11.csv"
+	},{
+		"format": "csv",
+		"month": "2014-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/November-card-payments.csv",
+		"name": "November card payments",
+		"file": "2014-11-card.csv"
+	},{
+		"format": "csv",
+		"month": "2014-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/December.csv",
+		"name": "December",
+		"file": "2014-12.csv"
+	},{
+		"format": "csv",
+		"month": "2014-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2014/December-card-payments.csv",
+		"name": "December card payments",
+		"file": "2014-12-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/January.csv",
+		"name": "January",
+		"file": "2015-01.csv"
+	},{
+		"format": "csv",
+		"month": "2015-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/January-card-payments.csv",
+		"name": "January card payments",
+		"file": "2015-01-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/February.csv",
+		"name": "February",
+		"file": "2015-02.csv"
+	},{
+		"format": "csv",
+		"month": "2015-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/February-card-payments.csv",
+		"name": "February card payments",
+		"file": "2015-02-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/March.csv",
+		"name": "March",
+		"file": "2015-03.csv"
+	},{
+		"format": "csv",
+		"month": "2015-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/March-card-payments.csv",
+		"name": "March card payments",
+		"file": "2015-03-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/April.csv",
+		"name": "April",
+		"file": "2015-04.csv"
+	},{
+		"format": "csv",
+		"month": "2015-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/April-card-payments.csv",
+		"name": "April card payments",
+		"file": "2015-04-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/May.csv",
+		"name": "May",
+		"file": "2015-05.csv"
+	},{
+		"format": "csv",
+		"month": "2015-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/May-card-payments.csv",
+		"name": "May card payments",
+		"file": "2015-05-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/June.csv",
+		"name": "June",
+		"file": "2015-06.csv"
+	},{
+		"format": "csv",
+		"month": "2015-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/June-card-payments.csv",
+		"name": "June card payments",
+		"file": "2015-06-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/July.csv",
+		"name": "July",
+		"file": "2015-07.csv"
+	},{
+		"format": "csv",
+		"month": "2015-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/July-card-payments.csv",
+		"name": "July card payments",
+		"file": "2015-07-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/August.csv",
+		"name": "August",
+		"file": "2015-08.csv"
+	},{
+		"format": "csv",
+		"month": "2015-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/August-card-payments.csv",
+		"name": "August card payments",
+		"file": "2015-08-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/September.csv",
+		"name": "September",
+		"file": "2015-09.csv"
+	},{
+		"format": "csv",
+		"month": "2015-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/September-card-payments.csv",
+		"name": "September card payments",
+		"file": "2015-09-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/October.csv",
+		"name": "October",
+		"file": "2015-10.csv"
+	},{
+		"format": "csv",
+		"month": "2015-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/October-card-payments.csv",
+		"name": "October card payments",
+		"file": "2015-10-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/November.csv",
+		"name": "November",
+		"file": "2015-11.csv"
+	},{
+		"format": "csv",
+		"month": "2015-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/November-card-payments.csv",
+		"name": "November card payments",
+		"file": "2015-11-card.csv"
+	},{
+		"format": "csv",
+		"month": "2015-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/December.csv",
+		"name": "December",
+		"file": "2015-12.csv"
+	},{
+		"format": "csv",
+		"month": "2015-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2015/December-card-payments.csv",
+		"name": "December card payments",
+		"file": "2015-12-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/January.csv",
+		"name": "January",
+		"file": "2016-01.csv"
+	},{
+		"format": "csv",
+		"month": "2016-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/January-card-payments.csv",
+		"name": "January card payments",
+		"file": "2016-01-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/February.csv",
+		"name": "February",
+		"file": "2016-02.csv"
+	},{
+		"format": "csv",
+		"month": "2016-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/February-card-payments.csv",
+		"name": "February card payments",
+		"file": "2016-02-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/March.csv",
+		"name": "March",
+		"file": "2016-03.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/March-card-payments.csv",
+		"name": "March card payments",
+		"file": "2016-03-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/April.csv",
+		"name": "April",
+		"file": "2016-04.csv"
+	},{
+		"format": "csv",
+		"month": "2016-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/April-card-payments.csv",
+		"name": "April card payments",
+		"file": "2016-04-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/May.csv",
+		"name": "May",
+		"file": "2016-05.csv"
+	},{
+		"format": "csv",
+		"month": "2016-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/May-card-payments.csv",
+		"name": "May card payments",
+		"file": "2016-05-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/June.csv",
+		"name": "June",
+		"file": "2016-06.csv"
+	},{
+		"format": "csv",
+		"month": "2016-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/June-card-payments.csv",
+		"name": "June card payments",
+		"file": "2016-06-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/July.csv",
+		"name": "July",
+		"file": "2016-07.csv"
+	},{
+		"format": "csv",
+		"month": "2016-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/July-card-payments.csv",
+		"name": "July card payments",
+		"file": "2016-07-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/August.csv",
+		"name": "August",
+		"file": "2016-08.csv"
+	},{
+		"format": "csv",
+		"month": "2016-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/August-card-payments.csv",
+		"name": "August card payments",
+		"file": "2016-08-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/September.csv",
+		"name": "September",
+		"file": "2016-09.csv"
+	},{
+		"format": "csv",
+		"month": "2016-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/September-card-payments.csv",
+		"name": "September card payments",
+		"file": "2016-09-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/October.csv",
+		"name": "October",
+		"file": "2016-10.csv"
+	},{
+		"format": "csv",
+		"month": "2016-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/October-card-payments.csv",
+		"name": "October card payments",
+		"file": "2016-10-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/November.csv",
+		"name": "November",
+		"file": "2016-11.csv"
+	},{
+		"format": "csv",
+		"month": "2016-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/November-card-payments.csv",
+		"name": "November card payments",
+		"file": "2016-11-card.csv"
+	},{
+		"format": "csv",
+		"month": "2016-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/December.csv",
+		"name": "December",
+		"file": "2016-12.csv"
+	},{
+		"format": "csv",
+		"month": "2016-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2016/December-card-payments.csv",
+		"name": "December card payments",
+		"file": "2016-12-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/January.csv",
+		"name": "January",
+		"file": "2017-01.csv"
+	},{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/January-card-payments.csv",
+		"name": "January card payments",
+		"file": "2017-01-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/February.csv",
+		"name": "February",
+		"file": "2017-02.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/February-card-payments.csv",
+		"name": "February card payments",
+		"file": "2017-02-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/March.csv",
+		"name": "March",
+		"file": "2017-03.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/March-card-payments.csv",
+		"name": "March card payments",
+		"file": "2017-03-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/April.csv",
+		"name": "April",
+		"file": "2017-04.csv"
+	},{
+		"format": "csv",
+		"month": "2017-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/April-card-payments.csv",
+		"name": "April card payments",
+		"file": "2017-04-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/May.csv",
+		"name": "May",
+		"file": "2017-05.csv"
+	},{
+		"format": "csv",
+		"month": "2017-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/May-card-payments.csv",
+		"name": "May card payments",
+		"file": "2017-05-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/June.csv",
+		"name": "June",
+		"file": "2017-06.csv"
+	},{
+		"format": "csv",
+		"month": "2017-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/June-card-payments.csv",
+		"name": "June card payments",
+		"file": "2017-06-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/July.csv",
+		"name": "July",
+		"file": "2017-07.csv"
+	},{
+		"format": "csv",
+		"month": "2017-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/July-card-payments.csv",
+		"name": "July card payments",
+		"file": "2017-07-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/August.csv",
+		"name": "August",
+		"file": "2017-08.csv"
+	},{
+		"format": "csv",
+		"month": "2017-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/August-card-payments.csv",
+		"name": "August card payments",
+		"file": "2017-08-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/September.csv",
+		"name": "September",
+		"file": "2017-09.csv"
+	},{
+		"format": "csv",
+		"month": "2017-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/September-card-payments.csv",
+		"name": "September card payments",
+		"file": "2017-09-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/October.csv",
+		"name": "October",
+		"file": "2017-10.csv"
+	},{
+		"format": "csv",
+		"month": "2017-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/October-card-payments.csv",
+		"name": "October card payments",
+		"file": "2017-10-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/November.csv",
+		"name": "November",
+		"file": "2017-11.csv"
+	},{
+		"format": "csv",
+		"month": "2017-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/November-card-payments.csv",
+		"name": "November card payments",
+		"file": "2017-11-card.csv"
+	},{
+		"format": "csv",
+		"month": "2017-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/December.csv",
+		"name": "December",
+		"file": "2017-12.csv"
+	},{
+		"format": "csv",
+		"month": "2017-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2017/December-card-payments.csv",
+		"name": "December card payments",
+		"file": "2017-12-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/January.csv",
+		"name": "January",
+		"file": "2018-01.csv"
+	},{
+		"format": "csv",
+		"month": "2018-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/January-card-payments.csv",
+		"name": "January card payments",
+		"file": "2018-01-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/February.csv",
+		"name": "February",
+		"file": "2018-02.csv"
+	},{
+		"format": "csv",
+		"month": "2018-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/February-card-payments.csv",
+		"name": "February card payments",
+		"file": "2018-02-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/March.csv",
+		"name": "March",
+		"file": "2018-03.csv"
+	},{
+		"format": "csv",
+		"month": "2018-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/March-card-payments.csv",
+		"name": "March card payments",
+		"file": "2018-03-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/April.csv",
+		"name": "April",
+		"file": "2018-04.csv"
+	},{
+		"format": "csv",
+		"month": "2018-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/April-card-payments.csv",
+		"name": "April card payments",
+		"file": "2018-04-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/May.csv",
+		"name": "May",
+		"file": "2018-05.csv"
+	},{
+		"format": "csv",
+		"month": "2018-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/May-card-payments.csv",
+		"name": "May card payments",
+		"file": "2018-05-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/June.csv",
+		"name": "June",
+		"file": "2018-06.csv"
+	},{
+		"format": "csv",
+		"month": "2018-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/June-card-payments.csv",
+		"name": "June card payments",
+		"file": "2018-06-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/July.csv",
+		"name": "July",
+		"file": "2018-07.csv"
+	},{
+		"format": "csv",
+		"month": "2018-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/July-card-payments.csv",
+		"name": "July card payments",
+		"file": "2018-07-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/August.csv",
+		"name": "August",
+		"file": "2018-08.csv"
+	},{
+		"format": "csv",
+		"month": "2018-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/August-card-payments.csv",
+		"name": "August card payments",
+		"file": "2018-08-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/September.csv",
+		"name": "September",
+		"file": "2018-09.csv"
+	},{
+		"format": "csv",
+		"month": "2018-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/September-card-payments.csv",
+		"name": "September card payments",
+		"file": "2018-09-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/October.csv",
+		"name": "October",
+		"file": "2018-10.csv"
+	},{
+		"format": "csv",
+		"month": "2018-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/October-card-payments.csv",
+		"name": "October card payments",
+		"file": "2018-10-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/November.csv",
+		"name": "November",
+		"file": "2018-11.csv"
+	},{
+		"format": "csv",
+		"month": "2018-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/November-card-payments.csv",
+		"name": "November card payments",
+		"file": "2018-11-card.csv"
+	},{
+		"format": "csv",
+		"month": "2018-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/December.csv",
+		"name": "December",
+		"file": "2018-12.csv"
+	},{
+		"format": "csv",
+		"month": "2018-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2018/December-card-payments.csv",
+		"name": "December card payments",
+		"file": "2018-12-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/January.csv",
+		"name": "January",
+		"file": "2019-01.csv"
+	},{
+		"format": "csv",
+		"month": "2019-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/January-card-payments.csv",
+		"name": "January card payments",
+		"file": "2019-01-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/February.csv",
+		"name": "February",
+		"file": "2019-02.csv"
+	},{
+		"format": "csv",
+		"month": "2019-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/February-card-payments.csv",
+		"name": "February card payments",
+		"file": "2019-02-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/March.csv",
+		"name": "March",
+		"file": "2019-03.csv"
+	},{
+		"format": "csv",
+		"month": "2019-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/March-card-payments.csv",
+		"name": "March card payments",
+		"file": "2019-03-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/April.csv",
+		"name": "April",
+		"file": "2019-04.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/April-card-payments.csv",
+		"name": "April card payments",
+		"file": "2019-04-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/May.csv",
+		"name": "May",
+		"file": "2019-05.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/May-card-payments.csv",
+		"name": "May card payments",
+		"file": "2019-05-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/June.csv",
+		"name": "June",
+		"file": "2019-06.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/June-card-payments.csv",
+		"name": "June card payments",
+		"file": "2019-06-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/July.csv",
+		"name": "July",
+		"file": "2019-07.csv"
+	},{
+		"format": "csv",
+		"month": "2019-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/July-card-payments.csv",
+		"name": "July card payments",
+		"file": "2019-07-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/August.csv",
+		"name": "August",
+		"file": "2019-08.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/August-card-payments.csv",
+		"name": "August card payments",
+		"file": "2019-08-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/September.csv",
+		"name": "September",
+		"file": "2019-09.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/September-card-payments.csv",
+		"name": "September card payments",
+		"file": "2019-09-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/October.csv",
+		"name": "October",
+		"file": "2019-10.csv"
+	},{
+		"format": "csv",
+		"month": "2019-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/October-card-payments.csv",
+		"name": "October card payments",
+		"file": "2019-10-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/November.csv",
+		"name": "November",
+		"file": "2019-11.csv"
+	},{
+		"format": "csv",
+		"month": "2019-11",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/November-card-payments.csv",
+		"name": "November card payments",
+		"file": "2019-11-card.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/December.csv",
+		"name": "December",
+		"file": "2019-12.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2019/December-card-payments.csv",
+		"name": "December card payments",
+		"file": "2019-12-card.csv"
+	},{
+		"format": "csv",
+		"month": "2020-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/January.csv",
+		"name": "January",
+		"file": "2020-01.csv"
+	},{
+		"format": "csv",
+		"month": "2020-01",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/January-card-payments.csv",
+		"name": "January card payments",
+		"file": "2020-01-card.csv"
+	},{
+		"format": "csv",
+		"month": "2020-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/February.csv",
+		"name": "February",
+		"file": "2020-02.csv"
+	},{
+		"format": "csv",
+		"month": "2020-02",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/February-card-payments.csv",
+		"name": "February card payments",
+		"file": "2020-02-card.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/March.csv",
+		"name": "March",
+		"file": "2020-03.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/March-card-payments.csv",
+		"name": "March card payments",
+		"file": "2020-03-card.csv"
+	},{
+		"format": "csv",
+		"month": "2020-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/April.csv",
+		"name": "April",
+		"file": "2020-04.csv"
+	},{
+		"format": "csv",
+		"month": "2020-04",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/April-card-payments.csv",
+		"name": "April card payments",
+		"file": "2020-04-card.csv"
+	},{
+		"format": "csv",
+		"month": "2020-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/May.csv",
+		"name": "May",
+		"file": "2020-05.csv"
+	},{
+		"format": "csv",
+		"month": "2020-05",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/May-card-payments.csv",
+		"name": "May card payments",
+		"file": "2020-05-card.csv"
+	},{
+		"format": "csv",
+		"month": "2020-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/June.csv",
+		"name": "June",
+		"file": "2020-06.csv"
+	},{
+		"format": "csv",
+		"month": "2020-06",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/June-card-payments.csv",
+		"name": "June card payments",
+		"file": "2020-06-card.csv"
+	},{
+		"format": "csv",
+		"month": "2020-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/July.csv",
+		"name": "July",
+		"file": "2020-07.csv"
+	},{
+		"format": "csv",
+		"month": "2020-07",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/July-card-payments.csv",
+		"name": "July card payments",
+		"file": "2020-07-card.csv"
+	}]
+}
