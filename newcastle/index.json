@@ -1,0 +1,521 @@
+{
+	"dir": "newcastle",
+	"src": {
+		"urls": ["https://www.newcastle.gov.uk/local-government/access-information-and-data/open-data/payments-over-ps250-data-sets"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Grand Total","Total","'Total (excludes VAT)"],
+			"Beneficiary Name": ["Supplier Name","Benificiary Name"],
+			"Organisation Label": [],
+			"Organisational Unit": ["Directorate"],
+			"Payment Date": ["Payment Date","Paid Date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2010-04",
+		"url": "",
+		"name": "2010-04",
+		"file": "2010-04.csv"
+	},{
+		"format": "csv",
+		"month": "2010-06",
+		"url": "",
+		"name": "2010-06",
+		"file": "2010-06.csv"
+	},{
+		"format": "csv",
+		"month": "2010-08",
+		"url": "",
+		"name": "2010-08",
+		"file": "2010-08.csv"
+	},{
+		"format": "csv",
+		"month": "2010-10",
+		"url": "",
+		"name": "2010-10",
+		"file": "2010-10.csv"
+	},{
+		"format": "csv",
+		"month": "2010-12",
+		"url": "",
+		"name": "2010-12",
+		"file": "2010-12.csv"
+	},{
+		"format": "csv",
+		"month": "2011-02",
+		"url": "",
+		"name": "2011-02",
+		"file": "2011-02.csv"
+	},{
+		"format": "csv",
+		"month": "2011-04",
+		"url": "",
+		"name": "2011-04",
+		"file": "2011-04.csv"
+	},{
+		"format": "csv",
+		"month": "2011-06",
+		"url": "",
+		"name": "2011-06",
+		"file": "2011-06.csv"
+	},{
+		"format": "csv",
+		"month": "2011-08",
+		"url": "",
+		"name": "2011-08",
+		"file": "2011-08.csv"
+	},{
+		"format": "csv",
+		"month": "2011-10",
+		"url": "",
+		"name": "2011-10",
+		"file": "2011-10.csv"
+	},{
+		"format": "csv",
+		"month": "2011-12",
+		"url": "",
+		"name": "2011-12",
+		"file": "2011-12.csv"
+	},{
+		"format": "csv",
+		"month": "2012-02",
+		"url": "",
+		"name": "2012-02",
+		"file": "2012-02.csv"
+	},{
+		"format": "csv",
+		"month": "2012-04",
+		"url": "",
+		"name": "2012-04",
+		"file": "2012-04.csv"
+	},{
+		"format": "csv",
+		"month": "2012-06",
+		"url": "",
+		"name": "2012-06",
+		"file": "2012-06.csv"
+	},{
+		"format": "csv",
+		"month": "2012-08",
+		"url": "",
+		"name": "2012-08",
+		"file": "2012-08.csv"
+	},{
+		"format": "csv",
+		"month": "2012-10",
+		"url": "",
+		"name": "2012-10",
+		"file": "2012-10.csv"
+	},{
+		"format": "csv",
+		"month": "2012-12",
+		"url": "",
+		"name": "2012-12",
+		"file": "2012-12.csv"
+	},{
+		"format": "csv",
+		"month": "2013-02",
+		"url": "",
+		"name": "2013-02",
+		"file": "2013-02.csv"
+	},{
+		"format": "csv",
+		"month": "2013-04",
+		"url": "",
+		"name": "2013-04",
+		"file": "2013-04.csv"
+	},{
+		"format": "csv",
+		"month": "2013-06",
+		"url": "",
+		"name": "2013-06",
+		"file": "2013-06.csv"
+	},{
+		"format": "csv",
+		"month": "2013-08",
+		"url": "",
+		"name": "2013-08",
+		"file": "2013-08.csv"
+	},{
+		"format": "csv",
+		"month": "2013-10",
+		"url": "",
+		"name": "2013-10",
+		"file": "2013-10.csv"
+	},{
+		"format": "csv",
+		"month": "2013-12",
+		"url": "",
+		"name": "2013-12",
+		"file": "2013-12.csv"
+	},{
+		"format": "csv",
+		"month": "2014-02",
+		"url": "",
+		"name": "2014-02",
+		"file": "2014-02.csv"
+	},{
+		"format": "csv",
+		"month": "2014-04",
+		"url": "",
+		"name": "2014-04",
+		"file": "2014-04.csv"
+	},{
+		"format": "csv",
+		"month": "2014-06",
+		"url": "",
+		"name": "2014-06",
+		"file": "2014-06.csv"
+	},{
+		"format": "csv",
+		"month": "2014-08",
+		"url": "",
+		"name": "2014-08",
+		"file": "2014-08.csv"
+	},{
+		"format": "csv",
+		"month": "2014-10",
+		"url": "",
+		"name": "2014-10",
+		"file": "2014-10.csv"
+	},{
+		"format": "csv",
+		"month": "2014-12",
+		"url": "",
+		"name": "2014-12",
+		"file": "2014-12.csv"
+	},{
+		"format": "csv",
+		"month": "2015-02",
+		"url": "",
+		"name": "2015-02",
+		"file": "2015-02.csv"
+	},{
+		"format": "csv",
+		"month": "2015-04",
+		"url": "",
+		"name": "2015-04",
+		"file": "2015-04.csv"
+	},{
+		"format": "csv",
+		"month": "2015-06",
+		"url": "",
+		"name": "2015-06",
+		"file": "2015-06.csv"
+	},{
+		"format": "csv",
+		"month": "2015-08",
+		"url": "",
+		"name": "2015-08",
+		"file": "2015-08.csv"
+	},{
+		"format": "csv",
+		"month": "2015-10",
+		"url": "",
+		"name": "2015-10",
+		"file": "2015-10.csv"
+	},{
+		"format": "csv",
+		"month": "2015-12",
+		"url": "",
+		"name": "2015-12",
+		"file": "2015-12.csv"
+	},{
+		"format": "csv",
+		"month": "2016-02",
+		"url": "",
+		"name": "2016-02",
+		"file": "2016-02.csv"
+	},{
+		"format": "csv",
+		"month": "2016-04",
+		"url": "",
+		"name": "2016-04",
+		"file": "2016-04.csv"
+	},{
+		"format": "csv",
+		"month": "2016-06",
+		"url": "",
+		"name": "2016-06",
+		"file": "2016-06.csv"
+	},{
+		"format": "csv",
+		"month": "2016-08",
+		"url": "",
+		"name": "2016-08",
+		"file": "2016-08.csv"
+	},{
+		"format": "csv",
+		"month": "2016-10",
+		"url": "",
+		"name": "2016-10",
+		"file": "2016-10.csv"
+	},{
+		"format": "csv",
+		"month": "2016-12",
+		"url": "",
+		"name": "2016-12",
+		"file": "2016-12.csv"
+	},{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "",
+		"name": "2017-01",
+		"file": "2017-01.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "",
+		"name": "2017-02",
+		"file": "2017-02.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "",
+		"name": "2017-03",
+		"file": "2017-03.csv"
+	},{
+		"format": "csv",
+		"month": "2017-04",
+		"url": "",
+		"name": "2017-04",
+		"file": "2017-04.csv"
+	},{
+		"format": "csv",
+		"month": "2017-05",
+		"url": "",
+		"name": "2017-05",
+		"file": "2017-05.csv"
+	},{
+		"format": "csv",
+		"month": "2017-06",
+		"url": "",
+		"name": "2017-06",
+		"file": "2017-06.csv"
+	},{
+		"format": "csv",
+		"month": "2017-07",
+		"url": "",
+		"name": "2017-07",
+		"file": "2017-07.csv"
+	},{
+		"format": "csv",
+		"month": "2017-08",
+		"url": "",
+		"name": "2017-08",
+		"file": "2017-08.csv"
+	},{
+		"format": "csv",
+		"month": "2017-09",
+		"url": "",
+		"name": "2017-09",
+		"file": "2017-09.csv"
+	},{
+		"format": "csv",
+		"month": "2017-10",
+		"url": "",
+		"name": "2017-10",
+		"file": "2017-10.csv"
+	},{
+		"format": "csv",
+		"month": "2017-11",
+		"url": "",
+		"name": "2017-11",
+		"file": "2017-11.csv"
+	},{
+		"format": "csv",
+		"month": "2017-12",
+		"url": "",
+		"name": "2017-12",
+		"file": "2017-12.csv"
+	},{
+		"format": "csv",
+		"month": "2018-01",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/January 2018.csv",
+		"name": "2018-01",
+		"file": "2018-01.csv"
+	},{
+		"format": "csv",
+		"month": "2018-02",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/February 2018.csv",
+		"name": "2018-02",
+		"file": "2018-02.csv"
+	},{
+		"format": "csv",
+		"month": "2018-03",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/March 2018.csv",
+		"name": "2018-03",
+		"file": "2018-03.csv"
+	},{
+		"format": "csv",
+		"month": "2018-04",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/April 2018.csv",
+		"name": "2018-04",
+		"file": "2018-04.csv"
+	},{
+		"format": "csv",
+		"month": "2018-05",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/May 2018.csv",
+		"name": "2018-05",
+		"file": "2018-05.csv"
+	},{
+		"format": "csv",
+		"month": "2018-06",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/June 2018.csv",
+		"name": "2018-06",
+		"file": "2018-06.csv"
+	},{
+		"format": "csv",
+		"month": "2018-07",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/July 2018.csv",
+		"name": "2018-07",
+		"file": "2018-07.csv"
+	},{
+		"format": "csv",
+		"month": "2018-08",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/August 2018.csv",
+		"name": "2018-08",
+		"file": "2018-08.csv"
+	},{
+		"format": "csv",
+		"month": "2018-09",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/September 2018.csv",
+		"name": "2018-09",
+		"file": "2018-09.csv"
+	},{
+		"format": "csv",
+		"month": "2018-10",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/October 2018.csv",
+		"name": "2018-10",
+		"file": "2018-10.csv"
+	},{
+		"format": "csv",
+		"month": "2018-11",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/November 2018.csv",
+		"name": "2018-11",
+		"file": "2018-11.csv"
+	},{
+		"format": "csv",
+		"month": "2018-12",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2018/December 2018.csv",
+		"name": "2018-12",
+		"file": "2018-12.csv"
+	},{
+		"format": "csv",
+		"month": "2019-01",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2019/January 2019.csv",
+		"name": "2019-01",
+		"file": "2019-01.csv"
+	},{
+		"format": "csv",
+		"month": "2019-02",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2019/February 2019.csv",
+		"name": "2019-02",
+		"file": "2019-02.csv"
+	},{
+		"format": "csv",
+		"month": "2019-03",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/Over 250 Data Sets/2019/March_2019.csv",
+		"name": "2019-03",
+		"file": "2019-03.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/April 2019.csv",
+		"name": "2019-04",
+		"file": "2019-04.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/May 2019.csv",
+		"name": "2019-05",
+		"file": "2019-05.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/June 2019.csv",
+		"name": "2019-06",
+		"file": "2019-06.csv"
+	},{
+		"format": "csv",
+		"month": "2019-07",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/July 2019.csv",
+		"name": "2019-07",
+		"file": "2019-07.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/August 2019.csv",
+		"name": "2019-08",
+		"file": "2019-08.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/September 2019.csv",
+		"name": "2019-09",
+		"file": "2019-09.csv"
+	},{
+		"format": "csv",
+		"month": "2019-10",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/October 2019.csv",
+		"name": "2019-10",
+		"file": "2019-10.csv"
+	},{
+		"format": "csv",
+		"month": "2019-11",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/November 2019.csv",
+		"name": "2019-11",
+		"file": "2019-11.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/December 2019.csv",
+		"name": "2019-12",
+		"file": "2019-12.csv"
+	},{
+		"format": "csv",
+		"month": "2020-01",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/January 2020.csv",
+		"name": "2020-01",
+		"file": "2020-01.csv"
+	},{
+		"format": "csv",
+		"month": "2020-02",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/February 2020.csv",
+		"name": "2020-02",
+		"file": "2020-02.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/March 2020.csv",
+		"name": "2020-03",
+		"file": "2020-03.csv"
+	},{
+		"format": "csv",
+		"month": "2020-04",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/April 2020.csv",
+		"name": "2020-04",
+		"file": "2020-04.csv"
+	},{
+		"format": "csv",
+		"month": "2020-05",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/May 2020.csv",
+		"name": "2020-05",
+		"file": "2020-05.csv"
+	},{
+		"format": "csv",
+		"month": "2020-06",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/June 2020.csv",
+		"name": "2020-06",
+		"file": "2020-06.csv"
+	},{
+		"format": "csv",
+		"month": "2020-07",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/July 2020.csv",
+		"name": "2020-07",
+		"file": "2020-07.csv"
+	}]
+}

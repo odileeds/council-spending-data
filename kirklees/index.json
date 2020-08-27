@@ -1,0 +1,17 @@
+{
+	"dir": "kirklees",
+	"src": {
+		"urls": ["https://www.kirklees.gov.uk/beta/information-and-data/expenditure-data.aspx"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Amount Excluding VAT"],
+			"Beneficiary Name": ["Vendor Name","Benificiary Name"],
+			"Organisation Label": [],
+			"Organisational Unit": ["Proclass Description"],
+			"Payment Date": []
+		}
+	},
+	"files": []
+}
