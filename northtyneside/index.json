@@ -1,7 +1,7 @@
 {
 	"dir": "northtyneside",
 	"src": {
-		"tool": "wget -q  --no-check-certificate -O \"{{FILE}}\" \"{{URL}}",
+		"tool": "wget -q  --no-check-certificate -O \"{{FILE}}\" \"{{URL}}\"",
 		"urls": ["https://my.northtyneside.gov.uk/category/1271/transparency"],
 		"files": []
 	},
