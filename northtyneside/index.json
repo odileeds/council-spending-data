@@ -1,0 +1,600 @@
+{
+	"dir": "northtyneside",
+	"src": {
+		"tool": "wget -q  --no-check-certificate -O \"{{FILE}}\" \"{{URL}}",
+		"urls": ["https://my.northtyneside.gov.uk/category/1271/transparency"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Net amount","NetAmount","Net Amount £","Net Amount"],
+			"Beneficiary Name": ["Supplier name","SupplierName","Supplier Name","Supplier (Beneficiary) Name","Supplier(Beneficiary) Name","Approved Supplier (Beneficiary) Name","Benificiary Name"],
+			"Organisation Label": ["Body name"],
+			"Organisational Unit": ["Expense Area","Service Label","Service label","ServiceLabel","Service Category Label"],
+			"Payment Date": ["Transaction Date","Date","Date paid","Date Paid","DatePaid","Payment date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2014-04",
+		"url": "",
+		"name": "2014-04 Invoice",
+		"file": "2014-04_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-04",
+		"url": "",
+		"name": "2014-04 Purchase Card",
+		"file": "2014-04_p.csv"
+	},{
+		"format": "csv",
+		"month": "2014-05",
+		"url": "",
+		"name": "2014-05 Invoice",
+		"file": "2014-05_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-05",
+		"url": "",
+		"name": "2014-05 Purchase Card",
+		"file": "2014-05_p.csv"
+	},{
+		"format": "csv",
+		"month": "2014-06",
+		"url": "",
+		"name": "2014-06 Invoice",
+		"file": "2014-06_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-06",
+		"url": "",
+		"name": "2014-06 Purchase Card",
+		"file": "2014-06_p.csv"
+	},{
+		"format": "csv",
+		"month": "2014-07",
+		"url": "",
+		"name": "2014-07 Invoice",
+		"file": "2014-07_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-07",
+		"url": "",
+		"name": "2014-07 Purchase Card",
+		"file": "2014-07_p.csv"
+	},{
+		"format": "csv",
+		"month": "2014-08",
+		"url": "",
+		"name": "2014-08 Invoice",
+		"file": "2014-08_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-08",
+		"url": "",
+		"name": "2014-08 Purchase Card",
+		"file": "2014-08_p.csv"
+	},{
+		"format": "csv",
+		"month": "2014-09",
+		"url": "",
+		"name": "2014-09 Invoice",
+		"file": "2014-09_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-09",
+		"url": "",
+		"name": "2014-09 Purchase Card",
+		"file": "2014-09_p.csv"
+	},{
+		"format": "csv",
+		"month": "2014-10",
+		"url": "",
+		"name": "2014-10 Invoice",
+		"file": "2014-10_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-10",
+		"url": "",
+		"name": "2014-10 Purchase Card",
+		"file": "2014-10_p.csv"
+	},{
+		"format": "csv",
+		"month": "2014-11",
+		"url": "",
+		"name": "2014-11 Invoice",
+		"file": "2014-11_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-11",
+		"url": "",
+		"name": "2014-11 Purchase Card",
+		"file": "2014-11_p.csv"
+	},{
+		"format": "csv",
+		"month": "2014-12",
+		"url": "",
+		"name": "2014-12 Invoice",
+		"file": "2014-12_i.csv"
+	},{
+		"format": "csv",
+		"month": "2014-12",
+		"url": "",
+		"name": "2014-12 Purchase Card",
+		"file": "2014-12_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-01",
+		"url": "",
+		"name": "2015-01 Invoice",
+		"file": "2015-01_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-01",
+		"url": "",
+		"name": "2015-01 Purchase Card",
+		"file": "2015-01_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-02",
+		"url": "",
+		"name": "2015-02 Invoice",
+		"file": "2015-02_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-02",
+		"url": "",
+		"name": "2015-02 Purchase Card",
+		"file": "2015-02_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-03",
+		"url": "",
+		"name": "2015-03 Invoice",
+		"file": "2015-03_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-03",
+		"url": "",
+		"name": "2015-03 Purchase Card",
+		"file": "2015-03_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-04",
+		"url": "",
+		"name": "2015-04 Invoice",
+		"file": "2015-04_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-04",
+		"url": "",
+		"name": "2015-04 Purchase Card",
+		"file": "2015-04_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-05",
+		"url": "",
+		"name": "2015-05 Invoice",
+		"file": "2015-05_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-05",
+		"url": "",
+		"name": "2015-05 Purchase Card",
+		"file": "2015-05_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-06",
+		"url": "",
+		"name": "2015-06 Invoice",
+		"file": "2015-06_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-06",
+		"url": "",
+		"name": "2015-06 Purchase Card",
+		"file": "2015-06_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-07",
+		"url": "",
+		"name": "2015-07 Invoice",
+		"file": "2015-07_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-07",
+		"url": "",
+		"name": "2015-07 Purchase Card",
+		"file": "2015-07_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-08",
+		"url": "",
+		"name": "2015-08 Invoice",
+		"file": "2015-08_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-08",
+		"url": "",
+		"name": "2015-08 Purchase Card",
+		"file": "2015-08_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-09",
+		"url": "",
+		"name": "2015-09 Invoice",
+		"file": "2015-09_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-09",
+		"url": "",
+		"name": "2015-09 Purchase Card",
+		"file": "2015-09_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-10",
+		"url": "",
+		"name": "2015-10 Invoice",
+		"file": "2015-10_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-10",
+		"url": "",
+		"name": "2015-10 Purchase Card",
+		"file": "2015-10_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-11",
+		"url": "",
+		"name": "2015-11 Invoice",
+		"file": "2015-11_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-11",
+		"url": "",
+		"name": "2015-11 Purchase Card",
+		"file": "2015-11_p.csv"
+	},{
+		"format": "csv",
+		"month": "2015-12",
+		"url": "",
+		"name": "2015-12 Invoice",
+		"file": "2015-12_i.csv"
+	},{
+		"format": "csv",
+		"month": "2015-12",
+		"url": "",
+		"name": "2015-12 Purchase Card",
+		"file": "2015-12_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-01",
+		"url": "",
+		"name": "2016-01 Invoice",
+		"file": "2016-01_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-01",
+		"url": "",
+		"name": "2016-01 Purchase Card",
+		"file": "2016-01_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-02",
+		"url": "",
+		"name": "2016-02 Invoice",
+		"file": "2016-02_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-02",
+		"url": "",
+		"name": "2016-02 Purchase Card",
+		"file": "2016-02_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "",
+		"name": "2016-03 Invoice",
+		"file": "2016-03_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "",
+		"name": "2016-03 Purchase Card",
+		"file": "2016-03_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-04",
+		"url": "",
+		"name": "2016-04 Invoice",
+		"file": "2016-04_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-04",
+		"url": "",
+		"name": "2016-04 Purchase Card",
+		"file": "2016-04_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-05",
+		"url": "",
+		"name": "2016-05 Invoice",
+		"file": "2016-05_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-05",
+		"url": "",
+		"name": "2016-05 Purchase Card",
+		"file": "2016-05_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-06",
+		"url": "",
+		"name": "2016-06 Invoice",
+		"file": "2016-06_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-06",
+		"url": "",
+		"name": "2016-06 Purchase Card",
+		"file": "2016-06_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-07",
+		"url": "",
+		"name": "2016-07 Invoice",
+		"file": "2016-07_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-07",
+		"url": "",
+		"name": "2016-07 Purchase Card",
+		"file": "2016-07_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-08",
+		"url": "",
+		"name": "2016-08 Invoice",
+		"file": "2016-08_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-08",
+		"url": "",
+		"name": "2016-08 Purchase Card",
+		"file": "2016-08_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-09",
+		"url": "",
+		"name": "2016-09 Invoice",
+		"file": "2016-09_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-09",
+		"url": "",
+		"name": "2016-09 Purchase Card",
+		"file": "2016-09_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-10",
+		"url": "",
+		"name": "2016-10 Invoice",
+		"file": "2016-10_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-10",
+		"url": "",
+		"name": "2016-10 Purchase Card",
+		"file": "2016-10_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-11",
+		"url": "",
+		"name": "2016-11 Invoice",
+		"file": "2016-11_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-11",
+		"url": "",
+		"name": "2016-11 Purchase Card",
+		"file": "2016-11_p.csv"
+	},{
+		"format": "csv",
+		"month": "2016-12",
+		"url": "",
+		"name": "2016-12 Invoice",
+		"file": "2016-12_i.csv"
+	},{
+		"format": "csv",
+		"month": "2016-12",
+		"url": "",
+		"name": "2016-12 Purchase Card",
+		"file": "2016-12_p.csv"
+	},{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "",
+		"name": "2017-01 Invoice",
+		"file": "2017-01_i.csv"
+	},{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "",
+		"name": "2017-01 Purchase Card",
+		"file": "2017-01_p.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "",
+		"name": "2017-02 Invoice",
+		"file": "2017-02_i.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "",
+		"name": "2017-02 Purchase Card",
+		"file": "2017-02_p.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "",
+		"name": "2017-03 Invoice",
+		"file": "2017-03_i.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "",
+		"name": "2017-03 Purchase Card",
+		"file": "2017-03_p.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20Over%20250%20-%20Apr%2019.csv",
+		"name": "Purchase Card Over 250 - Apr 19.csv",
+		"file": "2019-04_p.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20-%20APR-19.csv",
+		"name": "Invoices over 250 - APR-19.csv",
+		"file": "2019-04_i.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20-%20May19%20.xls%20to%20publish.csv",
+		"name": "Invoices Over 250 - May19.csv",
+		"file": "2019-05_i.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20Over%20250%20-%20May%2019%20to%20be%20published.csv",
+		"name": " Purchase Card Over 250 - May 19.csv",
+		"file": "2019-05_p.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20-%20JUN%2019.csv",
+		"name": "Invoices over 250 - JUN 19.csv",
+		"file": "2019-06_i.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20Over%20250%20-%20JUN%2019.csv",
+		"name": "Purchase Card Over 250 - JUN 19.csv",
+		"file": "2019-06_p.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20-%20Aug%2019.csv",
+		"name": "Invoices over 250 - Aug 19.csv",
+		"file": "2019-08_i.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20Over%20250%20-%20Aug%2019.csv",
+		"name": "Purchase Card Over 250 - Aug 19.csv",
+		"file": "2019-08_p.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20-%20Sep%2019.csv",
+		"name": "Invoices over 250 - Sep 19.csv",
+		"file": "2019-09_i.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20Over%20250%20-%20Sep%2019.csv",
+		"name": "Purchase Card Over 250 - Sep 19.csv",
+		"file": "2019-09_p.csv"
+	},{
+		"format": "csv",
+		"month": "2019-10",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/NTC%20-%20Invoices%20over%20Statutory%20Amount%20Oct19%20-%20To%20publish.csv",
+		"name": "Invoices over 250 - Oct 19.csv",
+		"file": "2019-10_i.csv"
+	},{
+		"format": "csv",
+		"month": "2019-11",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/NTC%20-%20Invoices%20over%20Statutory%20AmountNov19.xls_to%20publish.csv",
+		"name": "Invoices over 250 - Nov 19.csv",
+		"file": "2019-11_i.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20-%20Dec%2019.xls_to%20be%20published.csv",
+		"name": " Invoices over 250 - DEC-19.csv",
+		"file": "2019-12_i.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20over%20250%20-%20Dec%2019%20to%20Publish%20.csv",
+		"name": "Purcahse Card over 250 - DEC-19.csv",
+		"file": "2019-12_p.csv"
+	},{
+		"format": "csv",
+		"month": "2020-01",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/NTC%20-%20Invoices%20over%20250%20-%20Jan%2020.csv",
+		"name": "NTC - Invoices over 250 - Jan 20.csv",
+		"file": "2020-01_i.csv"
+	},{
+		"format": "csv",
+		"month": "2020-01",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20over%20250%20-%20Jan%2020.csv",
+		"name": "Purchase Card over 250 - Jan 20.csv",
+		"file": "2020-01_p.csv"
+	},{
+		"format": "csv",
+		"month": "2020-02",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/NTC%20-%20Invoices%20over%20Statutory%20Amount%20-FEB20%20to%20publish.csv",
+		"name": " NTC - Invoices over 250 - Feb 20.csv",
+		"file": "2020-02_i.csv"
+	},{
+		"format": "csv",
+		"month": "2020-02",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20over%20250%20-%20Feb%2020%20to%20Publish.csv",
+		"name": " Purchase Card over 250 - Feb 20.csv",
+		"file": "2020-02_p.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20Statutory%20Amount%20Mar20%20.csv",
+		"name": "NTC - Invoices over 250 - Mar 20.csv",
+		"file": "2020-03_i.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase_Card_Over_250-_Mar_20%20.csv",
+		"name": " Purchase Card Over 250 - Mar 20.csv",
+		"file": "2020-03_p.csv"
+	},{
+		"format": "csv",
+		"month": "2020-04",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20Statutory%20AmountAPR20%20TO%20PUBLISH.csv",
+		"name": "Invoices over 250 - APR-20.csv",
+		"file": "2020-04_i.csv"
+	},{
+		"format": "csv",
+		"month": "2020-04",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20-%20APR20%20To%20Publish%20.csv",
+		"name": "Purchase Card Over 250 - Apr 20.csv",
+		"file": "2020-04_p.csv"
+	},{
+		"format": "csv",
+		"month": "2020-05",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20Over%20250%20-May%2020.csv",
+		"name": "Invoices Over 250 -May 20.csv",
+		"file": "2020-05_i.csv"
+	},{
+		"format": "csv",
+		"month": "2020-06",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20-%20june20%20to%20publish.csv",
+		"name": "Purchase Card Over 250 - Jun 20.csv",
+		"file": "2020-06_p.csv"
+	},{
+		"format": "csv",
+		"month": "2020-06",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20-June20_to%20Publish__0.csv",
+		"name": "Invoices over 250 - Jun-20.csv",
+		"file": "2020-06_i.csv"
+	}]
+}
