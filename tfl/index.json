@@ -1,0 +1,77 @@
+{
+	"dir": "tfl",
+	"src": {
+		"urls": ["https://tfl.gov.uk/corporate/publications-and-reports/expenditure-over-250"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Amount (£)","Amount ()"],
+			"Beneficiary Name": ["Vendor Name","Supplier name","SupplierName","Supplier Name","Benificiary Name"],
+			"Organisation Label": [],
+			"Organisational Unit": ["Entity"],
+			"Payment Date": ["Clearing Date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2014-03",
+		"url": "",
+		"name": "2014",
+		"file": "2014-03.csv"
+	},{
+		"format": "csv",
+		"month": "2015-03",
+		"url": "",
+		"name": "2015",
+		"file": "2015-03.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2016.csv",
+		"name": "2016",
+		"file": "2016-03.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2017.csv",
+		"name": "2017",
+		"file": "2017-03.csv"
+	},{
+		"format": "csv",
+		"month": "2018-03",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2018.csv",
+		"name": "2018",
+		"file": "2018-03.csv"
+	},{
+		"format": "csv",
+		"month": "2019-03",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2019.csv",
+		"name": "2019",
+		"file": "2019-03.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2020.csv",
+		"name": "2020",
+		"file": "2020-03.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P01",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p01.csv",
+		"name": "Payments greater than £250: 1 April 2020 - 2 May 2020",
+		"file": "2021-P01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P02",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p02.csv",
+		"name": "Payments greater than £250: 3 May 2020 - 30 May 2020",
+		"file": "2021-P02.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P03",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p03.csv",
+		"name": "Payments greater than £250: 31 May 2020 - 27 June 2020",
+		"file": "2021-P03.csv"
+	}]
+}
