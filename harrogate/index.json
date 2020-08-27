@@ -1,0 +1,395 @@
+{
+	"dir": "harrogate",
+	"src": {
+		"urls": ["https://www.harrogate.gov.uk/downloads/download/99/expenditure_documents","https://www.harrogate.gov.uk/downloads/download/213/expenditure_from_april_2018_downloads"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Net amount","NetAmount","Net Amount £","Net Amount"],
+			"Beneficiary Name": ["Supplier name","SupplierName","Supplier Name","Supplier Name(T)","Benificiary Name"],
+			"Organisation Label": ["Body name","Body Name"],
+			"Organisational Unit": ["Expense Area","Service Label","Service label","ServiceLabel","Service Label(T)"],
+			"Payment Date": ["Transaction Date","Date","Date paid","Pay date","Date Paid","DatePaid","Payment date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2015-04",
+		"url": "https://www.harrogate.gov.uk/downloads/id/989/2015_april_supplier_spend_-_csv_file.csv",
+		"name": "2015 April",
+		"file": "2015-04.csv"
+	},{
+		"format": "csv",
+		"month": "2015-05",
+		"url": "https://www.harrogate.gov.uk/downloads/id/982/2015_may_supplier_spend_-_csv_file.csv",
+		"name": "2015 May",
+		"file": "2015-05.csv"
+	},{
+		"format": "csv",
+		"month": "2015-06",
+		"url": "https://www.harrogate.gov.uk/downloads/id/984/2015_june_supplier_spend_-_csv_file.csv",
+		"name": "2015 June",
+		"file": "2015-06.csv"
+	},{
+		"format": "csv",
+		"month": "2015-07",
+		"url": "https://www.harrogate.gov.uk/downloads/id/985/2015_july_supplier_spend_-_csv_file.csv",
+		"name": "2015 July",
+		"file": "2015-07.csv"
+	},{
+		"format": "csv",
+		"month": "2015-08",
+		"url": "https://www.harrogate.gov.uk/downloads/id/991/2015_august_supplier_spend_-_csv_file.csv",
+		"name": "2015 August",
+		"file": "2015-08.csv"
+	},{
+		"format": "csv",
+		"month": "2015-09",
+		"url": "https://www.harrogate.gov.uk/downloads/id/980/2015_september_supplier_spend_-_csv_file.csv",
+		"name": "2015 September",
+		"file": "2015-09.csv"
+	},{
+		"format": "csv",
+		"month": "2015-10",
+		"url": "https://www.harrogate.gov.uk/downloads/id/979/2015_october_supplier_spend_-_csv_file.csv",
+		"name": "2015 October",
+		"file": "2015-10.csv"
+	},{
+		"format": "csv",
+		"month": "2015-11",
+		"url": "https://www.harrogate.gov.uk/downloads/id/977/2015_november_supplier_spend_-_csv_file.csv",
+		"name": "2015 November",
+		"file": "2015-11.csv"
+	},{
+		"format": "csv",
+		"month": "2015-12",
+		"url": "https://www.harrogate.gov.uk/downloads/id/974/2015_december_supplier_spend_-_csv_file.csv",
+		"name": "2015 December",
+		"file": "2015-12.csv"
+	},{
+		"format": "csv",
+		"month": "2016-01",
+		"url": "https://www.harrogate.gov.uk/downloads/id/972/2016_january_supplier_spend_-_csv_file.csv",
+		"name": "2016 January",
+		"file": "2016-01.csv"
+	},{
+		"format": "csv",
+		"month": "2016-02",
+		"url": "https://www.harrogate.gov.uk/downloads/id/969/2016_february_supplier_spend_-_csv_file.csv",
+		"name": "2016 February",
+		"file": "2016-02.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "https://www.harrogate.gov.uk/downloads/id/968/2016_march_supplier_spend_-_csv_file.csv",
+		"name": "2016 March",
+		"file": "2016-03.csv"
+	},{
+		"format": "csv",
+		"month": "2016-04",
+		"url": "",
+		"name": "2016 April",
+		"file": "2016-04.csv"
+	},{
+		"format": "csv",
+		"month": "2016-05",
+		"url": "https://www.harrogate.gov.uk/downloads/id/1277/2016_may_supplier_spend_-_csv_file.csv",
+		"name": "2016 May",
+		"file": "2016-05.csv"
+	},{
+		"format": "csv",
+		"month": "2016-06",
+		"url": "https://www.harrogate.gov.uk/downloads/id/1585/2016_june_supplier_spend_-_csv_file.csv",
+		"name": "2016 June",
+		"file": "2016-06.csv"
+	},{
+		"format": "csv",
+		"month": "2016-07",
+		"url": "https://www.harrogate.gov.uk/downloads/id/1647/2016_july_supplier_spend_-_csv_file.csv",
+		"name": "2016 July",
+		"file": "2016-07.csv"
+	},{
+		"format": "csv",
+		"month": "2016-08",
+		"url": "https://www.harrogate.gov.uk/downloads/id/1744/2016_august_supplier_spend_-_csv_file.csv",
+		"name": "2016 August",
+		"file": "2016-08.csv"
+	},{
+		"format": "csv",
+		"month": "2016-09",
+		"url": "https://www.harrogate.gov.uk/downloads/id/1836/2016_september_supplier_spend_-_csv_file.csv",
+		"name": "2016 September",
+		"file": "2016-09.csv"
+	},{
+		"format": "csv",
+		"month": "2016-10",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2165/2016_october_supplier_spend_-_csv_file.csv",
+		"name": "2016 October",
+		"file": "2016-10.csv"
+	},{
+		"format": "csv",
+		"month": "2016-11",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2223/2016_november_supplier_spend_-_csv_file.csv",
+		"name": "2016 November",
+		"file": "2016-11.csv"
+	},{
+		"format": "csv",
+		"month": "2016-12",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2270/2016_december_supplier_spend_-_csv_file.csv",
+		"name": "2016 December",
+		"file": "2016-12.csv"
+	},{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2355/2017_january_supplier_spend_-_csv_file.csv",
+		"name": "2017 January",
+		"file": "2017-01.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2444/2017_february_supplier_spend_-_csv_file.csv",
+		"name": "2017 February",
+		"file": "2017-02.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2540/2017_march_supplier_spend_-_csv_file.csv",
+		"name": "2017 March",
+		"file": "2017-03.csv"
+	},{
+		"format": "csv",
+		"month": "2017-04",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2629/2017_april_supplier_spend_-_csv_file.csv",
+		"name": "2017 April",
+		"file": "2017-04.csv"
+	},{
+		"format": "csv",
+		"month": "2017-05",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2675/2017_may_supplier_spend_-_csv_file.csv",
+		"name": "2017 May",
+		"file": "2017-05.csv"
+	},{
+		"format": "csv",
+		"month": "2017-06",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2807/2017_june_supplier_spend_-_csv_file.csv",
+		"name": "2017 June",
+		"file": "2017-06.csv"
+	},{
+		"format": "csv",
+		"month": "2017-07",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2804/2017_july_supplier_spend_-_csv_file.csv",
+		"name": "2017 July",
+		"file": "2017-07.csv"
+	},{
+		"format": "csv",
+		"month": "2017-08",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2873/2017_august_supplier_spend_-_csv_file.csv",
+		"name": "2017 August",
+		"file": "2017-08.csv"
+	},{
+		"format": "csv",
+		"month": "2017-09",
+		"url": "https://www.harrogate.gov.uk/downloads/id/2986/2017_september_supplier_spend_-_csv_document.csv",
+		"name": "2017 September",
+		"file": "2017-09.csv"
+	},{
+		"format": "csv",
+		"month": "2017-10",
+		"url": "https://www.harrogate.gov.uk/downloads/id/3058/2017_october_supplier_spend_-_csv_file.csv",
+		"name": "2017 October",
+		"file": "2017-10.csv"
+	},{
+		"format": "csv",
+		"month": "2017-11",
+		"url": "https://www.harrogate.gov.uk/downloads/id/3146/2017_november_supplier_spend_-_csv_file.csv",
+		"name": "2017 November",
+		"file": "2017-11.csv"
+	},{
+		"format": "csv",
+		"month": "2017-12",
+		"url": "https://www.harrogate.gov.uk/downloads/id/3234/2017_december_supplier_spend_-_csv_file.csv",
+		"name": "2017 December",
+		"file": "2017-12.csv"
+	},{
+		"format": "csv",
+		"month": "2018-01",
+		"url": "https://www.harrogate.gov.uk/downloads/id/3457/2018_january_supplier_spend_-_csv_file.csv",
+		"name": "2018 January",
+		"file": "2018-01.csv"
+	},{
+		"format": "csv",
+		"month": "2018-02",
+		"url": "https://www.harrogate.gov.uk/downloads/id/3521/2018_february_supplier_spend_-_csv_file.csv",
+		"name": "2018 February",
+		"file": "2018-02.csv"
+	},{
+		"format": "csv",
+		"month": "2018-03",
+		"url": "https://www.harrogate.gov.uk/downloads/id/3776/2018_march_supplier_spend_-_csv_file.csv",
+		"name": "2018 March",
+		"file": "2018-03.csv"
+	},{
+		"format": "csv",
+		"month": "2018-04",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5081/2018_april_supplier_spend_-_csv_file.csv",
+		"name": "2018 April",
+		"file": "2018-04.csv"
+	},{
+		"format": "csv",
+		"month": "2018-05",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5092/2018_may_supplier_spend_-_csv_file.csv",
+		"name": "2018 May",
+		"file": "2018-05.csv"
+	},{
+		"format": "csv",
+		"month": "2018-06",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5090/2018_june_supplier_spend_-_csv_file.csv",
+		"name": "2018 June",
+		"file": "2018-06.csv"
+	},{
+		"format": "csv",
+		"month": "2018-07",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5093/2018_july_supplier_spend_-_csv_file.csv",
+		"name": "2018 July",
+		"file": "2018-07.csv"
+	},{
+		"format": "csv",
+		"month": "2018-08",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5091/2018_august_supplier_spend_-_csv_file.csv",
+		"name": "2018 August",
+		"file": "2018-08.csv"
+	},{
+		"format": "csv",
+		"month": "2018-09",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5094/2018_september_supplier_spend_-_csv_file.csv",
+		"name": "2018 September",
+		"file": "2018-09.csv"
+	},{
+		"format": "csv",
+		"month": "2018-10",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5089/2018_october_supplier_spend_-_csv_file.csv",
+		"name": "2018 October",
+		"file": "2018-10.csv"
+	},{
+		"format": "csv",
+		"month": "2018-11",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5088/2018_november_supplier_spend_-_csv_file.csv",
+		"name": "2018 November",
+		"file": "2018-11.csv"
+	},{
+		"format": "csv",
+		"month": "2018-12",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5082/2018_december_supplier_spend_-_csv_file.csv",
+		"name": "2018 December",
+		"file": "2018-12.csv"
+	},{
+		"format": "csv",
+		"month": "2019-01",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5068/2019_january_supplier_spend_-_csv_file.csv",
+		"name": "2019 January",
+		"file": "2019-01.csv"
+	},{
+		"format": "csv",
+		"month": "2019-02",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5069/2019_february_supplier_spend_-_csv_file.csv",
+		"name": "2019 February",
+		"file": "2019-02.csv"
+	},{
+		"format": "csv",
+		"month": "2019-03",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5070/2019_march_supplier_spend_-_csv_file.csv",
+		"name": "2019 March",
+		"file": "2019-03.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5142/2019_april_supplier_spend_-_csv_file.csv",
+		"name": "2019 April",
+		"file": "2019-04.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5233/2019_may_supplier_spend_-_csv_file.csv",
+		"name": "2019 May",
+		"file": "2019-05.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5283/2019_june_supplier_spend_-_csv_file.csv",
+		"name": "2019 June",
+		"file": "2019-06.csv"
+	},{
+		"format": "csv",
+		"month": "2019-07",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5328/2019_july_supplier_spend_-_csv_file.csv",
+		"name": "2019 July",
+		"file": "2019-07.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5364/2019_august_supplier_spend_-_csv_file.csv",
+		"name": "2019 August",
+		"file": "2019-08.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5381/2019_september_supplier_spend_-_csv_file.csv",
+		"name": "2019 September",
+		"file": "2019-09.csv"
+	},{
+		"format": "csv",
+		"month": "2019-10",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5412/2019_october_supplier_spend_-_csv_file.csv",
+		"name": "2019 October",
+		"file": "2019-10.csv"
+	},{
+		"format": "csv",
+		"month": "2019-11",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5446/2019_november_supplier_spend_-_csv_file.csv",
+		"name": "2019 November",
+		"file": "2019-11.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5464/2019_december_supplier_spend_-_csv_file.csv",
+		"name": "2019 December",
+		"file": "2019-12.csv"
+	},{
+		"format": "csv",
+		"month": "2020-01",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5486/2020_january_supplier_spend_-_csv_file.csv",
+		"name": "2020 January",
+		"file": "2020-01.csv"
+	},{
+		"format": "csv",
+		"month": "2020-02",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5528/2020_february_supplier_spend_-_csv_document.csv",
+		"name": "2020 February",
+		"file": "2020-02.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "https://www.harrogate.gov.uk/downloads/id/5569/2020_march_supplier_spend_-_csv_file.csv",
+		"name": "2020 March",
+		"file": "2020-03.csv"
+	},{
+		"format": "csv",
+		"month": "2020-04",
+		"url": "https://www.harrogate.gov.uk/downloads/id/6257/2020_april_supplier_spend_-_csv_file.csv",
+		"name": "2020 April",
+		"file": "2020-04.csv"
+	},{
+		"format": "csv",
+		"month": "2020-05",
+		"url": "https://www.harrogate.gov.uk/downloads/id/6296/2020_may_supplier_spend_-_csv_file.csv",
+		"name": "2020 May",
+		"file": "2020-05.csv"
+	},{
+		"format": "csv",
+		"month": "2020-06",
+		"url": "https://www.harrogate.gov.uk/downloads/id/6337/2020_june_supplier_spend_-_csv_file.csv",
+		"name": "2020 June",
+		"file": "2020-06.csv"
+	}]
+}
