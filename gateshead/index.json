@@ -1,6 +1,7 @@
 {
 	"dir": "gateshead",
 	"src": {
+		"tool": "wget -q  -O \"{{FILE}}\" \"{{URL}}\"",
 		"urls": ["https://www.gateshead.gov.uk/article/3456/Expenditure-over-500"],
 		"files": []
 	},
