@@ -1,0 +1,270 @@
+{
+	"dir": "networkrail",
+	"src": {
+		"tool": "",
+		"urls": [],
+		"files": ["spending.html"]
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Spend"],
+			"Beneficiary Name": ["Supplier Name"],
+			"Organisation Label": [],
+			"Organisational Unit": ["Category Family"],
+			"Payment Date": ["Invoice GL Date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-January-2017.xlsx",
+		"name": "Spend over £25,000 January 2017",
+		"file": "2017-01.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-February-2017.xlsx",
+		"name": "Spend over £25,000 February 2017",
+		"file": "2017-02.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-March-2017.xlsx",
+		"name": "Spend over £25,000 March 2017",
+		"file": "2017-03.csv"
+	},{
+		"format": "csv",
+		"month": "2017-04",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-April-2017.xlsx",
+		"name": "Spend over £25,000 April 2017",
+		"file": "2017-04.csv"
+	},{
+		"format": "csv",
+		"month": "2017-05",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-May-2017.xlsx",
+		"name": "Spend over £25,000 May 2017",
+		"file": "2017-05.csv"
+	},{
+		"format": "csv",
+		"month": "2017-06",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-June-2017.xlsx",
+		"name": "Spend over £25,000 June 2017",
+		"file": "2017-06.csv"
+	},{
+		"format": "csv",
+		"month": "2017-07",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-July-2017.xlsx",
+		"name": "Spend over £25,000 July 2017",
+		"file": "2017-07.csv"
+	},{
+		"format": "csv",
+		"month": "2017-08",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-August-2017.xlsx",
+		"name": "Spend over £25,000 August 2017",
+		"file": "2017-08.csv"
+	},{
+		"format": "csv",
+		"month": "2017-09",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-September-2017.xlsx",
+		"name": "Spend over £25,000 September 2017",
+		"file": "2017-09.csv"
+	},{
+		"format": "csv",
+		"month": "2017-10",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-October-2017.xlsx",
+		"name": "Spend over £25,000 October 2017",
+		"file": "2017-10.csv"
+	},{
+		"format": "csv",
+		"month": "2017-11",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-November-2017.xlsx",
+		"name": "Spend over £25,000 November 2017",
+		"file": "2017-11.csv"
+	},{
+		"format": "csv",
+		"month": "2017-12",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-December-2017.xlsx",
+		"name": "Spend over £25,000 December 2017",
+		"file": "2017-12.csv"
+	},{
+		"format": "csv",
+		"month": "2018-01",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-January-2018.xlsx",
+		"name": "Spend over £25,000 January 2018",
+		"file": "2018-01.csv"
+	},{
+		"format": "csv",
+		"month": "2018-02",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-February-2018.xlsx",
+		"name": "Spend over £25,000 February 2018",
+		"file": "2018-02.csv"
+	},{
+		"format": "csv",
+		"month": "2018-03",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-March-2018.xlsx",
+		"name": "Spend over £25,000 March 2018",
+		"file": "2018-03.csv"
+	},{
+		"format": "csv",
+		"month": "2018-04",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-April-2018.xlsx",
+		"name": "Spend over £25,000 April 2018",
+		"file": "2018-04.csv"
+	},{
+		"format": "csv",
+		"month": "2018-05",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-May-2018.xlsx",
+		"name": "Spend over £25,000 May 2018",
+		"file": "2018-05.csv"
+	},{
+		"format": "csv",
+		"month": "2018-06",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-June-2018.xlsx",
+		"name": "Spend over £25,000 June 2018",
+		"file": "2018-06.csv"
+	},{
+		"format": "csv",
+		"month": "2018-07",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-July-2018.xlsx",
+		"name": "Spend over £25,000 July 2018",
+		"file": "2018-07.csv"
+	},{
+		"format": "csv",
+		"month": "2018-08",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-August-2018.xlsx",
+		"name": "Spend over £25,000 August 2018",
+		"file": "2018-08.csv"
+	},{
+		"format": "csv",
+		"month": "2018-09",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-September-2018.xlsx",
+		"name": "Spend over £25,000 September 2018",
+		"file": "2018-09.csv"
+	},{
+		"format": "csv",
+		"month": "2018-10",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-October-2018.xlsx",
+		"name": "Spend over £25,000 October 2018",
+		"file": "2018-10.csv"
+	},{
+		"format": "csv",
+		"month": "2018-11",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-November-2018.xlsx",
+		"name": "Spend over £25,000 November 2018",
+		"file": "2018-11.csv"
+	},{
+		"format": "csv",
+		"month": "2018-12",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-December-2018.xlsx",
+		"name": "Spend over £25,000 December 2018",
+		"file": "2018-12.csv"
+	},{
+		"format": "csv",
+		"month": "2019-01",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-January-2019.xlsx",
+		"name": "Spend over £25,000 January 2019",
+		"file": "2019-01.csv"
+	},{
+		"format": "csv",
+		"month": "2019-02",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/06/Spend-over-£25000-February-2019.xlsx",
+		"name": "Spend over £25,000 February 2019",
+		"file": "2019-02.csv"
+	},{
+		"format": "csv",
+		"month": "2019-03",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/07/Spend-over-£25000-March-2019.xlsx",
+		"name": "Spend over £25,000 March 2019",
+		"file": "2019-03.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/07/Spend-over-£25000-April-2019.xlsx",
+		"name": "Spend over £25,000 April 2019",
+		"file": "2019-04.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/07/Spend-over-£25000-May-2019.xlsx",
+		"name": "Spend over £25,000 May 2019",
+		"file": "2019-05.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/07/Spend-over-£25000-June-2019.xlsx",
+		"name": "Spend over £25,000 June 2019",
+		"file": "2019-06.csv"
+	},{
+		"format": "csv",
+		"month": "2019-07",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/08/Spend-over-£25000-July-2019.xlsx",
+		"name": "Spend over £25,000 July 2019",
+		"file": "2019-07.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/09/Spend-over-£25000-August-2019.xlsx",
+		"name": "Spend over £25,000 August 2019",
+		"file": "2019-08.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2019/11/Spend-over-£25000-September-2019.xlsx",
+		"name": "Spend over £25,000 September 2019",
+		"file": "2019-09.csv"
+	},{
+		"format": "csv",
+		"month": "2019-10",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/04/Spend-over-£25000-October-2019.xlsx",
+		"name": "Spend over £25,000 October 2019",
+		"file": "2019-10.csv"
+	},{
+		"format": "csv",
+		"month": "2019-11",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/04/Spend-over-£25000-November-2019.xlsx",
+		"name": "Spend over £25,000 November 2019",
+		"file": "2019-11.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/04/Spend-over-£25000-December-2019.xlsx",
+		"name": "Spend over £25,000 December 2019",
+		"file": "2019-12.csv"
+	},{
+		"format": "csv",
+		"month": "2020-01",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/04/Spend-over-£25000-January-2020.xlsx",
+		"name": "Spend over £25,000 January 2020",
+		"file": "2020-01.csv"
+	},{
+		"format": "csv",
+		"month": "2020-02",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/04/Spend-over-£25000-February-2020.xlsx",
+		"name": "Spend over £25,000 February 2020",
+		"file": "2020-02.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/07/Spend-over-£25000-March-2020.xlsx",
+		"name": "Spend over £25,000 March 2020",
+		"file": "2020-03.csv"
+	},{
+		"format": "csv",
+		"month": "2020-04",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/07/Spend-over-£25000-April-2020.xlsx",
+		"name": "Spend over £25,000 April 2020",
+		"file": "2020-04.csv"
+	},{
+		"format": "csv",
+		"month": "2020-05",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/07/Spend-over-£25000-May-2020.xlsx",
+		"name": "Spend over £25,000 May 2020",
+		"file": "2020-05.csv"
+	},{
+		"format": "csv",
+		"month": "2020-06",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/07/Spend-over-£25000-June-2020.xlsx",
+		"name": "Spend over £25,000 June 2020",
+		"file": "2020-06.csv"
+	}]
+}

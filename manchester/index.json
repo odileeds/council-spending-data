@@ -1,0 +1,714 @@
+{
+	"dir": "manchester",
+	"src": {
+		"tool": "wget -q  --no-check-certificate -O \"{{FILE}}\" \"{{URL}}\"",
+		"urls": ["https://www.manchester.gov.uk/open/downloads/download/138/expenditure_exceeding_500_current_year","http://www.manchester.gov.uk/open/downloads/119/expenditure_exceeding_500_2019_2020","http://www.manchester.gov.uk/open/downloads/113/expenditure_exceeding_500_2018_2019","http://www.manchester.gov.uk/open/downloads/108/expenditure_exceeding_500_2017_2018","http://www.manchester.gov.uk/open/downloads/101/expenditure_exceeding_500_2016_2017","http://www.manchester.gov.uk/open/downloads/93/expenditure_exceeding_500_2015_2016","http://www.manchester.gov.uk/open/downloads/79/expenditure_exceeding_500_2014_2015","http://www.manchester.gov.uk/open/downloads/78/expenditure_exceeding_500_2013_2014","http://www.manchester.gov.uk/open/downloads/77/expenditure_exceeding_500_2012_2013","http://www.manchester.gov.uk/open/downloads/76/expenditure_exceeding_500_2011_2012","http://www.manchester.gov.uk/open/downloads/75/expenditure_exceeding_500_2010_2011"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Net amount","NetAmount","Net Amount £","Net Amount"],
+			"Beneficiary Name": ["Supplier name","SupplierName","Supplier Name","Supplier Name(T)","Benificiary Name"],
+			"Organisation Label": ["Body name"],
+			"Organisational Unit": ["Service Area"],
+			"Payment Date": ["Transaction Date","Invoice Payment Date","Date","Date paid","Date Paid","DatePaid","Pay date","Payment date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2010-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/187/expenditure_exceeding_500_dec_2010.csv",
+		"name": "dec 2010",
+		"file": "2010-12.csv"
+	},{
+		"format": "csv",
+		"month": "2011-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/98/expenditure_exceeding_500_jan_2011.csv",
+		"name": "jan 2011",
+		"file": "2011-01.csv"
+	},{
+		"format": "csv",
+		"month": "2011-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/102/expenditure_exceeding_500_feb_2011.csv",
+		"name": "feb 2011",
+		"file": "2011-02.csv"
+	},{
+		"format": "csv",
+		"month": "2011-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/100/expenditure_exceeding_500_mar_2011.csv",
+		"name": "mar 2011",
+		"file": "2011-03.csv"
+	},{
+		"format": "csv",
+		"month": "2011-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/105/expenditure_exceeding_500_apr_2011.csv",
+		"name": "apr 2011",
+		"file": "2011-04.csv"
+	},{
+		"format": "csv",
+		"month": "2011-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/106/expenditure_exceeding_500_may_2011.csv",
+		"name": "may 2011",
+		"file": "2011-05.csv"
+	},{
+		"format": "csv",
+		"month": "2011-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/107/expenditure_exceeding_500_jun_2011.csv",
+		"name": "jun 2011",
+		"file": "2011-06.csv"
+	},{
+		"format": "csv",
+		"month": "2011-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/108/expenditure_exceeding_500_jul_2011.csv",
+		"name": "jul 2011",
+		"file": "2011-07.csv"
+	},{
+		"format": "csv",
+		"month": "2011-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/103/expenditure_exceeding_500_aug_2011.csv",
+		"name": "aug 2011",
+		"file": "2011-08.csv"
+	},{
+		"format": "csv",
+		"month": "2011-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/110/expenditure_exceeding_500_sep_2011.csv",
+		"name": "sep 2011",
+		"file": "2011-09.csv"
+	},{
+		"format": "csv",
+		"month": "2011-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/109/expenditure_exceeding_500_oct_2011.csv",
+		"name": "oct 2011",
+		"file": "2011-10.csv"
+	},{
+		"format": "csv",
+		"month": "2011-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/111/expenditure_exceeding_500_nov_2011.csv",
+		"name": "nov 2011",
+		"file": "2011-11.csv"
+	},{
+		"format": "csv",
+		"month": "2011-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/104/expenditure_exceeding_500_dec_2011.csv",
+		"name": "dec 2011",
+		"file": "2011-12.csv"
+	},{
+		"format": "csv",
+		"month": "2012-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/188/expenditure_exceeding_500_jan_2012.csv",
+		"name": "jan 2012",
+		"file": "2012-01.csv"
+	},{
+		"format": "csv",
+		"month": "2012-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/189/expenditure_exceeding_500_feb_2012.csv",
+		"name": "feb 2012",
+		"file": "2012-02.csv"
+	},{
+		"format": "csv",
+		"month": "2012-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/190/expenditure_exceeding_500_mar_2012.csv",
+		"name": "mar 2012",
+		"file": "2012-03.csv"
+	},{
+		"format": "csv",
+		"month": "2012-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/114/expenditure_exceeding_500_apr_2012.csv",
+		"name": "apr 2012",
+		"file": "2012-04.csv"
+	},{
+		"format": "csv",
+		"month": "2012-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/123/expenditure_exceeding_500_may_2012.csv",
+		"name": "may 2012",
+		"file": "2012-05.csv"
+	},{
+		"format": "csv",
+		"month": "2012-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/194/expenditure_exceeding_500_jun_2012.csv",
+		"name": "jun 2012",
+		"file": "2012-06.csv"
+	},{
+		"format": "csv",
+		"month": "2012-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/116/expenditure_exceeding_500_jul_2012.csv",
+		"name": "jul 2012",
+		"file": "2012-07.csv"
+	},{
+		"format": "csv",
+		"month": "2012-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/113/expenditure_exceeding_500_aug_2012.csv",
+		"name": "aug 2012",
+		"file": "2012-08.csv"
+	},{
+		"format": "csv",
+		"month": "2012-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/128/expenditure_exceeding_500_sep_2012.csv",
+		"name": "sep 2012",
+		"file": "2012-09.csv"
+	},{
+		"format": "csv",
+		"month": "2012-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/127/expenditure_exceeding_500_oct_2012.csv",
+		"name": "oct 2012",
+		"file": "2012-10.csv"
+	},{
+		"format": "csv",
+		"month": "2012-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/125/expenditure_exceeding_500_nov_2012.csv",
+		"name": "nov 2012",
+		"file": "2012-11.csv"
+	},{
+		"format": "csv",
+		"month": "2012-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/112/expenditure_exceeding_500_dec_2012.csv",
+		"name": "dec 2012",
+		"file": "2012-12.csv"
+	},{
+		"format": "csv",
+		"month": "2013-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/191/expenditure_exceeding_500_jan_2013.csv",
+		"name": "jan 2013",
+		"file": "2013-01.csv"
+	},{
+		"format": "csv",
+		"month": "2013-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/192/expenditure_exceeding_500_feb_2013.csv",
+		"name": "feb 2013",
+		"file": "2013-02.csv"
+	},{
+		"format": "csv",
+		"month": "2013-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/193/expenditure_exceeding_500_mar_2013.csv",
+		"name": "mar 2013",
+		"file": "2013-03.csv"
+	},{
+		"format": "csv",
+		"month": "2013-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/131/expenditure_exceeding_500_apr_2013.csv",
+		"name": "apr 2013",
+		"file": "2013-04.csv"
+	},{
+		"format": "csv",
+		"month": "2013-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/138/expenditure_exceeding_500_may_2013.csv",
+		"name": "may 2013",
+		"file": "2013-05.csv"
+	},{
+		"format": "csv",
+		"month": "2013-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/135/expenditure_exceeding_500_jun_2013.csv",
+		"name": "jun 2013",
+		"file": "2013-06.csv"
+	},{
+		"format": "csv",
+		"month": "2013-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/133/expenditure_exceeding_500_july_2013.csv",
+		"name": "july 2013",
+		"file": "2013-07.csv"
+	},{
+		"format": "csv",
+		"month": "2013-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/130/expenditure_exceeding_500_aug_2013.csv",
+		"name": "aug 2013",
+		"file": "2013-08.csv"
+	},{
+		"format": "csv",
+		"month": "2013-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/139/expenditure_exceeding_500_sep_2013.csv",
+		"name": "sep 2013",
+		"file": "2013-09.csv"
+	},{
+		"format": "csv",
+		"month": "2013-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/140/expenditure_exceeding_500_oct_2013.csv",
+		"name": "oct 2013",
+		"file": "2013-10.csv"
+	},{
+		"format": "csv",
+		"month": "2013-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/137/expenditure_exceeding_500_nov_2013.csv",
+		"name": "nov 2013",
+		"file": "2013-11.csv"
+	},{
+		"format": "csv",
+		"month": "2013-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/129/expenditure_exceeding_500_dec_2013.csv",
+		"name": "dec 2013",
+		"file": "2013-12.csv"
+	},{
+		"format": "csv",
+		"month": "2014-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/195/expenditure_exceeding_500_jan_2014.csv",
+		"name": "jan 2014",
+		"file": "2014-01.csv"
+	},{
+		"format": "csv",
+		"month": "2014-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/196/expenditure_exceeding_500_feb_2014.csv",
+		"name": "feb 2014",
+		"file": "2014-02.csv"
+	},{
+		"format": "csv",
+		"month": "2014-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/197/expenditure_exceeding_500_mar_2014.csv",
+		"name": "mar 2014",
+		"file": "2014-03.csv"
+	},{
+		"format": "csv",
+		"month": "2014-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/141/expenditure_exceeding_500_apr_2014.csv",
+		"name": "apr 2014",
+		"file": "2014-04.csv"
+	},{
+		"format": "csv",
+		"month": "2014-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/145/expenditure_exceeding_500_may_2014.csv",
+		"name": "may 2014",
+		"file": "2014-05.csv"
+	},{
+		"format": "csv",
+		"month": "2014-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/147/expenditure_exceeding_500_jun_2014.csv",
+		"name": "jun 2014",
+		"file": "2014-06.csv"
+	},{
+		"format": "csv",
+		"month": "2014-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/146/expenditure_exceeding_500_jul_2014.csv",
+		"name": "jul 2014",
+		"file": "2014-07.csv"
+	},{
+		"format": "csv",
+		"month": "2014-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/142/expenditure_exceeding_500_aug_2014.csv",
+		"name": "aug 2014",
+		"file": "2014-08.csv"
+	},{
+		"format": "csv",
+		"month": "2014-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/162/expenditure_exceeding_500_sep_2014.csv",
+		"name": "sep 2014",
+		"file": "2014-09.csv"
+	},{
+		"format": "csv",
+		"month": "2014-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/164/expenditure_exceeding_500_oct_2014.csv",
+		"name": "oct 2014",
+		"file": "2014-10.csv"
+	},{
+		"format": "csv",
+		"month": "2014-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/183/expenditure_exceeding_500_nov_2014.csv",
+		"name": "nov 2014",
+		"file": "2014-11.csv"
+	},{
+		"format": "csv",
+		"month": "2014-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/184/expenditure_exceeding_500_dec_2014.csv",
+		"name": "dec 2014",
+		"file": "2014-12.csv"
+	},{
+		"format": "csv",
+		"month": "2015-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/185/expenditure_exceeding_500_jan_2015.csv",
+		"name": "jan 2015",
+		"file": "2015-01.csv"
+	},{
+		"format": "csv",
+		"month": "2015-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/177/expenditure_exceeding_500_feb_2015.csv",
+		"name": "feb 2015",
+		"file": "2015-02.csv"
+	},{
+		"format": "csv",
+		"month": "2015-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/186/expenditure_exceeding_500_mar_2015.csv",
+		"name": "mar 2015",
+		"file": "2015-03.csv"
+	},{
+		"format": "csv",
+		"month": "2015-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/199/expenditure_exceeding_500_april_2015.csv",
+		"name": "april 2015",
+		"file": "2015-04.csv"
+	},{
+		"format": "csv",
+		"month": "2015-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/198/expenditure_exceeding_500_may_2015.csv",
+		"name": "may 2015",
+		"file": "2015-05.csv"
+	},{
+		"format": "csv",
+		"month": "2015-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/202/expenditure_exceeding_500_june_2015.csv",
+		"name": "june 2015",
+		"file": "2015-06.csv"
+	},{
+		"format": "csv",
+		"month": "2015-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/203/expenditure_exceeding_500_july_2015.csv",
+		"name": "july 2015",
+		"file": "2015-07.csv"
+	},{
+		"format": "csv",
+		"month": "2015-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/208/expenditure_exceeding_500_august_2015.csv",
+		"name": "august 2015",
+		"file": "2015-08.csv"
+	},{
+		"format": "csv",
+		"month": "2015-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/209/expenditure_exceeding_500_september_2015.csv",
+		"name": "september 2015",
+		"file": "2015-09.csv"
+	},{
+		"format": "csv",
+		"month": "2015-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/210/expenditure_exceeding_500_october_2015.csv",
+		"name": "october 2015",
+		"file": "2015-10.csv"
+	},{
+		"format": "csv",
+		"month": "2015-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/211/expenditure_exceeding_500_november_2015.csv",
+		"name": "november 2015",
+		"file": "2015-11.csv"
+	},{
+		"format": "csv",
+		"month": "2015-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/214/expenditure_exceeding_500_december_2015.csv",
+		"name": "december 2015",
+		"file": "2015-12.csv"
+	},{
+		"format": "csv",
+		"month": "2016-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/217/expenditure_exceeding_500_january_2016.csv",
+		"name": "january 2016",
+		"file": "2016-01.csv"
+	},{
+		"format": "csv",
+		"month": "2016-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/230/expenditure_exceeding_500_february_2016.csv",
+		"name": "february 2016",
+		"file": "2016-02.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/243/expenditure_exceeding_500_march_2016.csv",
+		"name": "march 2016",
+		"file": "2016-03.csv"
+	},{
+		"format": "csv",
+		"month": "2016-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/258/expenditure_exceeding_500_april_2016.csv",
+		"name": "april 2016",
+		"file": "2016-04.csv"
+	},{
+		"format": "csv",
+		"month": "2016-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/259/expenditure_exceeding_500_may_2016.csv",
+		"name": "may 2016",
+		"file": "2016-05.csv"
+	},{
+		"format": "csv",
+		"month": "2016-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/260/expenditure_exceeding_500_june_2016.csv",
+		"name": "june 2016",
+		"file": "2016-06.csv"
+	},{
+		"format": "csv",
+		"month": "2016-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/261/expenditure_exceeding_500_july_2016.csv",
+		"name": "july 2016",
+		"file": "2016-07.csv"
+	},{
+		"format": "csv",
+		"month": "2016-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/269/expenditure_exceeding_500_august_2016.csv",
+		"name": "august 2016",
+		"file": "2016-08.csv"
+	},{
+		"format": "csv",
+		"month": "2016-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/277/expenditure_exceeding_500_september_2016.csv",
+		"name": "september 2016",
+		"file": "2016-09.csv"
+	},{
+		"format": "csv",
+		"month": "2016-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/284/expenditure_exceeding_500_october_2016.csv",
+		"name": "october 2016",
+		"file": "2016-10.csv"
+	},{
+		"format": "csv",
+		"month": "2016-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/286/expenditure_exceeding_500_november_2016.csv",
+		"name": "november 2016",
+		"file": "2016-11.csv"
+	},{
+		"format": "csv",
+		"month": "2016-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/290/expenditure_exceeding_500_december_2016.csv",
+		"name": "december 2016",
+		"file": "2016-12.csv"
+	},{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/292/expenditure_exceeding_500_january_2017.csv",
+		"name": "january 2017",
+		"file": "2017-01.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/296/expenditure_exceeding_500_february_2017.csv",
+		"name": "february 2017",
+		"file": "2017-02.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/332/expenditure_exceeding_500_march_2017.csv",
+		"name": "march 2017",
+		"file": "2017-03.csv"
+	},{
+		"format": "csv",
+		"month": "2017-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/349/expenditure_exceeding_500_april_2017.csv",
+		"name": "april 2017",
+		"file": "2017-04.csv"
+	},{
+		"format": "csv",
+		"month": "2017-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/381/expenditure_exceeding_500_may_2017.csv",
+		"name": "may 2017",
+		"file": "2017-05.csv"
+	},{
+		"format": "csv",
+		"month": "2017-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/386/expenditure_exceeding_500_june_2017.csv",
+		"name": "june 2017",
+		"file": "2017-06.csv"
+	},{
+		"format": "csv",
+		"month": "2017-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/445/expenditure_exceeding_500_july_2017.csv",
+		"name": "july 2017",
+		"file": "2017-07.csv"
+	},{
+		"format": "csv",
+		"month": "2017-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/444/expenditure_exceeding_500_august_2017.csv",
+		"name": "august 2017",
+		"file": "2017-08.csv"
+	},{
+		"format": "csv",
+		"month": "2017-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/448/expenditure_exceeding_500_september_2017.csv",
+		"name": "september 2017",
+		"file": "2017-09.csv"
+	},{
+		"format": "csv",
+		"month": "2017-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/453/expenditure_exceeding_500_october_2017.csv",
+		"name": "october 2017",
+		"file": "2017-10.csv"
+	},{
+		"format": "csv",
+		"month": "2017-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/458/expenditure_exceeding_500_november_2017.csv",
+		"name": "november 2017",
+		"file": "2017-11.csv"
+	},{
+		"format": "csv",
+		"month": "2017-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/457/expenditure_exceeding_500_december_2017.csv",
+		"name": "december 2017",
+		"file": "2017-12.csv"
+	},{
+		"format": "csv",
+		"month": "2018-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/461/expenditure_exceeding_500_january_2018.csv",
+		"name": "january 2018",
+		"file": "2018-01.csv"
+	},{
+		"format": "csv",
+		"month": "2018-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/467/expenditure_exceeding_500_february_2018.csv",
+		"name": "february 2018",
+		"file": "2018-02.csv"
+	},{
+		"format": "csv",
+		"month": "2018-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/488/expenditure_exceeding_500_march_2018.csv",
+		"name": "march 2018",
+		"file": "2018-03.csv"
+	},{
+		"format": "csv",
+		"month": "2018-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/503/expenditure_exceeding_500_april_2018.csv",
+		"name": "april 2018",
+		"file": "2018-04.csv"
+	},{
+		"format": "csv",
+		"month": "2018-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/543/expenditure_exceeding_500_may_2018.csv",
+		"name": "may 2018",
+		"file": "2018-05.csv"
+	},{
+		"format": "csv",
+		"month": "2018-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/548/expenditure_exceeding_500_june_2018.csv",
+		"name": "june 2018",
+		"file": "2018-06.csv"
+	},{
+		"format": "csv",
+		"month": "2018-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/564/expenditure_exceeding_500_july_2018.csv",
+		"name": "july 2018",
+		"file": "2018-07.csv"
+	},{
+		"format": "csv",
+		"month": "2018-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/567/expenditure_exceeding_500_august_2018.csv",
+		"name": "august 2018",
+		"file": "2018-08.csv"
+	},{
+		"format": "csv",
+		"month": "2018-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/568/expenditure_exceeding_500_september_2018.csv",
+		"name": "september 2018",
+		"file": "2018-09.csv"
+	},{
+		"format": "csv",
+		"month": "2018-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/591/expenditure_exceeding_500_october_2018.csv",
+		"name": "october 2018",
+		"file": "2018-10.csv"
+	},{
+		"format": "csv",
+		"month": "2018-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/592/expenditure_exceeding_500_november_2018.csv",
+		"name": "november 2018",
+		"file": "2018-11.csv"
+	},{
+		"format": "csv",
+		"month": "2018-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/594/expenditure_exceeding_500_december_2018.csv",
+		"name": "december 2018",
+		"file": "2018-12.csv"
+	},{
+		"format": "csv",
+		"month": "2019-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/596/expenditure_exceeding_500_january_2019.csv",
+		"name": "january 2019",
+		"file": "2019-01.csv"
+	},{
+		"format": "csv",
+		"month": "2019-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/603/expenditure_exceeding_500_february_2019.csv",
+		"name": "february 2019",
+		"file": "2019-02.csv"
+	},{
+		"format": "csv",
+		"month": "2019-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/605/expenditure_exceeding_500_march_2019.csv",
+		"name": "march 2019",
+		"file": "2019-03.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/616/expenditure_exceeding_500_april_2019.csv",
+		"name": "april 2019",
+		"file": "2019-04.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/646/expenditure_exceeding_500_may_2019.csv",
+		"name": "may 2019",
+		"file": "2019-05.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/663/expenditure_exceeding_500_june_2019.csv",
+		"name": "june 2019",
+		"file": "2019-06.csv"
+	},{
+		"format": "csv",
+		"month": "2019-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/722/expenditure_exceeding_500_july_2019.csv",
+		"name": "july 2019",
+		"file": "2019-07.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/709/expenditure_exceeding_500_august_2019.csv",
+		"name": "august 2019",
+		"file": "2019-08.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/721/expenditure_exceeding_500_september_2019.csv",
+		"name": "september 2019",
+		"file": "2019-09.csv"
+	},{
+		"format": "csv",
+		"month": "2019-10",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/790/expenditure_exceeding_500_october_2019.csv",
+		"name": "october 2019",
+		"file": "2019-10.csv"
+	},{
+		"format": "csv",
+		"month": "2019-11",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/803/expenditure_exceeding_500_november_2019.csv",
+		"name": "november 2019",
+		"file": "2019-11.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/826/expenditure_exceeding_500_december_2019.csv",
+		"name": "december 2019",
+		"file": "2019-12.csv"
+	},{
+		"format": "csv",
+		"month": "2020-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/830/expenditure_exceeding_500_january_2020.csv",
+		"name": "january 2020",
+		"file": "2020-01.csv"
+	},{
+		"format": "csv",
+		"month": "2020-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/839/expenditure_exceeding_500_february_2020.csv",
+		"name": "february 2020",
+		"file": "2020-02.csv"
+	},{
+		"format": "csv",
+		"month": "2020-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/850/expenditure_exceeding_500_march_2020.csv",
+		"name": "march 2020",
+		"file": "2020-03.csv"
+	},{
+		"format": "csv",
+		"month": "2020-04",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/857/expenditure_exceeding_500_april_2020.csv",
+		"name": "april 2020",
+		"file": "2020-04.csv"
+	},{
+		"format": "csv",
+		"month": "2020-05",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/858/expenditure_exceeding_500_may_2020.csv",
+		"name": "may 2020",
+		"file": "2020-05.csv"
+	},{
+		"format": "csv",
+		"month": "2020-06",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/878/expenditure_exceeding_500_june_2020.csv",
+		"name": "june 2020",
+		"file": "2020-06.csv"
+	},{
+		"format": "csv",
+		"month": "2020-07",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/882/expenditure_exceeding_500_july_2020.csv",
+		"name": "july 2020",
+		"file": "2020-07.csv"
+	}]
+}

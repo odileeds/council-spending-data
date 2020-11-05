@@ -1,0 +1,503 @@
+{
+	"dir": "bradford",
+	"src": {
+		"urls": ["https://datahub.bradford.gov.uk/ebase/datahubext.eb?ebd=0&ebp=10&ebz=3_1598528273310"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Net amount","NetAmount","Net Amount £","Net Amount"],
+			"Beneficiary Name": ["Supplier name","SupplierName","Supplier Name"],
+			"Organisation Label": ["Body name"],
+			"Organisational Unit": ["Service Label","Service label","ServiceLabel"],
+			"Payment Date": ["Date","Date paid","Date Paid","DatePaid","Payment date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2013-04",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/aprilpaymentsdata2013v01.csv",
+		"name": "2013-04",
+		"file": "2013-04.csv"
+	},{
+		"format": "csv",
+		"month": "2013-05",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/maypaymentsdata2013v01.csv",
+		"name": "2013-05",
+		"file": "2013-05.csv"
+	},{
+		"format": "csv",
+		"month": "2013-06",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/junepaymentsdata2013v01.csv",
+		"name": "2013-06",
+		"file": "2013-06.csv"
+	},{
+		"format": "csv",
+		"month": "2013-07",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/julypaymentsdata2013v01.csv",
+		"name": "2013-07",
+		"file": "2013-07.csv"
+	},{
+		"format": "csv",
+		"month": "2013-08",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/augustpaymentsdata2013v01.csv",
+		"name": "2013-08",
+		"file": "2013-08.csv"
+	},{
+		"format": "csv",
+		"month": "2013-09",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/septemberpaymentsdata2013v01.csv",
+		"name": "2013-09",
+		"file": "2013-09.csv"
+	},{
+		"format": "csv",
+		"month": "2013-10",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/octoberpaymentsdata2013v01.csv",
+		"name": "2013-10",
+		"file": "2013-10.csv"
+	},{
+		"format": "csv",
+		"month": "2013-11",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/novemberpaymentsdata2013v01.csv",
+		"name": "2013-11",
+		"file": "2013-11.csv"
+	},{
+		"format": "csv",
+		"month": "2013-12",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/decemberpaymentsdata2013v01.csv",
+		"name": "2013-12",
+		"file": "2013-12.csv"
+	},{
+		"format": "csv",
+		"month": "2014-01",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/januarypaymentsdata2014v01.csv",
+		"name": "2014-01",
+		"file": "2014-01.csv"
+	},{
+		"format": "csv",
+		"month": "2014-02",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/februarypaymentsdata2014.csv",
+		"name": "2014-02",
+		"file": "2014-02.csv"
+	},{
+		"format": "csv",
+		"month": "2014-03",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/marchpaymentsdata2014v01.csv",
+		"name": "2014-03",
+		"file": "2014-03.csv"
+	},{
+		"format": "csv",
+		"month": "2014-04",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/aprilpaymentsdata2014v01.csv",
+		"name": "2014-04",
+		"file": "2014-04.csv"
+	},{
+		"format": "csv",
+		"month": "2014-05",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/maypaymentsdata2014.csv",
+		"name": "2014-05",
+		"file": "2014-05.csv"
+	},{
+		"format": "csv",
+		"month": "2014-06",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/junepaymentsdata2014v01.csv",
+		"name": "2014-06",
+		"file": "2014-06.csv"
+	},{
+		"format": "csv",
+		"month": "2014-07",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/julypaymentsdata2014v01.csv",
+		"name": "2014-07",
+		"file": "2014-07.csv"
+	},{
+		"format": "csv",
+		"month": "2014-08",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/augustpaymentsdata2014v01.csv",
+		"name": "2014-08",
+		"file": "2014-08.csv"
+	},{
+		"format": "csv",
+		"month": "2014-09",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/septemberpaymentsdata2014v01.csv",
+		"name": "2014-09",
+		"file": "2014-09.csv"
+	},{
+		"format": "csv",
+		"month": "2014-10",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/octoberpaymentsdata2014v02.csv",
+		"name": "2014-10",
+		"file": "2014-10.csv"
+	},{
+		"format": "csv",
+		"month": "2014-11",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/novemberpaymentsdata2014v01.csv",
+		"name": "2014-11",
+		"file": "2014-11.csv"
+	},{
+		"format": "csv",
+		"month": "2014-12",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/decemberpaymentsdata2014v01.csv",
+		"name": "2014-12",
+		"file": "2014-12.csv"
+	},{
+		"format": "csv",
+		"month": "2015-01",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/januarypaymentsdata2015v01.csv",
+		"name": "2015-01",
+		"file": "2015-01.csv"
+	},{
+		"format": "csv",
+		"month": "2015-02",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/februarypaymentsdata2015v01.csv",
+		"name": "2015-02",
+		"file": "2015-02.csv"
+	},{
+		"format": "csv",
+		"month": "2015-03",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/marchpaymentsdata2015v01.csv",
+		"name": "2015-03",
+		"file": "2015-03.csv"
+	},{
+		"format": "csv",
+		"month": "2015-04",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdataapril2015v01.csv",
+		"name": "2015-04",
+		"file": "2015-04.csv"
+	},{
+		"format": "csv",
+		"month": "2015-05",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdatamay2015v01.csv",
+		"name": "2015-05",
+		"file": "2015-05.csv"
+	},{
+		"format": "csv",
+		"month": "2015-06",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdatajune2015v01.csv",
+		"name": "2015-06",
+		"file": "2015-06.csv"
+	},{
+		"format": "csv",
+		"month": "2015-07",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdatajuly2015v01.csv",
+		"name": "2015-07",
+		"file": "2015-07.csv"
+	},{
+		"format": "csv",
+		"month": "2015-08",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdataaugust2015v01.csv",
+		"name": "2015-08",
+		"file": "2015-08.csv"
+	},{
+		"format": "csv",
+		"month": "2015-09",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdataseptember2015v01.csv",
+		"name": "2015-09",
+		"file": "2015-09.csv"
+	},{
+		"format": "csv",
+		"month": "2015-10",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdataoctober2015v01.csv",
+		"name": "2015-10",
+		"file": "2015-10.csv"
+	},{
+		"format": "csv",
+		"month": "2015-11",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdatanovember2015v01.csv",
+		"name": "2015-11",
+		"file": "2015-11.csv"
+	},{
+		"format": "csv",
+		"month": "2015-12",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/paymentsdatadecember2015v01.csv",
+		"name": "2015-12",
+		"file": "2015-12.csv"
+	},{
+		"format": "csv",
+		"month": "2016-01",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-january-2016-v10.csv",
+		"name": "2016-01",
+		"file": "2016-01.csv"
+	},{
+		"format": "csv",
+		"month": "2016-02",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-february-2016-v01.csv",
+		"name": "2016-02",
+		"file": "2016-02.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-march-2016-v01.csv",
+		"name": "2016-03",
+		"file": "2016-03.csv"
+	},{
+		"format": "csv",
+		"month": "2016-04",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201604-april-v01.csv",
+		"name": "2016-04",
+		"file": "2016-04.csv"
+	},{
+		"format": "csv",
+		"month": "2016-05",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201605-may-v01.csv",
+		"name": "2016-05",
+		"file": "2016-05.csv"
+	},{
+		"format": "csv",
+		"month": "2016-06",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201606-jun-v01.csv",
+		"name": "2016-06",
+		"file": "2016-06.csv"
+	},{
+		"format": "csv",
+		"month": "2016-07",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201607-jul-v01.csv",
+		"name": "2016-07",
+		"file": "2016-07.csv"
+	},{
+		"format": "csv",
+		"month": "2016-08",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201608-aug-v01.csv",
+		"name": "2016-08",
+		"file": "2016-08.csv"
+	},{
+		"format": "csv",
+		"month": "2016-09",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201609-sep-v01.csv",
+		"name": "2016-09",
+		"file": "2016-09.csv"
+	},{
+		"format": "csv",
+		"month": "2016-10",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201610-oct-v01.csv",
+		"name": "2016-10",
+		"file": "2016-10.csv"
+	},{
+		"format": "csv",
+		"month": "2016-11",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201611-nov-v01.csv",
+		"name": "2016-11",
+		"file": "2016-11.csv"
+	},{
+		"format": "csv",
+		"month": "2016-12",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201612-dec-v01.csv",
+		"name": "2016-12",
+		"file": "2016-12.csv"
+	},{
+		"format": "csv",
+		"month": "2017-01",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201701-january-v01.csv",
+		"name": "2017-01",
+		"file": "2017-01.csv"
+	},{
+		"format": "csv",
+		"month": "2017-02",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201702-february-v01.csv",
+		"name": "2017-02",
+		"file": "2017-02.csv"
+	},{
+		"format": "csv",
+		"month": "2017-03",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201703-march-v01.csv",
+		"name": "2017-03",
+		"file": "2017-03.csv"
+	},{
+		"format": "csv",
+		"month": "2017-04",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/apr-2017-csv.csv",
+		"name": "2017-04",
+		"file": "2017-04.csv"
+	},{
+		"format": "csv",
+		"month": "2017-05",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201705.csv",
+		"name": "2017-05",
+		"file": "2017-05.csv"
+	},{
+		"format": "csv",
+		"month": "2017-06",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201706.csv",
+		"name": "2017-06",
+		"file": "2017-06.csv"
+	},{
+		"format": "csv",
+		"month": "2017-07",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201707.csv",
+		"name": "2017-07",
+		"file": "2017-07.csv"
+	},{
+		"format": "csv",
+		"month": "2017-08",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201708-csv.csv",
+		"name": "2017-08",
+		"file": "2017-08.csv"
+	},{
+		"format": "csv",
+		"month": "2017-09",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201709-csv.csv",
+		"name": "2017-09",
+		"file": "2017-09.csv"
+	},{
+		"format": "csv",
+		"month": "2017-10",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201710-csv.csv",
+		"name": "2017-10",
+		"file": "2017-10.csv"
+	},{
+		"format": "csv",
+		"month": "2017-11",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201711-csv.csv",
+		"name": "2017-11",
+		"file": "2017-11.csv"
+	},{
+		"format": "csv",
+		"month": "2017-12",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201712-csv.csv",
+		"name": "2017-12",
+		"file": "2017-12.csv"
+	},{
+		"format": "csv",
+		"month": "2018-01",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201801.csv",
+		"name": "2018-01",
+		"file": "2018-01.csv"
+	},{
+		"format": "csv",
+		"month": "2018-02",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201802-csv.csv",
+		"name": "2018-02",
+		"file": "2018-02.csv"
+	},{
+		"format": "csv",
+		"month": "2018-03",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201803-csv.csv",
+		"name": "2018-03",
+		"file": "2018-03.csv"
+	},{
+		"format": "csv",
+		"month": "2018-04",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201804-csv.csv",
+		"name": "2018-04",
+		"file": "2018-04.csv"
+	},{
+		"format": "csv",
+		"month": "2018-05",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201805-csv.csv",
+		"name": "2018-05",
+		"file": "2018-05.csv"
+	},{
+		"format": "csv",
+		"month": "2018-06",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201806-csv.csv",
+		"name": "2018-06",
+		"file": "2018-06.csv"
+	},{
+		"format": "csv",
+		"month": "2018-07",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/procurement-transparency-april-2018-to-march-2019-published-data-payments-data-201807.csv",
+		"name": "2018-07",
+		"file": "2018-07.csv"
+	},{
+		"format": "csv",
+		"month": "2018-08",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/payments-data-201808-csv.csv",
+		"name": "2018-08",
+		"file": "2018-08.csv"
+	},{
+		"format": "csv",
+		"month": "2018-09",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2018.09 .csv",
+		"name": "2018-09",
+		"file": "2018-09.csv"
+	},{
+		"format": "csv",
+		"month": "2018-10",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2018.10.csv",
+		"name": "2018-10",
+		"file": "2018-10.csv"
+	},{
+		"format": "csv",
+		"month": "2018-11",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2018.11.csv",
+		"name": "2018-11",
+		"file": "2018-11.csv"
+	},{
+		"format": "csv",
+		"month": "2018-12",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2018.12.csv",
+		"name": "2018-12",
+		"file": "2018-12.csv"
+	},{
+		"format": "csv",
+		"month": "2019-01",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.01.csv",
+		"name": "2019-01",
+		"file": "2019-01.csv"
+	},{
+		"format": "csv",
+		"month": "2019-02",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.02.csv",
+		"name": "2019-02",
+		"file": "2019-02.csv"
+	},{
+		"format": "csv",
+		"month": "2019-03",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.03 (csv).csv",
+		"name": "2019-03",
+		"file": "2019-03.csv"
+	},{
+		"format": "csv",
+		"month": "2019-04",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.04.csv",
+		"name": "2019-04",
+		"file": "2019-04.csv"
+	},{
+		"format": "csv",
+		"month": "2019-05",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.05.csv",
+		"name": "2019-05",
+		"file": "2019-05.csv"
+	},{
+		"format": "csv",
+		"month": "2019-06",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.06.csv",
+		"name": "2019-06",
+		"file": "2019-06.csv"
+	},{
+		"format": "csv",
+		"month": "2019-07",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.07.csv",
+		"name": "2019-07",
+		"file": "2019-07.csv"
+	},{
+		"format": "csv",
+		"month": "2019-08",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.08.csv",
+		"name": "2019-08",
+		"file": "2019-08.csv"
+	},{
+		"format": "csv",
+		"month": "2019-09",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.09.csv",
+		"name": "2019-09",
+		"file": "2019-09.csv"
+	},{
+		"format": "csv",
+		"month": "2019-10",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.10.csv",
+		"name": "2019-10",
+		"file": "2019-10.csv"
+	},{
+		"format": "csv",
+		"month": "2019-11",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.11.csv",
+		"name": "2019-11",
+		"file": "2019-11.csv"
+	},{
+		"format": "csv",
+		"month": "2019-12",
+		"url": "https://datahub.bradford.gov.uk/opendata/payments/Payments Data 2019.12.csv",
+		"name": "2019-12",
+		"file": "2019-12.csv"
+	}]
+}

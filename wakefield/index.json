@@ -1,0 +1,173 @@
+{
+	"dir": "wakefield",
+	"src": {
+		"urls": ["http://datamillnorth.org/api/action/package_show?id=wakefield-council-spend-over-500-pounds"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["Net amount","NetAmount","Net Amount £","Net Amount"],
+			"Beneficiary Name": ["Supplier name","SupplierName","Supplier Name","Benificiary Name"],
+			"Organisation Label": [],
+			"Organisational Unit": ["Procurement Classification"],
+			"Payment Date": ["Date","Date paid","Date Paid","DatePaid","Payment date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2014-Q1",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/31a812ad-3f88-40d9-98d1-cf01ae17cb36/spend-over-500-q1-2014-2015.csv",
+		"name": "spend-over-500-q1-2014-2015.csv",
+		"file": "2014-Q1.csv"
+	},{
+		"format": "csv",
+		"month": "2014-Q2",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/7f51c2e4-0737-4f95-a824-c3ca9f70df64/spend-over-500-q2-2014-2015.csv",
+		"name": "spend-over-500-q2-2014-2015.csv",
+		"file": "2014-Q2.csv"
+	},{
+		"format": "csv",
+		"month": "2014-Q3",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/bb98c2c3-e9f0-4b4e-995d-137b1b933428/spend-over-500-q3-2014-2015.csv",
+		"name": "spend-over-500-q3-2014-2015.csv",
+		"file": "2014-Q3.csv"
+	},{
+		"format": "csv",
+		"month": "2014-Q4",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/6056eec9-9627-48c1-b452-17ed5d4816e6/spend-over-500-q4-2014-2015.csv",
+		"name": "spend-over-500-q4-2014-2015.csv",
+		"file": "2014-Q4.csv"
+	},{
+		"format": "csv",
+		"month": "2015-Q1",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/4711f8c7-ee1a-482d-a985-67d66254fcb8/spend-over-500-q1-2015-2016.csv",
+		"name": "spend-over-500-q1-2015-2016.csv",
+		"file": "2015-Q1.csv"
+	},{
+		"format": "csv",
+		"month": "2015-Q2",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/2f10fef7-c83c-4524-8485-4306be8505a9/spend-over-500-q2-2015-2016.csv",
+		"name": "spend-over-500-q2-2015-2016.csv",
+		"file": "2015-Q2.csv"
+	},{
+		"format": "csv",
+		"month": "2015-Q3",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/70ee77e3-0e7d-46a3-9b98-22edfb0b9213/spend-over-500-q3-2015-2016.csv",
+		"name": "spend-over-500-q3-2015-2016.csv",
+		"file": "2015-Q3.csv"
+	},{
+		"format": "csv",
+		"month": "2015-Q3",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/7d4b8716-5f7a-481c-8033-d7ccd25d71f8/spend-over-500-q3-2015-2016-v2.csv",
+		"name": "spend-over-500-q3-2015-2016-v2.csv",
+		"file": "2015-Q3.csv"
+	},{
+		"format": "csv",
+		"month": "2015-Q4",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/853aed80-edfa-4ceb-9931-5870149aeabb/spend-over-500-q4-2015-2016.csv",
+		"name": "spend-over-500-q4-2015-2016.csv",
+		"file": "2015-Q4.csv"
+	},{
+		"format": "csv",
+		"month": "2016-Q1",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/7dfd1b70-2a0e-435f-9fd0-384497e8c03a/spend-over-500-q1-2016-2017.csv",
+		"name": "spend-over-500-q1-2016-2017.csv",
+		"file": "2016-Q1.csv"
+	},{
+		"format": "csv",
+		"month": "2016-Q2",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/7aabbebf-f890-44ef-9f78-1567d821c533/spend-over-500-q2-2016-2017.csv",
+		"name": "spend-over-500-q2-2016-2017.csv",
+		"file": "2016-Q2.csv"
+	},{
+		"format": "csv",
+		"month": "2016-Q3",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/aa31b0b5-d134-4d9d-864c-65df5316dcc1/spend-over-500-q3-2016-2017.csv",
+		"name": "spend-over-500-q3-2016-2017.csv",
+		"file": "2016-Q3.csv"
+	},{
+		"format": "csv",
+		"month": "2016-Q4",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/dff8db57-d5e4-4a4f-9351-774fe5b7b30a/spend-over-500-q4-2016-2017.csv",
+		"name": "spend-over-500-q4-2016-2017.csv",
+		"file": "2016-Q4.csv"
+	},{
+		"format": "csv",
+		"month": "2017-Q1",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/30e18b4e-bd39-42ca-aad3-3464de89d08a/spend%2520over%2520%25C2%25A3500%2520Q1%25202017-2018.csv",
+		"name": "spend over £500 Q1 2017-2018.csv",
+		"file": "2017-Q1.csv"
+	},{
+		"format": "csv",
+		"month": "2017-Q2",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/93e18360-cfed-42e3-9944-107f8bc604b6/Spend%2520Over%2520%25C2%25A3500%2520Q2%25202017-18.csv",
+		"name": "Spend Over £500 Q2 2017-18.csv",
+		"file": "2017-Q2.csv"
+	},{
+		"format": "csv",
+		"month": "2017-Q3",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/391c3291-ed2f-4478-b0fc-d07fc16f107f/Spend%2520Over%2520%25C2%25A3500%2520Q3%25202017-18.csv",
+		"name": "Spend Over £500 Q3 2017-18.csv",
+		"file": "2017-Q3.csv"
+	},{
+		"format": "csv",
+		"month": "2017-Q4",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/22361d86-f859-457f-b412-511e3b2c44df/Spend%2520over%2520%25C2%25A3500%2520Q4%25202017-18.csv",
+		"name": "Spend over £500 Q4 2017-18.csv",
+		"file": "2017-Q4.csv"
+	},{
+		"format": "csv",
+		"month": "2018-Q1",
+		"url": "",
+		"name": "Spend over £500 Q1 2018-19.csv",
+		"file": "2018-Q1.csv"
+	},{
+		"format": "csv",
+		"month": "2018-Q2",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/f66a7aa4-a52c-47cf-8c32-50e22b050a9f/Spend%2520over%2520%25C2%25A3500%2520Q2%25202018-19.csv",
+		"name": "Spend over £500 Q2 2018-19.csv",
+		"file": "2018-Q2.csv"
+	},{
+		"format": "csv",
+		"month": "2018-Q3",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/0f8ece39-bd38-4a58-8965-8c9874b566e0/Spend%2520Over%2520%25C2%25A3500%2520Q3%25202018-19.csv",
+		"name": "Spend Over £500 Q3 2018-19.csv",
+		"file": "2018-Q3.csv"
+	},{
+		"format": "csv",
+		"month": "2018-Q4",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/7dc75d92-7a49-4e8e-a74d-daa3b5b88091/Spend%2520Over%2520%25C2%25A3500%2520Q4%25202018-19.csv",
+		"name": "Spend Over £500 Q4 2018-19.csv",
+		"file": "2018-Q4.csv"
+	},{
+		"format": "csv",
+		"month": "2019-Q1",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/15565fd8-6083-4da9-b5cd-3ae4bb7de9bc/Supplier%2520Spend%2520201920%2520Q1.csv",
+		"name": "Supplier Spend 201920 Q1.csv",
+		"file": "2019-Q1.csv"
+	},{
+		"format": "csv",
+		"month": "2019-Q2",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/c3006cec-9fdb-4252-8fe0-5f182a08b601/Supplier%2520Spend%2520201920%2520Q2.csv",
+		"name": "Supplier Spend 201920 Q2.csv",
+		"file": "2019-Q2.csv"
+	},{
+		"format": "csv",
+		"month": "2019-Q3",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/3a27cc17-7d79-4ae5-ac78-44404a375116/Supplier%2520Spend%2520201920%2520Q3.csv",
+		"name": "Supplier Spend 201920 Q3.csv",
+		"file": "2019-Q3.csv"
+	},{
+		"format": "csv",
+		"month": "2019-Q4",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/a59f13cc-2ac2-4983-8323-2bb74500ae73/Supplier%2520Spend%2520201920%2520Q4.csv",
+		"name": "Supplier Spend 201920 Q4.csv",
+		"file": "2019-Q4.csv"
+	},{
+		"format": "csv",
+		"month": "2020-Q1",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/8a30e168-6e3a-4c87-bab3-0d74b43a1309/Supplier%2520Spend%2520202021%2520Q1%2520.csv",
+		"name": "Supplier Spend 202021 Q1 .csv",
+		"file": "2020-Q1.csv"
+	}]
+}
