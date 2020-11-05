@@ -1,6 +1,7 @@
 {
 	"dir": "tfl",
 	"src": {
+		"tool": "",
 		"urls": ["https://tfl.gov.uk/corporate/publications-and-reports/expenditure-over-250"],
 		"files": []
 	},
@@ -73,5 +74,23 @@
 		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p03.csv",
 		"name": "Payments greater than £250: 31 May 2020 - 27 June 2020",
 		"file": "2021-P03.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P04",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p04.csv",
+		"name": "Payments greater than Â£250: 28 June 2020 - 25 July 2020",
+		"file": "2021-P04.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P05",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p05.csv",
+		"name": "Payments greater than Â£250: 26 July 2020 - 22 August 2020",
+		"file": "2021-P05.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P06",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p06.csv",
+		"name": "Payments greater than Â£250: 23 August 2020 - 19 September 2020 ",
+		"file": "2021-P06.csv"
 	}]
 }

@@ -590,5 +590,17 @@
 		"url": "https://www.london.gov.uk/sites/default/files/04._mayors_250_report_-_2020-21_-_p4_-_combined.csv",
 		"name": "Period 4 2020/21 (28 June 2020 - 25 July 2020)",
 		"file": "2020-P04.csv"
+	},{
+		"format": "csv",
+		"month": "2020-P05",
+		"url": "https://www.london.gov.uk/sites/default/files/04._mayors_250_report_-_2020-21_-_p5_-_combined.csv",
+		"name": "Period 5 2020/21 (26 July 2020 - 22 August 2020) ",
+		"file": "2020-P05.csv"
+	},{
+		"format": "csv",
+		"month": "2020-P06",
+		"url": "https://www.london.gov.uk/sites/default/files/04._mayors_250_report_-_2020-21_-_p6_-_combined.csv",
+		"name": "Period 6 2020/21 (23 August 2020 - 19 September 2020) ",
+		"file": "2020-P06.csv"
 	}]
 }

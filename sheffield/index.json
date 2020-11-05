@@ -1,6 +1,7 @@
 {
 	"dir": "sheffield",
 	"src": {
+		"tool": "",
 		"urls": ["http://datamillnorth.org/api/action/package_show?id=sheffieldcitycouncil-spend-over-f250"],
 		"files": []
 	},
@@ -307,5 +308,17 @@
 		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/5e411aa7-f1ee-4916-ab01-f0480d0335fa/PUBLISHED%2520-%2520July%25202020.csv",
 		"name": "Spend over £250 - 2020 - July.csv",
 		"file": "2020-07.csv"
+	},{
+		"format": "csv",
+		"month": "2020-08",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/9af79347-8f62-41cb-adde-9e96285b84a9/Copy%2520of%2520PUBLISHED%2520-%2520August%25202020.csv",
+		"name": "  Spend over Â£250 - 2020 - August.csv ",
+		"file": "2020-08.csv"
+	},{
+		"format": "csv",
+		"month": "2020-09",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/fb336579-cebd-44ae-bde4-6516b2c9b271/Copy%2520of%2520PUBLISHED%2520-%2520September%25202020.csv",
+		"name": "  Spend over Â£250 - 2020 - September.csv",
+		"file": "2020-09.csv"
 	}]
 }

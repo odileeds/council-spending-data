@@ -1,6 +1,7 @@
 {
 	"dir": "cabinetoffice",
 	"src": {
+		"tool": "",
 		"urls": ["https://www.gov.uk/government/publications/cabinet-office-spend-data"],
 		"files": []
 	},
@@ -781,5 +782,17 @@
 		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/903206/Annex-A-Transparency-25k-June-2020-csv.csv",
 		"name": "2020-06",
 		"file": "2020-06.csv"
+	},{
+		"format": "csv",
+		"month": "2020-07",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/911561/Annex-A-Transparency-25k-July-2020-csv.csv",
+		"name": "2020-07",
+		"file": "2020-07.csv"
+	},{
+		"format": "csv",
+		"month": "2020-08",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/919689/Annex-A-Transparency-25k-August-2020-csv.csv",
+		"name": "2020-08",
+		"file": "2020-08.csv"
 	}]
 }

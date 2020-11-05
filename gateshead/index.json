@@ -704,5 +704,11 @@
 		"url": "https://www.gateshead.gov.uk/media/21020/June-2020/excel/202003.csv?m=637310976582130000",
 		"name": "June 2020",
 		"file": "2020-06.csv"
+	},{
+		"format": "csv",
+		"month": "2020-07",
+		"url": "https://www.gateshead.gov.uk/media/22036/July-2020/excel/July2020.csv?m=637347349281670000",
+		"name": "July 2020",
+		"file": "2020-07.csv"
 	}]
 }

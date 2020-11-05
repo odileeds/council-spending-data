@@ -1,12 +1,13 @@
 {
 	"dir": "newcastle",
 	"src": {
+		"tool": "",
 		"urls": ["https://www.newcastle.gov.uk/local-government/access-information-and-data/open-data/payments-over-ps250-data-sets"],
 		"files": []
 	},
 	"columns": {
 		"map": {
-			"Amount": ["Grand Total","Total","'Total (excludes VAT)"],
+			"Amount": ["Grand Total","Total","'Total (excludes VAT)","Total (excludes VAT)"],
 			"Beneficiary Name": ["Supplier Name","Benificiary Name"],
 			"Organisation Label": [],
 			"Organisational Unit": ["Directorate"],
@@ -21,10 +22,22 @@
 		"file": "2010-04.csv"
 	},{
 		"format": "csv",
+		"month": "2010-05",
+		"url": "",
+		"name": "2010-05",
+		"file": "2010-05.csv"
+	},{
+		"format": "csv",
 		"month": "2010-06",
 		"url": "",
 		"name": "2010-06",
 		"file": "2010-06.csv"
+	},{
+		"format": "csv",
+		"month": "2010-07",
+		"url": "",
+		"name": "2010-07",
+		"file": "2010-07.csv"
 	},{
 		"format": "csv",
 		"month": "2010-08",
@@ -33,10 +46,22 @@
 		"file": "2010-08.csv"
 	},{
 		"format": "csv",
+		"month": "2010-09",
+		"url": "",
+		"name": "2010-09",
+		"file": "2010-09.csv"
+	},{
+		"format": "csv",
 		"month": "2010-10",
 		"url": "",
 		"name": "2010-10",
 		"file": "2010-10.csv"
+	},{
+		"format": "csv",
+		"month": "2010-11",
+		"url": "",
+		"name": "2010-11",
+		"file": "2010-11.csv"
 	},{
 		"format": "csv",
 		"month": "2010-12",
@@ -45,10 +70,22 @@
 		"file": "2010-12.csv"
 	},{
 		"format": "csv",
+		"month": "2011-01",
+		"url": "",
+		"name": "2011-01",
+		"file": "2011-01.csv"
+	},{
+		"format": "csv",
 		"month": "2011-02",
 		"url": "",
 		"name": "2011-02",
 		"file": "2011-02.csv"
+	},{
+		"format": "csv",
+		"month": "2011-03",
+		"url": "",
+		"name": "2011-03",
+		"file": "2011-03.csv"
 	},{
 		"format": "csv",
 		"month": "2011-04",
@@ -57,10 +94,22 @@
 		"file": "2011-04.csv"
 	},{
 		"format": "csv",
+		"month": "2011-05",
+		"url": "",
+		"name": "2011-05",
+		"file": "2011-05.csv"
+	},{
+		"format": "csv",
 		"month": "2011-06",
 		"url": "",
 		"name": "2011-06",
 		"file": "2011-06.csv"
+	},{
+		"format": "csv",
+		"month": "2011-07",
+		"url": "",
+		"name": "2011-07",
+		"file": "2011-07.csv"
 	},{
 		"format": "csv",
 		"month": "2011-08",
@@ -69,10 +118,22 @@
 		"file": "2011-08.csv"
 	},{
 		"format": "csv",
+		"month": "2011-09",
+		"url": "",
+		"name": "2011-09",
+		"file": "2011-09.csv"
+	},{
+		"format": "csv",
 		"month": "2011-10",
 		"url": "",
 		"name": "2011-10",
 		"file": "2011-10.csv"
+	},{
+		"format": "csv",
+		"month": "2011-11",
+		"url": "",
+		"name": "2011-11",
+		"file": "2011-11.csv"
 	},{
 		"format": "csv",
 		"month": "2011-12",
@@ -81,10 +142,22 @@
 		"file": "2011-12.csv"
 	},{
 		"format": "csv",
+		"month": "2012-01",
+		"url": "",
+		"name": "2012-01",
+		"file": "2012-01.csv"
+	},{
+		"format": "csv",
 		"month": "2012-02",
 		"url": "",
 		"name": "2012-02",
 		"file": "2012-02.csv"
+	},{
+		"format": "csv",
+		"month": "2012-03",
+		"url": "",
+		"name": "2012-03",
+		"file": "2012-03.csv"
 	},{
 		"format": "csv",
 		"month": "2012-04",
@@ -93,10 +166,22 @@
 		"file": "2012-04.csv"
 	},{
 		"format": "csv",
+		"month": "2012-05",
+		"url": "",
+		"name": "2012-05",
+		"file": "2012-05.csv"
+	},{
+		"format": "csv",
 		"month": "2012-06",
 		"url": "",
 		"name": "2012-06",
 		"file": "2012-06.csv"
+	},{
+		"format": "csv",
+		"month": "2012-07",
+		"url": "",
+		"name": "2012-07",
+		"file": "2012-07.csv"
 	},{
 		"format": "csv",
 		"month": "2012-08",
@@ -105,10 +190,22 @@
 		"file": "2012-08.csv"
 	},{
 		"format": "csv",
+		"month": "2012-09",
+		"url": "",
+		"name": "2012-09",
+		"file": "2012-09.csv"
+	},{
+		"format": "csv",
 		"month": "2012-10",
 		"url": "",
 		"name": "2012-10",
 		"file": "2012-10.csv"
+	},{
+		"format": "csv",
+		"month": "2012-11",
+		"url": "",
+		"name": "2012-11",
+		"file": "2012-11.csv"
 	},{
 		"format": "csv",
 		"month": "2012-12",
@@ -117,10 +214,22 @@
 		"file": "2012-12.csv"
 	},{
 		"format": "csv",
+		"month": "2013-01",
+		"url": "",
+		"name": "2013-01",
+		"file": "2013-01.csv"
+	},{
+		"format": "csv",
 		"month": "2013-02",
 		"url": "",
 		"name": "2013-02",
 		"file": "2013-02.csv"
+	},{
+		"format": "csv",
+		"month": "2013-03",
+		"url": "",
+		"name": "2013-03",
+		"file": "2013-03.csv"
 	},{
 		"format": "csv",
 		"month": "2013-04",
@@ -129,10 +238,22 @@
 		"file": "2013-04.csv"
 	},{
 		"format": "csv",
+		"month": "2013-05",
+		"url": "",
+		"name": "2013-05",
+		"file": "2013-05.csv"
+	},{
+		"format": "csv",
 		"month": "2013-06",
 		"url": "",
 		"name": "2013-06",
 		"file": "2013-06.csv"
+	},{
+		"format": "csv",
+		"month": "2013-07",
+		"url": "",
+		"name": "2013-07",
+		"file": "2013-07.csv"
 	},{
 		"format": "csv",
 		"month": "2013-08",
@@ -141,10 +262,22 @@
 		"file": "2013-08.csv"
 	},{
 		"format": "csv",
+		"month": "2013-09",
+		"url": "",
+		"name": "2013-09",
+		"file": "2013-09.csv"
+	},{
+		"format": "csv",
 		"month": "2013-10",
 		"url": "",
 		"name": "2013-10",
 		"file": "2013-10.csv"
+	},{
+		"format": "csv",
+		"month": "2013-11",
+		"url": "",
+		"name": "2013-11",
+		"file": "2013-11.csv"
 	},{
 		"format": "csv",
 		"month": "2013-12",
@@ -153,10 +286,22 @@
 		"file": "2013-12.csv"
 	},{
 		"format": "csv",
+		"month": "2014-01",
+		"url": "",
+		"name": "2014-01",
+		"file": "2014-01.csv"
+	},{
+		"format": "csv",
 		"month": "2014-02",
 		"url": "",
 		"name": "2014-02",
 		"file": "2014-02.csv"
+	},{
+		"format": "csv",
+		"month": "2014-03",
+		"url": "",
+		"name": "2014-03",
+		"file": "2014-03.csv"
 	},{
 		"format": "csv",
 		"month": "2014-04",
@@ -165,10 +310,22 @@
 		"file": "2014-04.csv"
 	},{
 		"format": "csv",
+		"month": "2014-05",
+		"url": "",
+		"name": "2014-05",
+		"file": "2014-05.csv"
+	},{
+		"format": "csv",
 		"month": "2014-06",
 		"url": "",
 		"name": "2014-06",
 		"file": "2014-06.csv"
+	},{
+		"format": "csv",
+		"month": "2014-07",
+		"url": "",
+		"name": "2014-07",
+		"file": "2014-07.csv"
 	},{
 		"format": "csv",
 		"month": "2014-08",
@@ -177,10 +334,22 @@
 		"file": "2014-08.csv"
 	},{
 		"format": "csv",
+		"month": "2014-09",
+		"url": "",
+		"name": "2014-09",
+		"file": "2014-09.csv"
+	},{
+		"format": "csv",
 		"month": "2014-10",
 		"url": "",
 		"name": "2014-10",
 		"file": "2014-10.csv"
+	},{
+		"format": "csv",
+		"month": "2014-11",
+		"url": "",
+		"name": "2014-11",
+		"file": "2014-11.csv"
 	},{
 		"format": "csv",
 		"month": "2014-12",
@@ -189,10 +358,22 @@
 		"file": "2014-12.csv"
 	},{
 		"format": "csv",
+		"month": "2015-01",
+		"url": "",
+		"name": "2015-01",
+		"file": "2015-01.csv"
+	},{
+		"format": "csv",
 		"month": "2015-02",
 		"url": "",
 		"name": "2015-02",
 		"file": "2015-02.csv"
+	},{
+		"format": "csv",
+		"month": "2015-03",
+		"url": "",
+		"name": "2015-03",
+		"file": "2015-03.csv"
 	},{
 		"format": "csv",
 		"month": "2015-04",
@@ -201,10 +382,22 @@
 		"file": "2015-04.csv"
 	},{
 		"format": "csv",
+		"month": "2015-05",
+		"url": "",
+		"name": "2015-05",
+		"file": "2015-05.csv"
+	},{
+		"format": "csv",
 		"month": "2015-06",
 		"url": "",
 		"name": "2015-06",
 		"file": "2015-06.csv"
+	},{
+		"format": "csv",
+		"month": "2015-07",
+		"url": "",
+		"name": "2015-07",
+		"file": "2015-07.csv"
 	},{
 		"format": "csv",
 		"month": "2015-08",
@@ -213,10 +406,22 @@
 		"file": "2015-08.csv"
 	},{
 		"format": "csv",
+		"month": "2015-09",
+		"url": "",
+		"name": "2015-09",
+		"file": "2015-09.csv"
+	},{
+		"format": "csv",
 		"month": "2015-10",
 		"url": "",
 		"name": "2015-10",
 		"file": "2015-10.csv"
+	},{
+		"format": "csv",
+		"month": "2015-11",
+		"url": "",
+		"name": "2015-11",
+		"file": "2015-11.csv"
 	},{
 		"format": "csv",
 		"month": "2015-12",
@@ -225,10 +430,22 @@
 		"file": "2015-12.csv"
 	},{
 		"format": "csv",
+		"month": "2016-01",
+		"url": "",
+		"name": "2016-01",
+		"file": "2016-01.csv"
+	},{
+		"format": "csv",
 		"month": "2016-02",
 		"url": "",
 		"name": "2016-02",
 		"file": "2016-02.csv"
+	},{
+		"format": "csv",
+		"month": "2016-03",
+		"url": "",
+		"name": "2016-03",
+		"file": "2016-03.csv"
 	},{
 		"format": "csv",
 		"month": "2016-04",
@@ -237,10 +454,22 @@
 		"file": "2016-04.csv"
 	},{
 		"format": "csv",
+		"month": "2016-05",
+		"url": "",
+		"name": "2016-05",
+		"file": "2016-05.csv"
+	},{
+		"format": "csv",
 		"month": "2016-06",
 		"url": "",
 		"name": "2016-06",
 		"file": "2016-06.csv"
+	},{
+		"format": "csv",
+		"month": "2016-07",
+		"url": "",
+		"name": "2016-07",
+		"file": "2016-07.csv"
 	},{
 		"format": "csv",
 		"month": "2016-08",
@@ -249,10 +478,22 @@
 		"file": "2016-08.csv"
 	},{
 		"format": "csv",
+		"month": "2016-09",
+		"url": "",
+		"name": "2016-09",
+		"file": "2016-09.csv"
+	},{
+		"format": "csv",
 		"month": "2016-10",
 		"url": "",
 		"name": "2016-10",
 		"file": "2016-10.csv"
+	},{
+		"format": "csv",
+		"month": "2016-11",
+		"url": "",
+		"name": "2016-11",
+		"file": "2016-11.csv"
 	},{
 		"format": "csv",
 		"month": "2016-12",
@@ -517,5 +758,17 @@
 		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/July 2020.csv",
 		"name": "2020-07",
 		"file": "2020-07.csv"
+	},{
+		"format": "csv",
+		"month": "2020-08",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/August 2020.csv",
+		"name": "2020-08",
+		"file": "2020-08.csv"
+	},{
+		"format": "csv",
+		"month": "2020-09",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/September 2020.csv",
+		"name": "2020-09",
+		"file": "2020-09.csv"
 	}]
 }
