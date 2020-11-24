@@ -1167,5 +1167,17 @@
 		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/September-card-payments.csv",
 		"name": "September card payments",
 		"file": "2020-09-card.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/October.csv",
+		"name": "October",
+		"file": "2020-10.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://www.calderdale.gov.uk/council/finances/income-spending/2020/October-card-payments.csv",
+		"name": "October card payments",
+		"file": "2020-10-card.csv"
 	}]
 }
