@@ -10,7 +10,7 @@
 			"Amount": ["Amount (£)","Amount ()"],
 			"Beneficiary Name": ["Vendor Name","Supplier name","SupplierName","Supplier Name","Benificiary Name"],
 			"Organisation Label": [],
-			"Organisational Unit": ["Entity"],
+			"Organisational Unit": ["Entity","Expenditure Account"],
 			"Payment Date": ["Clearing Date"]
 		}
 	},
