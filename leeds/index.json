@@ -710,5 +710,23 @@
 		"url": "https://datamillnorth.org/download/council-spending/6b593368-9c69-463f-a49f-18163f058a94/spending_2020_07.csv",
 		"name": "July 2020",
 		"file": "2020-07.csv"
+	},{
+		"format": "csv",
+		"month": "2020-08",
+		"url": "https://datamillnorth.org/download/council-spending/5828845a-948e-4373-80d1-5f45bad636bc/Spending_2020_08.csv",
+		"name": "August 2020",
+		"file": "2020-08.csv"
+	},{
+		"format": "csv",
+		"month": "2020-09",
+		"url": "https://datamillnorth.org/download/council-spending/cfe179e9-014c-4db0-a782-51f15931b710/spending_2020_09.csv",
+		"name": "September 2020",
+		"file": "2020-09.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://datamillnorth.org/download/council-spending/867823f6-1ee1-4172-b66d-7f0178681511/spending_2020_10.csv",
+		"name": "October 2020",
+		"file": "2020-10.csv"
 	}]
 }
