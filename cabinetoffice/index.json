@@ -794,5 +794,11 @@
 		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/919689/Annex-A-Transparency-25k-August-2020-csv.csv",
 		"name": "2020-08",
 		"file": "2020-08.csv"
+	},{
+		"format": "csv",
+		"month": "2020-09",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/935552/Expenditure-over-_25000-September-2020.csv",
+		"name": "2020-09",
+		"file": "2020-09.csv"
 	}]
 }
