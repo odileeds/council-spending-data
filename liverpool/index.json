@@ -1,0 +1,26 @@
+{
+	"dir": "bradford",
+	"src": {
+		"tool": "",
+		"urls": ["https://github.com/northwestopendata/lgtc_nwod_data/tree/master/lcrca"],
+		"files": []
+	},
+	"columns": {
+		"map": {
+			"Amount": ["amount"],
+			"Beneficiary Name": ["beneficiary_name"],
+			"Charity Number": ["charity_number"],
+			"Company Number": ["company_number"],
+			"Organisation Label": ["Body name"],
+			"Organisational Unit": ["org_short_name"],
+			"Payment Date": ["payment_date"]
+		}
+	},
+	"files": [{
+		"format": "csv",
+		"month": "2019",
+		"url": "https://github.com/northwestopendata/northwestopendata/lgtc_nwod_data/blob/master/lcrca/liverpool_2019.csv?raw=true",
+		"name": "Year 2019",
+		"file": "2019.csv"
+	}]
+}
