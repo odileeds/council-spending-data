@@ -1,6 +1,7 @@
 {
 	"dir": "darlington",
 	"src": {
+		"tool": "",
 		"urls": ["https://www.darlington.gov.uk/your-council/council-information/financial-information/spending-data/"],
 		"files": []
 	},
@@ -157,6 +158,12 @@
 		"url": "https://www.darlington.gov.uk/media/4090/payments_over_500_-_october_12.csv",
 		"name": "October 2012Â CSV",
 		"file": "2012-10.csv"
+	},{
+		"format": "csv",
+		"month": "2012-11",
+		"url": "https://www.darlington.gov.uk/media/12123/copy-of-payments-over-500-november-12.csv",
+		"name": "November 2012 CSV",
+		"file": "2012-11.csv"
 	},{
 		"format": "csv",
 		"month": "2012-12",
@@ -697,5 +704,23 @@
 		"url": "https://www.darlington.gov.uk/media/12056/transactions_over_500_july__2020.csv",
 		"name": "July 2020 CSV",
 		"file": "2020-07.csv"
+	},{
+		"format": "csv",
+		"month": "2020-08",
+		"url": "https://www.darlington.gov.uk/media/12145/transactions_over_500_august__2020.csv",
+		"name": "August 2020 CSV",
+		"file": "2020-08.csv"
+	},{
+		"format": "csv",
+		"month": "2020-09",
+		"url": "https://www.darlington.gov.uk/media/12249/transactions_over_500_september__2020.csv",
+		"name": "September 2020 CSV",
+		"file": "2020-09.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://www.darlington.gov.uk/media/12386/transactions_over_500_october__2020.csv",
+		"name": "October 2020 CSV",
+		"file": "2020-10.csv"
 	}]
 }
