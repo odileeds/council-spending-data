@@ -728,5 +728,11 @@
 		"url": "https://datamillnorth.org/download/council-spending/867823f6-1ee1-4172-b66d-7f0178681511/spending_2020_10.csv",
 		"name": "October 2020",
 		"file": "2020-10.csv"
+	},{
+		"format": "csv",
+		"month": "2020-11",
+		"url": "https://datamillnorth.org/download/council-spending/717ed27b-c7d4-44ff-b0aa-b872d90def90/spending_2020_11.csv",
+		"name": "November 2020",
+		"file": "2020-11.csv"
 	}]
 }
