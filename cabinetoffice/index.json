@@ -800,5 +800,17 @@
 		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/935552/Expenditure-over-_25000-September-2020.csv",
 		"name": "2020-09",
 		"file": "2020-09.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/938399/Expenditure-over-_25000-October-2020.csv",
+		"name": "2020-10",
+		"file": "2020-10.csv"
+	},{
+		"format": "csv",
+		"month": "2020-11",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946050/Expenditure-over-_25000-November-2020.csv",
+		"name": "2020-11",
+		"file": "2020-11.csv"
 	}]
 }
