@@ -51,10 +51,10 @@ The original files often come in monthly publications (but sometimes follow othe
 
 We do a cleaning step that attempts to automatically remove header lines (or entire SQL queries in the case of Darlington) from the top of the CSV, put [dates in a consistent format](https://github.com/odileeds/open-data-tips#dates), removes trailing commas (that double the file size in the case of some Leeds data), and deal with any [other data gremlins](https://docs.google.com/document/d/1WEf54JwSnOcUV7F70AXVkg50LzDuD3lFSAAa47nX4F0/edit). These cleaned versions are stored in the `clean/` sub-directory. We also make a reduced file (stored in `processed/`) that attempts to use consistent column headings as used in our [visualisation tool](https://odileeds.org/projects/council-spending/):
 
-  * `Payment Date`,
-  * `Amount`,
-  * `Benificiary Name`,
-  * `Organisational Unit`
+  * `Payment Date` - [ISO8601 date format](https://en.wikipedia.org/wiki/ISO_8601) e.g. "2020-02-02"
+  * `Amount` - A number without commas
+  * `Benificiary Name` - a string
+  * `Organisational Unit` - a string
   * `Company Number` (optional - for future use)
   * `Charity Number` (optional - for future use)
 
