@@ -320,5 +320,23 @@
 		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/fb336579-cebd-44ae-bde4-6516b2c9b271/Copy%2520of%2520PUBLISHED%2520-%2520September%25202020.csv",
 		"name": "  Spend over Â£250 - 2020 - September.csv",
 		"file": "2020-09.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/a9eb09d5-0888-4c36-b32c-b61cd5d65bba/Copy%2520of%2520PUBLISHED%2520-%2520October%25202020.csv",
+		"name": "Spend over Â£250 - 2020 - October.csv",
+		"file": "2020-10.csv"
+	},{
+		"format": "csv",
+		"month": "2020-11",
+		"url": "",
+		"name": "Spend over £250 - 2020 - November.csv",
+		"file": "2020-11.csv"
+	},{
+		"format": "csv",
+		"month": "2020-12",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/7d378675-9309-4cc5-8814-7d8c1832ad6c/PUBLISHED%2520-%2520December%25202020.csv",
+		"name": "Spend over Â£250 - 2020 - December.csv",
+		"file": "2020-12.csv"
 	}]
 }
