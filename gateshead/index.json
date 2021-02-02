@@ -716,5 +716,29 @@
 		"url": "https://www.gateshead.gov.uk/media/23178/August-2020/excel/202005.csv?m=637408630608370000",
 		"name": "August 2020",
 		"file": "2020-08.csv"
+	},{
+		"format": "csv",
+		"month": "2020-09",
+		"url": "https://www.gateshead.gov.uk/media/23411/September-2020/excel/2020061.csv?m=637423387046430000",
+		"name": "September 2020",
+		"file": "2020-09.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://www.gateshead.gov.uk/media/23419/October-2020/excel/202007.csv?m=637423398203470000",
+		"name": "October 2020",
+		"file": "2020-10.csv"
+	},{
+		"format": "csv",
+		"month": "2020-11",
+		"url": "https://www.gateshead.gov.uk/media/23965/November-2020/excel/202008.csv?m=637463103224100000",
+		"name": "November 2020",
+		"file": "2020-11.csv"
+	},{
+		"format": "csv",
+		"month": "2020-12",
+		"url": "https://www.gateshead.gov.uk/media/23967/December-2020/excel/202009.csv?m=637463109150800000",
+		"name": "December 2020",
+		"file": "2020-12.csv"
 	}]
 }
