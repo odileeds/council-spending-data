@@ -704,5 +704,29 @@
 		"url": "https://www.salford.gov.uk/media/395742/expenditure-report-august-2020.csv",
 		"name": "Expenditure report, August 2020.csv",
 		"file": "2020-08.csv"
+	},{
+		"format": "csv",
+		"month": "2020-09",
+		"url": "https://www.salford.gov.uk/media/396007/expenditure-report-september-2020.csv",
+		"name": "September 2020",
+		"file": "2020-09.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://www.salford.gov.uk/media/396005/expenditure-report-october-2020.csv",
+		"name": "October 2020",
+		"file": "2020-10.csv"
+	},{
+		"format": "csv",
+		"month": "2020-11",
+		"url": "https://www.salford.gov.uk/media/396166/expenditure-report-november-2020.csv",
+		"name": "November 2020",
+		"file": "2020-11.csv"
+	},{
+		"format": "csv",
+		"month": "2020-12",
+		"url": "https://www.salford.gov.uk/media/396165/expenditure-report-december-2020.csv",
+		"name": "December 2020",
+		"file": "2020-12.csv"
 	}]
 }
