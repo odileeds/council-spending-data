@@ -266,5 +266,41 @@
 		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/07/Spend-over-£25000-June-2020.xlsx",
 		"name": "Spend over £25,000 June 2020",
 		"file": "2020-06.csv"
+	},{
+		"format": "csv",
+		"month": "2020-07",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/11/Spend-over-25000-July-2020.xlsx",
+		"name": "Spend over £25,000 July 2020",
+		"file": "2020-07.csv"
+	},{
+		"format": "csv",
+		"month": "2020-08",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/11/Spend-over-25000-August-2020.xlsx",
+		"name": "Spend over £25,000 August 2020",
+		"file": "2020-08.csv"
+	},{
+		"format": "csv",
+		"month": "2020-09",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/11/Spend-over-25000-September-2020.xlsx",
+		"name": "Spend over £25,000 September 2020",
+		"file": "2020-09.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/11/Spend-over-25000-October-2020.xlsx",
+		"name": "Spend over £25,000 October 2020",
+		"file": "2020-10.csv"
+	},{
+		"format": "csv",
+		"month": "2020-11",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2020/12/Spend-over-25000-November-2020.xlsx",
+		"name": "Spend over £25,000 November 2020",
+		"file": "2020-11.csv"
+	},{
+		"format": "csv",
+		"month": "2020-12",
+		"url": "https://www.networkrail.co.uk/wp-content/uploads/2021/01/Spend-over-25000-December-2020.xlsx",
+		"name": "Spend over £25,000 December 2020",
+		"file": "2020-12.csv"
 	}]
 }
