@@ -770,5 +770,23 @@
 		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/September 2020.csv",
 		"name": "2020-09",
 		"file": "2020-09.csv"
+	},{
+		"format": "csv",
+		"month": "2020-10",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/October 2020.csv",
+		"name": "2020-10",
+		"file": "2020-10.csv"
+	},{
+		"format": "csv",
+		"month": "2020-11",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/November 2020.csv",
+		"name": "2020-11",
+		"file": "2020-11.csv"
+	},{
+		"format": "csv",
+		"month": "2020-12",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/December 2020.csv",
+		"name": "2020-12",
+		"file": "2020-12.csv"
 	}]
 }
