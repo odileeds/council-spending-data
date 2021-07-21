@@ -740,5 +740,35 @@
 		"url": "https://www.darlington.gov.uk/media/12858/transactions_over_500_january_2021.csv",
 		"name": "January 2021 CSV",
 		"file": "2021-01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "https://www.darlington.gov.uk/media/13223/transactions_over_500_february_2021.csv",
+		"name": "February 2021 CSV",
+		"file": "2021-02.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "https://www.darlington.gov.uk/media/13417/transactions_over_500_march_2021.csv",
+		"name": "March 2021 CSV",
+		"file": "2021-03.csv"
+	},{
+		"format": "csv",
+		"month": "2021-04",
+		"url": "https://www.darlington.gov.uk/media/13544/transactions_over_500_april_2021.csv",
+		"name": "April 2021 CSV",
+		"file": "2021-04.csv"
+	},{
+		"format": "csv",
+		"month": "2021-05",
+		"url": "https://www.darlington.gov.uk/media/13695/transactions-over-500-may-2021.csv",
+		"name": "May 2021 CSV",
+		"file": "2021-05.csv"
+	},{
+		"format": "csv",
+		"month": "2021-06",
+		"url": "https://www.darlington.gov.uk/media/14284/transactions_over_500_june__2021.csv",
+		"name": "June 2021 CSV",
+		"file": "2021-06.csv"
 	}]
 }
