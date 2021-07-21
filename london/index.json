@@ -620,5 +620,35 @@
 		"url": "https://www.london.gov.uk/sites/default/files/04._mayors_250_report_-_2020-21_-_p9_-_combined.csv",
 		"name": "Period 9 2020/21 (15 November 2020 â 12 December 2020)",
 		"file": "2020-P09.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P01",
+		"url": "https://www.london.gov.uk/sites/default/files/05._mayors_250_report_-_2021-22_-_p1_-_combined.csv",
+		"name": "Period 1 2020/21 (01 April 2021 - 01 May 2021)",
+		"file": "2021-P01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P10",
+		"url": "https://www.london.gov.uk/sites/default/files/04._mayors_250_report_-_2020-21_-_p10_-_combined_v2.csv",
+		"name": "Period 10 2020/21 (13 December 2020 â 09 January 2021)",
+		"file": "2021-P10.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P11",
+		"url": "https://www.london.gov.uk/sites/default/files/04._mayors_250_report_-_2020-21_-_p11_-_combined.csv",
+		"name": "Period 11 2020/21 (10 January 2021 â 06 February 2021)",
+		"file": "2021-P11.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P12",
+		"url": "https://www.london.gov.uk/sites/default/files/04._mayors_250_report_-_2020-21_-_p12_-_combined.csv",
+		"name": "Period 12 2020/21 (07 February 2021 â 06 March 2021)",
+		"file": "2021-P12.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P13",
+		"url": "https://www.london.gov.uk/sites/default/files/04._mayors_250_report_-_2020-21_-_p13_-_combined.csv",
+		"name": "Period 13 2020/21 (07 March 2021 â 31 March 2021)",
+		"file": "2021-P13.csv"
 	}]
 }

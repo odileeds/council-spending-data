@@ -668,5 +668,53 @@
 		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20-%20Dec%2020.csv",
 		"name": "Purchase Card - Dec 20.csv",
 		"file": "2020-12_p.csv"
+	},{
+		"format": "csv",
+		"month": "2021-01",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20Jan%2021%20to%20publish.csv",
+		"name": "Invoices over 250 Jan 21 to publish.csv",
+		"file": "2021-01_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-01",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Cards%20Jan%2021%20to%20publish.csv",
+		"name": "Purchase Cards Jan 21 to publish.csv",
+		"file": "2021-01_p.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoice%20over%20250%20-%20Feb%2021.csv",
+		"name": "Invoice over 250 - Feb 21.csv",
+		"file": "2021-02_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Cards%20Feb%2021.csv",
+		"name": "Purchase Cards Feb 21.csv",
+		"file": "2021-02_p.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/PCARD%20MAR%2021%20to%20Publish.csv",
+		"name": "Purchase Cards Mar 21",
+		"file": "2021-03_p.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20-%20Mar%2021%20to%20publish.csv",
+		"name": "Invoices over 250 Mar 21",
+		"file": "2021-03_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-04",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20April%2021.csv",
+		"name": "Invoices over 250 April 21.csv",
+		"file": "2021-04_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-04",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Cards%20April%2021.csv",
+		"name": "Purchase Cards April 21.csv",
+		"file": "2021-04_p.csv"
 	}]
 }

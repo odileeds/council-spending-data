@@ -428,5 +428,23 @@
 		"url": "https://www.harrogate.gov.uk/downloads/file/3544/2020-december-supplier-spend-csv-file",
 		"name": "2020 December",
 		"file": "2020-12.csv"
+	},{
+		"format": "csv",
+		"month": "2021-01",
+		"url": "https://www.harrogate.gov.uk/downloads/file/3938/2021-january-supplier-spend-csv-file",
+		"name": "2021 January",
+		"file": "2021-01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4002/2021-february-supplier-spend-csv-file",
+		"name": "2021 February",
+		"file": "2021-02.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4048/2021-march-supplier-spend-csv-file",
+		"name": "2021 March",
+		"file": "2021-03.csv"
 	}]
 }

@@ -338,5 +338,41 @@
 		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/7d378675-9309-4cc5-8814-7d8c1832ad6c/PUBLISHED%2520-%2520December%25202020.csv",
 		"name": "Spend over Â£250 - 2020 - December.csv",
 		"file": "2020-12.csv"
+	},{
+		"format": "csv",
+		"month": "2021-01",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/6d2abf55-889c-4571-b6e2-8abf6ff5de98/PUBLISHED%20LIST%20-%20January%202021.xlsm",
+		"name": "Spend over £250 - 2021 - January.xlsm",
+		"file": "2021-01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/b1215749-8a2f-4a4f-941b-7cbbf162b91a/Spend%20over%20%C2%A3250%20-%202021%20-%20February.xlsm",
+		"name": "Spend over £250 - 2021 - February.xlsm",
+		"file": "2021-02.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/a4e56c96-e4f1-4778-b9dc-999be35cb049/Spend%20over%20%C2%A3250%20-%202021%20-%20March.xlsm",
+		"name": "Spend over £250 - 2021 - March.xlsm",
+		"file": "2021-03.csv"
+	},{
+		"format": "csv",
+		"month": "2021-04",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/78ee49b3-5758-4db9-a307-220d483071cf/Spend%20over%20%C2%A3250%20-%202021%20-%20April.xlsm",
+		"name": "Spend over £250 - 2021 - April.xlsm",
+		"file": "2021-04.csv"
+	},{
+		"format": "csv",
+		"month": "2021-05",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/133628b3-0d41-4bdb-aebd-47c6410a7d37/Spend%20over%20%C2%A3250%20-%202021%20-%20May.xlsm",
+		"name": "Spend over £250 - 2021 - May.xlsm",
+		"file": "2021-05.csv"
+	},{
+		"format": "csv",
+		"month": "2021-06",
+		"url": "https://datamillnorth.org/download/sheffieldcitycouncil-spend-over-f250/382c6b69-9547-42fb-9bb3-5deae35e9c15/Spend%20over%20%C2%A3250%20-%202021%20-%20June.xlsm",
+		"name": "Spend over £250 - 2021 - June.xlsm",
+		"file": "2021-06.csv"
 	}]
 }

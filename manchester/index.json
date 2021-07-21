@@ -740,5 +740,23 @@
 		"url": "http://www.manchester.gov.uk/open/download/downloads/id/932/expenditure_exceeding_500_december_2020.csv",
 		"name": "december 2020",
 		"file": "2020-12.csv"
+	},{
+		"format": "csv",
+		"month": "2021-01",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/937/expenditure_exceeding_500_january_2021.csv",
+		"name": "january 2021",
+		"file": "2021-01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/941/expenditure_exceeding_500_february_2021.csv",
+		"name": "february 2021",
+		"file": "2021-02.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "http://www.manchester.gov.uk/open/download/downloads/id/943/expenditure_exceeding_500_march_2021.csv",
+		"name": "march 2021",
+		"file": "2021-03.csv"
 	}]
 }

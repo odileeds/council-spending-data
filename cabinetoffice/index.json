@@ -812,5 +812,41 @@
 		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946050/Expenditure-over-_25000-November-2020.csv",
 		"name": "2020-11",
 		"file": "2020-11.csv"
+	},{
+		"format": "csv",
+		"month": "2020-12",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/955519/Expenditure_over__25_000_-_December_2020.csv",
+		"name": "2020-12",
+		"file": "2020-12.csv"
+	},{
+		"format": "csv",
+		"month": "2021-01",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/966635/Annex-A-Expenditure-over-_25000-January-2021.csv",
+		"name": "2021-01",
+		"file": "2021-01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/972135/Annex-A-Expenditure-Over-25000-Feb-2021-CSV.csv",
+		"name": "2021-02",
+		"file": "2021-02.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982156/Annex-A-Expenditure-Over-25000-March-2021-csv-file.csv",
+		"name": "2021-03",
+		"file": "2021-03.csv"
+	},{
+		"format": "csv",
+		"month": "2021-04",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/989347/Cabinet_Office-_spend_data_over__25_000_-_April_2021.csv",
+		"name": "2021-04",
+		"file": "2021-04.csv"
+	},{
+		"format": "csv",
+		"month": "2021-05",
+		"url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/996322/Annex-A-Expenditure-Over-25000-May-2021-csv1.csv",
+		"name": "2021-05",
+		"file": "2021-05.csv"
 	}]
 }

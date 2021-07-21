@@ -788,5 +788,35 @@
 		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open Data/December 2020.csv",
 		"name": "2020-12",
 		"file": "2020-12.csv"
+	},{
+		"format": "csv",
+		"month": "2021-01",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open%20Data/January%202021.csv",
+		"name": "January 2021",
+		"file": "2021-01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open%20Data/February%202021.csv",
+		"name": "February 2021",
+		"file": "2021-02.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open%20Data/March%202021.csv",
+		"name": "March 2021",
+		"file": "2021-03.csv"
+	},{
+		"format": "csv",
+		"month": "2021-04",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open%20Data/April%202021.csv",
+		"name": "April 2021",
+		"file": "2021-04.csv"
+	},{
+		"format": "csv",
+		"month": "2021-05",
+		"url": "https://www.newcastle.gov.uk/sites/default/files/local-government/Open%20Data/May%202021.csv",
+		"name": "May 2021",
+		"file": "2021-05.csv"
 	}]
 }

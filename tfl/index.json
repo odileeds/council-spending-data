@@ -116,5 +116,35 @@
 		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p10.csv",
 		"name": "Payments greater than Â£250: 13 December 2020 - 9 January 2021",
 		"file": "2021-P10.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P11",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p11.csv",
+		"name": "Payments greater than Â£250: 10 January 2021 - 6 February 2021",
+		"file": "2021-P11.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P12",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p12.csv",
+		"name": "Payments greater than Â£250: 7 February 2021 - 6 March 2021",
+		"file": "2021-P12.csv"
+	},{
+		"format": "csv",
+		"month": "2021-P13",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2021p13.csv",
+		"name": "Payments greater than Â£250: 7 March 2021 - 31 March 2021",
+		"file": "2021-P13.csv"
+	},{
+		"format": "csv",
+		"month": "2022-P01",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2022p01.csv",
+		"name": "Payments greater than Â£250: 1 April 2021 - 1 May 2021 ",
+		"file": "2022-P01.csv"
+	},{
+		"format": "csv",
+		"month": "2022-P02",
+		"url": "https://tfl.gov.uk/cdn/static/cms/documents/tflspend2022p02.csv",
+		"name": "Payments greater than Â£250: 2 May 2021 - 29 May 2021",
+		"file": "2022-P02.csv"
 	}]
 }
