@@ -734,5 +734,35 @@
 		"url": "https://datamillnorth.org/download/council-spending/717ed27b-c7d4-44ff-b0aa-b872d90def90/spending_2020_11.csv",
 		"name": "November 2020",
 		"file": "2020-11.csv"
+	},{
+		"format": "csv",
+		"month": "2020-12",
+		"url": "https://datamillnorth.org/download/council-spending/24c5f8ea-17d3-491a-b6bf-b074ebccd646/spending_2020_12.csv",
+		"name": "December 2020",
+		"file": "2020-12.csv"
+	},{
+		"format": "csv",
+		"month": "2021-01",
+		"url": "https://datamillnorth.org/download/council-spending/d5e09997-2f01-4bb9-8d87-9eeb95bef7ca/spending_2021_01.csv",
+		"name": "January 2021",
+		"file": "2021-01.csv"
+	},{
+		"format": "csv",
+		"month": "2021-02",
+		"url": "https://datamillnorth.org/download/council-spending/cd79df68-9423-436a-b7f8-84a4df0811bc/spending_2021_02.csv",
+		"name": "February 2021",
+		"file": "2021-02.csv"
+	},{
+		"format": "csv",
+		"month": "2021-03",
+		"url": "https://datamillnorth.org/download/council-spending/0181782a-b8b9-4fac-b9bc-3229b5c162ae/spending_2021_03.csv",
+		"name": "March 2021",
+		"file": "2021-03.csv"
+	},{
+		"format": "csv",
+		"month": "2021-04",
+		"url": "https://datamillnorth.org/download/council-spending/c00ace5a-2ec8-4679-905e-02ad8267204b/spending_2021_04.csv",
+		"name": "April 2021",
+		"file": "2021-04.csv"
 	}]
 }
