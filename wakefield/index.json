@@ -22,6 +22,18 @@
 		"file": ".csv"
 	},{
 		"format": "csv",
+		"month": "",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/c21218b5-7bb2-4728-b698-319cdd39f5dd/Supplier%2520Spend%25202021-22%2520Q1.csv",
+		"name": "Supplier Spend 2021-22 Q1.csv",
+		"file": ".csv"
+	},{
+		"format": "csv",
+		"month": "",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/0f92587d-4ebb-42d9-9078-db9adf969892/Supplier%2520Spend%25202021-22%2520Q2.csv",
+		"name": "Supplier Spend 2021-22 Q2.csv",
+		"file": ".csv"
+	},{
+		"format": "csv",
 		"month": "2014-Q1",
 		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/31a812ad-3f88-40d9-98d1-cf01ae17cb36/spend-over-500-q1-2014-2015.csv",
 		"name": "spend-over-500-q1-2014-2015.csv",
