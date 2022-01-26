@@ -16,6 +16,12 @@
 	},
 	"files": [{
 		"format": "csv",
+		"month": "",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20Septermber%2021.csv",
+		"name": "Invoices over 250 Septermber 21.csv",
+		"file": "_i.csv"
+	},{
+		"format": "csv",
 		"month": "2014-04",
 		"url": "",
 		"name": "2014-04 Invoice",
@@ -716,5 +722,41 @@
 		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Cards%20April%2021.csv",
 		"name": "Purchase Cards April 21.csv",
 		"file": "2021-04_p.csv"
+	},{
+		"format": "csv",
+		"month": "2021-05",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20May%2021.csv",
+		"name": "Invoices over 250 May 21.csv",
+		"file": "2021-05_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-06",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20June%2021.csv",
+		"name": "Invoices over 250 June 21.csv",
+		"file": "2021-06_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-07",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Copy%20of%20Jul%20Invoices%20over%20250%20to%20publish_.csv",
+		"name": " Invoices over 250 July 21.csv",
+		"file": "2021-07_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-08",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20Aug%2021.csv",
+		"name": "Invoices over 250 Aug 21.csv",
+		"file": "2021-08_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-10",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20October%2021.csv",
+		"name": "Invoices over 250 October 21.csv",
+		"file": "2021-10_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-11",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20November%2021.csv",
+		"name": "Invoices over 250 November 21.csv",
+		"file": "2021-11_i.csv"
 	}]
 }
