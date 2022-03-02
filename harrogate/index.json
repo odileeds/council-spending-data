@@ -2,7 +2,7 @@
 	"dir": "harrogate",
 	"src": {
 		"tool": "",
-		"urls": ["https://www.harrogate.gov.uk/downloads/download/127/expenditure-from-april-2018-downloads"],
+		"urls": ["https://www.harrogate.gov.uk/downloads/download/198/expenditure-from-april-2021-downloads","https://www.harrogate.gov.uk/downloads/download/127/expenditure-from-april-2018-downloads"],
 		"files": []
 	},
 	"columns": {
@@ -446,5 +446,65 @@
 		"url": "https://www.harrogate.gov.uk/downloads/file/4048/2021-march-supplier-spend-csv-file",
 		"name": "2021 March",
 		"file": "2021-03.csv"
+	},{
+		"format": "csv",
+		"month": "2021-04",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4086/2021-april-supplier-spend-csv-file",
+		"name": "2021 April",
+		"file": "2021-04.csv"
+	},{
+		"format": "csv",
+		"month": "2021-05",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4137/2021-may-supplier-spend-csv-file",
+		"name": "2021 May",
+		"file": "2021-05.csv"
+	},{
+		"format": "csv",
+		"month": "2021-06",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4170/2021-june-supplier-spend-csv-file",
+		"name": "2021 June",
+		"file": "2021-06.csv"
+	},{
+		"format": "csv",
+		"month": "2021-07",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4205/2021-july-supplier-spend-csv-file",
+		"name": "2021 July",
+		"file": "2021-07.csv"
+	},{
+		"format": "csv",
+		"month": "2021-08",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4243/2021-august-supplier-spend-csv-file",
+		"name": "2021 August",
+		"file": "2021-08.csv"
+	},{
+		"format": "csv",
+		"month": "2021-09",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4274/2021-september-supplier-spend-csv-file",
+		"name": "2021 September",
+		"file": "2021-09.csv"
+	},{
+		"format": "csv",
+		"month": "2021-10",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4298/2021-october-supplier-spend-for-harrogate-borough-council-csv-file",
+		"name": "2021 October",
+		"file": "2021-10.csv"
+	},{
+		"format": "csv",
+		"month": "2021-11",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4319/2021-november-supplier-spend-for-harrogate-borough-council-csv-file",
+		"name": "2021 November",
+		"file": "2021-11.csv"
+	},{
+		"format": "csv",
+		"month": "2021-12",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4334/2021-december-supplier-spend-for-harrogate-borough-council-csv-file",
+		"name": "2021 December",
+		"file": "2021-12.csv"
+	},{
+		"format": "csv",
+		"month": "2022-01",
+		"url": "https://www.harrogate.gov.uk/downloads/file/4361/2022-january-supplier-spend-for-harrogate-borough-council-csv-file",
+		"name": "2022 January",
+		"file": "2022-01.csv"
 	}]
 }

@@ -806,5 +806,11 @@
 		"url": "https://datamillnorth.org/download/council-spending/8d24325c-e1a2-4ec6-bc24-1abf6d1fe794/spending_2021_11.csv",
 		"name": "November 2021",
 		"file": "2021-11.csv"
+	},{
+		"format": "csv",
+		"month": "2021-12",
+		"url": "https://datamillnorth.org/download/council-spending/ec1814a6-12bf-490c-86cb-24a8e2d5087b/spending_2021_12.csv",
+		"name": "December 2021",
+		"file": "2021-12.csv"
 	}]
 }
