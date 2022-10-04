@@ -16,12 +16,6 @@
 	},
 	"files": [{
 		"format": "csv",
-		"month": "",
-		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20Septermber%2021.csv",
-		"name": "Invoices over 250 Septermber 21.csv",
-		"file": "_i.csv"
-	},{
-		"format": "csv",
 		"month": "2014-04",
 		"url": "",
 		"name": "2014-04 Invoice",
@@ -592,6 +586,12 @@
 		"file": "2020-05_i.csv"
 	},{
 		"format": "csv",
+		"month": "2020-05",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20-%20May%2020.csv",
+		"name": "Purchase Card - May 20.csv",
+		"file": "2020-05_p.csv"
+	},{
+		"format": "csv",
 		"month": "2020-06",
 		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Card%20-%20june20%20to%20publish.csv",
 		"name": "Purchase Card Over 250 - Jun 20.csv",
@@ -730,10 +730,22 @@
 		"file": "2021-05_i.csv"
 	},{
 		"format": "csv",
+		"month": "2021-05",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Cards%20May%2021.csv",
+		"name": "Purchase Cards May 21.csv",
+		"file": "2021-05_p.csv"
+	},{
+		"format": "csv",
 		"month": "2021-06",
 		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20June%2021.csv",
 		"name": "Invoices over 250 June 21.csv",
 		"file": "2021-06_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-06",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Cards%20June%2021.csv",
+		"name": "Purchase Cards June 21.csv",
+		"file": "2021-06_p.csv"
 	},{
 		"format": "csv",
 		"month": "2021-07",
@@ -742,10 +754,34 @@
 		"file": "2021-07_i.csv"
 	},{
 		"format": "csv",
+		"month": "2021-07",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Copy%20of%20PCARD%20Jul%2021%20to%20publish.csv",
+		"name": "Purchase Cards July 21.csv",
+		"file": "2021-07_p.csv"
+	},{
+		"format": "csv",
 		"month": "2021-08",
 		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20Aug%2021.csv",
 		"name": "Invoices over 250 Aug 21.csv",
 		"file": "2021-08_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-08",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Cards%20August%2021.csv",
+		"name": "Purchase Cards August 21.csv",
+		"file": "2021-08_p.csv"
+	},{
+		"format": "csv",
+		"month": "2021-09",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20Septermber%2021.csv",
+		"name": "Invoices over 250 Septermber 21.csv",
+		"file": "2021-09_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-09",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20cards%20September%2021.csv",
+		"name": "Purchase cards September 21.csv",
+		"file": "2021-09_p.csv"
 	},{
 		"format": "csv",
 		"month": "2021-10",
@@ -754,9 +790,117 @@
 		"file": "2021-10_i.csv"
 	},{
 		"format": "csv",
+		"month": "2021-10",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20cards%20October%2021.csv",
+		"name": "Purchase cards October 21.csv",
+		"file": "2021-10_p.csv"
+	},{
+		"format": "csv",
 		"month": "2021-11",
 		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20November%2021.csv",
 		"name": "Invoices over 250 November 21.csv",
 		"file": "2021-11_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-11",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20cards%20November%202021.csv",
+		"name": "Purchase cards November 2021.csv",
+		"file": "2021-11_p.csv"
+	},{
+		"format": "csv",
+		"month": "2021-12",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20December%2021.csv",
+		"name": "Invoices over 250 December 21.csv",
+		"file": "2021-12_i.csv"
+	},{
+		"format": "csv",
+		"month": "2021-12",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20cards%20December%202021.csv",
+		"name": "Purchase cards December 2021.csv",
+		"file": "2021-12_p.csv"
+	},{
+		"format": "csv",
+		"month": "2022-01",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20January%2022.csv",
+		"name": "Invoices over 250 January 22.csv",
+		"file": "2022-01_i.csv"
+	},{
+		"format": "csv",
+		"month": "2022-01",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20cards%20January%202022.csv",
+		"name": "Purchase cards January 2022.csv",
+		"file": "2022-01_p.csv"
+	},{
+		"format": "csv",
+		"month": "2022-02",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20February%202021.csv",
+		"name": "Invoices over 250 February 2022.csv",
+		"file": "2022-02_i.csv"
+	},{
+		"format": "csv",
+		"month": "2022-02",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20cards%20February%202022.csv",
+		"name": "Purchase cards February 2022.csv",
+		"file": "2022-02_p.csv"
+	},{
+		"format": "csv",
+		"month": "2022-03",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20March%202022.csv",
+		"name": "Invoices over 250 March 2022.csv",
+		"file": "2022-03_i.csv"
+	},{
+		"format": "csv",
+		"month": "2022-03",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20cards%20March%202022.csv",
+		"name": "Purchase cards March 2022.csv",
+		"file": "2022-03_p.csv"
+	},{
+		"format": "csv",
+		"month": "2022-04",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20april%20invoices%20to%20PUBLISH.csv",
+		"name": " Invoices over 250 April 22.csv",
+		"file": "2022-04_i.csv"
+	},{
+		"format": "csv",
+		"month": "2022-04",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20april%20p%20card%20TO%20PUBLISH.csv",
+		"name": "Purchase Cards April 22.csv",
+		"file": "2022-04_p.csv"
+	},{
+		"format": "csv",
+		"month": "2022-05",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20May%2022.csv",
+		"name": "Invoices over 250 May 22.csv",
+		"file": "2022-05_i.csv"
+	},{
+		"format": "csv",
+		"month": "2022-05",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Purchase%20Cards%20May%2022.csv",
+		"name": "Purchase Cards May 22.csv",
+		"file": "2022-05_p.csv"
+	},{
+		"format": "csv",
+		"month": "2022-06",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoice%20over%20250%20June%20to%20Publish.csv",
+		"name": " Invoices over 250 June 22.csv",
+		"file": "2022-06_i.csv"
+	},{
+		"format": "csv",
+		"month": "2022-06",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoice%20over%20250%20data%20p%20card%20June%20publish.csv",
+		"name": "Purchase Cards June 22.csv",
+		"file": "2022-06_p.csv"
+	},{
+		"format": "csv",
+		"month": "2022-07",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20July%20to%20Publish.csv",
+		"name": " Invoices over 250 July 22.csv",
+		"file": "2022-07_i.csv"
+	},{
+		"format": "csv",
+		"month": "2022-07",
+		"url": "https://my.northtyneside.gov.uk/sites/default/files/web-page-related-files/Invoices%20over%20250%20P%20CARD%20July%20to%20publish.csv",
+		"name": "Purchase Cards July 22.csv",
+		"file": "2022-07_p.csv"
 	}]
 }
