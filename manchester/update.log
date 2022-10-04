@@ -1,0 +1,332 @@
+Downloading data/manchester/raw/2022-02.csv from https://www.manchester.gov.uk/open/download/downloads/id/1052/expenditure_exceeding_500_february_2022.csv
+Making temporary clean version of the file for manchester from data/manchester/raw/2022-02.csv to data/manchester/clean/2022-02.csv
+3616 lines at this point.
+Tidying data/manchester/raw/2022-02.csv into data/manchester/clean/2022-02.csv
+Processing data/manchester/clean/2022-02.csv
+3616 rows
+Downloading data/manchester/raw/2022-03.csv from https://www.manchester.gov.uk/open/download/downloads/id/1055/expenditure_exceeding_500_march_2022.csv
+Making temporary clean version of the file for manchester from data/manchester/raw/2022-03.csv to data/manchester/clean/2022-03.csv
+5184 lines at this point.
+Tidying data/manchester/raw/2022-03.csv into data/manchester/clean/2022-03.csv
+Processing data/manchester/clean/2022-03.csv
+5184 rows
+Downloading data/manchester/raw/2022-04.csv from https://www.manchester.gov.uk/open/download/downloads/id/1065/expenditure_exceeding_500_april_2022.csv
+Making temporary clean version of the file for manchester from data/manchester/raw/2022-04.csv to data/manchester/clean/2022-04.csv
+3601 lines at this point.
+Tidying data/manchester/raw/2022-04.csv into data/manchester/clean/2022-04.csv
+Processing data/manchester/clean/2022-04.csv
+3601 rows
+Downloading data/manchester/raw/2022-05.csv from https://www.manchester.gov.uk/open/download/downloads/id/1102/expenditure_exceeding_500_may_2022.csv
+Making temporary clean version of the file for manchester from data/manchester/raw/2022-05.csv to data/manchester/clean/2022-05.csv
+3565 lines at this point.
+Tidying data/manchester/raw/2022-05.csv into data/manchester/clean/2022-05.csv
+Processing data/manchester/clean/2022-05.csv
+3565 rows
+Processing data/manchester/processed/2010-12.csv
+4097 rows
+Processing data/manchester/processed/2011-01.csv
+4063 rows
+Processing data/manchester/processed/2011-02.csv
+4569 rows
+Processing data/manchester/processed/2011-03.csv
+4992 rows
+Processing data/manchester/processed/2011-04.csv
+3502 rows
+Processing data/manchester/processed/2011-05.csv
+3297 rows
+Processing data/manchester/processed/2011-06.csv
+3455 rows
+Processing data/manchester/processed/2011-07.csv
+4210 rows
+Processing data/manchester/processed/2011-08.csv
+3300 rows
+Processing data/manchester/processed/2011-09.csv
+2952 rows
+Processing data/manchester/processed/2011-10.csv
+2914 rows
+Processing data/manchester/processed/2011-11.csv
+4305 rows
+Processing data/manchester/processed/2011-12.csv
+3436 rows
+Processing data/manchester/processed/2012-01.csv
+3634 rows
+Processing data/manchester/processed/2012-02.csv
+3471 rows
+Processing data/manchester/processed/2012-03.csv
+5508 rows
+Processing data/manchester/processed/2012-04.csv
+3745 rows
+Processing data/manchester/processed/2012-05.csv
+3304 rows
+Processing data/manchester/processed/2012-06.csv
+2750 rows
+Processing data/manchester/processed/2012-07.csv
+3513 rows
+Processing data/manchester/processed/2012-08.csv
+3389 rows
+Processing data/manchester/processed/2012-09.csv
+3388 rows
+Processing data/manchester/processed/2012-10.csv
+3468 rows
+Processing data/manchester/processed/2012-11.csv
+3583 rows
+Processing data/manchester/processed/2012-12.csv
+2807 rows
+Processing data/manchester/processed/2013-01.csv
+4605 rows
+Processing data/manchester/processed/2013-02.csv
+3839 rows
+Processing data/manchester/processed/2013-03.csv
+3114 rows
+Processing data/manchester/processed/2013-04.csv
+3976 rows
+Processing data/manchester/processed/2013-05.csv
+4483 rows
+Processing data/manchester/processed/2013-06.csv
+3412 rows
+Processing data/manchester/processed/2013-07.csv
+3401 rows
+Processing data/manchester/processed/2013-08.csv
+3757 rows
+Processing data/manchester/processed/2013-09.csv
+3175 rows
+Processing data/manchester/processed/2013-10.csv
+3854 rows
+Processing data/manchester/processed/2013-11.csv
+4031 rows
+Processing data/manchester/processed/2013-12.csv
+3386 rows
+Processing data/manchester/processed/2014-01.csv
+4286 rows
+Processing data/manchester/processed/2014-02.csv
+3728 rows
+Processing data/manchester/processed/2014-03.csv
+4743 rows
+Processing data/manchester/processed/2014-04.csv
+2941 rows
+Processing data/manchester/processed/2014-05.csv
+2958 rows
+Processing data/manchester/processed/2014-06.csv
+4081 rows
+Processing data/manchester/processed/2014-07.csv
+4036 rows
+Processing data/manchester/processed/2014-08.csv
+3380 rows
+Processing data/manchester/processed/2014-09.csv
+3585 rows
+Processing data/manchester/processed/2014-10.csv
+3860 rows
+Processing data/manchester/processed/2014-11.csv
+3579 rows
+Processing data/manchester/processed/2014-12.csv
+4069 rows
+Processing data/manchester/processed/2015-01.csv
+3639 rows
+Processing data/manchester/processed/2015-02.csv
+3676 rows
+Processing data/manchester/processed/2015-03.csv
+4879 rows
+Processing data/manchester/processed/2015-04.csv
+3744 rows
+Processing data/manchester/processed/2015-05.csv
+3104 rows
+Processing data/manchester/processed/2015-06.csv
+3484 rows
+Processing data/manchester/processed/2015-07.csv
+3327 rows
+Processing data/manchester/processed/2015-08.csv
+3464 rows
+Processing data/manchester/processed/2015-09.csv
+3618 rows
+Processing data/manchester/processed/2015-10.csv
+3541 rows
+Processing data/manchester/processed/2015-11.csv
+3926 rows
+Processing data/manchester/processed/2015-12.csv
+3779 rows
+Processing data/manchester/processed/2016-01.csv
+3397 rows
+Processing data/manchester/processed/2016-02.csv
+3430 rows
+Processing data/manchester/processed/2016-03.csv
+4846 rows
+Processing data/manchester/processed/2016-04.csv
+3618 rows
+Processing data/manchester/processed/2016-05.csv
+3386 rows
+Processing data/manchester/processed/2016-06.csv
+3350 rows
+Processing data/manchester/processed/2016-07.csv
+3564 rows
+Processing data/manchester/processed/2016-08.csv
+3854 rows
+Processing data/manchester/processed/2016-09.csv
+3071 rows
+Processing data/manchester/processed/2016-10.csv
+3645 rows
+Processing data/manchester/processed/2016-11.csv
+3274 rows
+Processing data/manchester/processed/2016-12.csv
+3423 rows
+Processing data/manchester/processed/2017-01.csv
+3100 rows
+Processing data/manchester/processed/2017-02.csv
+3164 rows
+Processing data/manchester/processed/2017-03.csv
+4559 rows
+Processing data/manchester/processed/2017-04.csv
+2412 rows
+Processing data/manchester/processed/2017-05.csv
+2820 rows
+Processing data/manchester/processed/2017-06.csv
+3004 rows
+Processing data/manchester/processed/2017-07.csv
+3420 rows
+Processing data/manchester/processed/2017-08.csv
+2878 rows
+Processing data/manchester/processed/2017-09.csv
+3100 rows
+Processing data/manchester/processed/2017-10.csv
+3134 rows
+Processing data/manchester/processed/2017-11.csv
+3460 rows
+Processing data/manchester/processed/2017-12.csv
+2802 rows
+Processing data/manchester/processed/2018-01.csv
+3111 rows
+Processing data/manchester/processed/2018-02.csv
+3262 rows
+Processing data/manchester/processed/2018-03.csv
+4149 rows
+Processing data/manchester/processed/2018-04.csv
+3033 rows
+Processing data/manchester/processed/2018-05.csv
+3083 rows
+Processing data/manchester/processed/2018-06.csv
+2745 rows
+Processing data/manchester/processed/2018-07.csv
+3184 rows
+Processing data/manchester/processed/2018-08.csv
+3006 rows
+Processing data/manchester/processed/2018-09.csv
+2934 rows
+Processing data/manchester/processed/2018-10.csv
+3483 rows
+Processing data/manchester/processed/2018-11.csv
+3030 rows
+Processing data/manchester/processed/2018-12.csv
+2574 rows
+Processing data/manchester/processed/2019-01.csv
+3720 rows
+Processing data/manchester/processed/2019-02.csv
+3083 rows
+Processing data/manchester/processed/2019-03.csv
+3756 rows
+Processing data/manchester/processed/2019-04.csv
+3303 rows
+Processing data/manchester/processed/2019-05.csv
+2902 rows
+Processing data/manchester/processed/2019-06.csv
+2623 rows
+Processing data/manchester/processed/2019-07.csv
+3451 rows
+Processing data/manchester/processed/2019-08.csv
+3044 rows
+Processing data/manchester/processed/2019-09.csv
+3247 rows
+Processing data/manchester/processed/2019-10.csv
+2886 rows
+Processing data/manchester/processed/2019-11.csv
+3650 rows
+Processing data/manchester/processed/2019-12.csv
+3840 rows
+Processing data/manchester/processed/2020-01.csv
+4018 rows
+Processing data/manchester/processed/2020-02.csv
+3265 rows
+Processing data/manchester/processed/2020-03.csv
+3074 rows
+Processing data/manchester/processed/2020-04.csv
+3517 rows
+Processing data/manchester/processed/2020-05.csv
+2524 rows
+Processing data/manchester/processed/2020-06.csv
+2234 rows
+Processing data/manchester/processed/2020-07.csv
+2346 rows
+Processing data/manchester/processed/2020-08.csv
+2237 rows
+Processing data/manchester/processed/2020-09.csv
+3049 rows
+Processing data/manchester/processed/2020-10.csv
+2947 rows
+Processing data/manchester/processed/2020-11.csv
+2815 rows
+Processing data/manchester/processed/2020-12.csv
+2877 rows
+Processing data/manchester/processed/2021-01.csv
+2575 rows
+Processing data/manchester/processed/2021-02.csv
+2253 rows
+Processing data/manchester/processed/2021-03.csv
+4793 rows
+Processing data/manchester/processed/2021-04.csv
+3022 rows
+Processing data/manchester/processed/2021-05.csv
+2517 rows
+Processing data/manchester/processed/2021-06.csv
+2897 rows
+Processing data/manchester/processed/2021-07.csv
+3252 rows
+Processing data/manchester/processed/2021-08.csv
+3517 rows
+Processing data/manchester/processed/2021-09.csv
+2542 rows
+Processing data/manchester/processed/2021-10.csv
+3083 rows
+Processing data/manchester/processed/2021-11.csv
+3120 rows
+Processing data/manchester/processed/2021-12.csv
+2662 rows
+Processing data/manchester/processed/2022-01.csv
+3788 rows
+Processing data/manchester/processed/2022-02.csv
+3616 rows
+Processing data/manchester/processed/2022-03.csv
+5184 rows
+Processing data/manchester/processed/2022-04.csv
+3601 rows
+Processing data/manchester/processed/2022-05.csv
+3565 rows
+Data goes from 2010-12 to 2022-05
+Services:
+		"AGMA New Economy":"c1-bg",
+		"Adult Social Care":"c1-bg",
+		"Chief Executives":"c1-bg",
+		"Childrens & Education Services":"c1-bg",
+		"Childrens Services":"c1-bg",
+		"Collection Fund":"c1-bg",
+		"Corporate Services":"c1-bg",
+		"Environment and Operations":"c1-bg",
+		"GMIST (Greater Mcr Integrated)":"c1-bg",
+		"General Fund":"c1-bg",
+		"Grtr Manchester County Records":"c1-bg",
+		"Grtr Manchester Transport Unit":"c1-bg",
+		"Grtr Manchester Urban Traffic":"c1-bg",
+		"Highways Services":"c1-bg",
+		"Hospitality + Trading Services":"c1-bg",
+		"Housing General Fund":"c1-bg",
+		"Housing Revenue Account":"c1-bg",
+		"Insurance Fund":"c1-bg",
+		"Investment Core Strategy":"c1-bg",
+		"Learning Disabilities PB":"c1-bg",
+		"Leasing":"c1-bg",
+		"Libraries and Theatres":"c1-bg",
+		"Manchester City Galleries":"c1-bg",
+		"Manchester Leisure":"c1-bg",
+		"Mental Health Pooled Budget":"c1-bg",
+		"Mersey Valley Joint Committee":"c1-bg",
+		"Nuclear Free Zones":"c1-bg",
+		"Regeneration Finance":"c1-bg",
+		"Section 48":"c1-bg",
+		"Specialist Trading Standards":"c1-bg",

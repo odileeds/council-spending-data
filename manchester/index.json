@@ -818,5 +818,29 @@
 		"url": "https://www.manchester.gov.uk/open/download/downloads/id/1047/expenditure_exceeding_500_january_2022.csv",
 		"name": "january 2022",
 		"file": "2022-01.csv"
+	},{
+		"format": "csv",
+		"month": "2022-02",
+		"url": "https://www.manchester.gov.uk/open/download/downloads/id/1052/expenditure_exceeding_500_february_2022.csv",
+		"name": "February 2022",
+		"file": "2022-02.csv"
+	},{
+		"format": "csv",
+		"month": "2022-03",
+		"url": "https://www.manchester.gov.uk/open/download/downloads/id/1055/expenditure_exceeding_500_march_2022.csv",
+		"name": "March 2022",
+		"file": "2022-03.csv"
+	},{
+		"format": "csv",
+		"month": "2022-04",
+		"url": "https://www.manchester.gov.uk/open/download/downloads/id/1065/expenditure_exceeding_500_april_2022.csv",
+		"name": "April 2022",
+		"file": "2022-04.csv"
+	},{
+		"format": "csv",
+		"month": "2022-05",
+		"url": "https://www.manchester.gov.uk/open/download/downloads/id/1102/expenditure_exceeding_500_may_2022.csv",
+		"name": "May 2022",
+		"file": "2022-05.csv"
 	}]
 }
