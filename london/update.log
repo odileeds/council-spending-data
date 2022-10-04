@@ -1,0 +1,783 @@
+Making temporary clean version of the file for london from data/london/raw/2021-P02.csv to data/london/clean/2021-P02.csv
+WARNING:	Removed invalid headers in data/london/clean/2021-P02.csv
+2272 lines at this point.
+Tidying data/london/raw/2021-P02.csv into data/london/clean/2021-P02.csv
+Processing data/london/clean/2021-P02.csv
+1099 rows
+Processing data/london/processed/2013-P01.csv
+1203 rows
+Processing data/london/processed/2013-P02.csv
+352 rows
+Processing data/london/processed/2013-P03.csv
+524 rows
+Processing data/london/processed/2013-P04.csv
+382 rows
+Processing data/london/processed/2013-P05.csv
+563 rows
+Processing data/london/processed/2013-P06.csv
+483 rows
+WARNING:	Empty Organisational Unit on line 103 of data/london/processed/2013-P06.csv
+Processing data/london/processed/2013-P07.csv
+352 rows
+Processing data/london/processed/2013-P08.csv
+414 rows
+Processing data/london/processed/2013-P09.csv
+559 rows
+Processing data/london/processed/2013-P10.csv
+541 rows
+Processing data/london/processed/2013-P10.csv
+541 rows
+Processing data/london/processed/2013-P11.csv
+518 rows
+Processing data/london/processed/2013-P11.csv
+518 rows
+Processing data/london/processed/2013-P12.csv
+552 rows
+Processing data/london/processed/2013-P12.csv
+552 rows
+Processing data/london/processed/2013-P13.csv
+1077 rows
+Processing data/london/processed/2013-P13.csv
+1077 rows
+Processing data/london/processed/2014-P01.csv
+752 rows
+Processing data/london/processed/2014-P02.csv
+556 rows
+Processing data/london/processed/2014-P03.csv
+547 rows
+Processing data/london/processed/2014-P04.csv
+511 rows
+Processing data/london/processed/2014-P05.csv
+703 rows
+Processing data/london/processed/2014-P06.csv
+739 rows
+Processing data/london/processed/2014-P07.csv
+631 rows
+Processing data/london/processed/2014-P08.csv
+669 rows
+Processing data/london/processed/2014-P09.csv
+780 rows
+Processing data/london/processed/2014-P10.csv
+630 rows
+Processing data/london/processed/2014-P11.csv
+928 rows
+Processing data/london/processed/2014-P12.csv
+1113 rows
+Processing data/london/processed/2014-P13.csv
+2381 rows
+Processing data/london/processed/2015-P01.csv
+1324 rows
+Processing data/london/processed/2015-P02.csv
+714 rows
+Processing data/london/processed/2015-P03.csv
+516 rows
+Processing data/london/processed/2015-P05.csv
+955 rows
+Processing data/london/processed/2015-P06.csv
+902 rows
+Processing data/london/processed/2015-P07.csv
+921 rows
+Processing data/london/processed/2015-P08.csv
+752 rows
+Processing data/london/processed/2015-P10.csv
+798 rows
+Processing data/london/processed/2015-P11.csv
+859 rows
+Processing data/london/processed/2015-P12.csv
+844 rows
+Processing data/london/processed/2015-P13.csv
+1660 rows
+Processing data/london/processed/2016-P01.csv
+1235 rows
+Processing data/london/processed/2016-P02.csv
+629 rows
+Processing data/london/processed/2016-P03.csv
+1327 rows
+Processing data/london/processed/2016-P04.csv
+745 rows
+Processing data/london/processed/2016-P05.csv
+702 rows
+Processing data/london/processed/2016-P06.csv
+778 rows
+Processing data/london/processed/2016-P07.csv
+671 rows
+Processing data/london/processed/2016-P08.csv
+615 rows
+Processing data/london/processed/2016-P09.csv
+955 rows
+Processing data/london/processed/2016-P10.csv
+584 rows
+Processing data/london/processed/2016-P11.csv
+731 rows
+Processing data/london/processed/2016-P12.csv
+727 rows
+Processing data/london/processed/2016-P13.csv
+953 rows
+Processing data/london/processed/2017-P01.csv
+918 rows
+Processing data/london/processed/2017-P02.csv
+639 rows
+Processing data/london/processed/2017-P03.csv
+544 rows
+Processing data/london/processed/2017-P04.csv
+596 rows
+Processing data/london/processed/2017-P05.csv
+666 rows
+Processing data/london/processed/2017-P07.csv
+554 rows
+Processing data/london/processed/2017-P08.csv
+780 rows
+Processing data/london/processed/2017-P09.csv
+713 rows
+Processing data/london/processed/2017-P10.csv
+695 rows
+Processing data/london/processed/2017-P11.csv
+659 rows
+Processing data/london/processed/2017-P12.csv
+721 rows
+Processing data/london/processed/2017-P13.csv
+1332 rows
+Processing data/london/processed/2018-P01.csv
+820 rows
+Processing data/london/processed/2018-P02.csv
+729 rows
+Processing data/london/processed/2018-P03.csv
+658 rows
+Processing data/london/processed/2018-P04.csv
+833 rows
+Processing data/london/processed/2018-P05.csv
+794 rows
+Processing data/london/processed/2018-P06.csv
+787 rows
+Processing data/london/processed/2018-P07.csv
+680 rows
+Processing data/london/processed/2018-P08.csv
+843 rows
+Processing data/london/processed/2018-P09.csv
+901 rows
+Processing data/london/processed/2018-P10.csv
+909 rows
+Processing data/london/processed/2018-P11.csv
+888 rows
+Processing data/london/processed/2018-P12.csv
+958 rows
+Processing data/london/processed/2018-P13.csv
+1317 rows
+Processing data/london/processed/2019-P01.csv
+1141 rows
+Processing data/london/processed/2019-P02.csv
+716 rows
+Processing data/london/processed/2019-P03.csv
+903 rows
+Processing data/london/processed/2019-P04.csv
+990 rows
+Processing data/london/processed/2019-P05.csv
+1313 rows
+WARNING:	Empty Payment Date on line 1299 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,3264.94,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,3264.94,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1300 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,3006.98,Publications & Perio,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,3006.98,Publications & Perio,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1301 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,2999.96,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,2999.96,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1302 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,2900.00,Publications & Perio,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,2900.00,Publications & Perio,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1303 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,1499.99,Photography & Video,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,1499.99,Photography & Video,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1304 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,672,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,672,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1305 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,639.99,Photography & Video,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,639.99,Photography & Video,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1306 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,550.8,Conferences/Seminars,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,550.8,Conferences/Seminars,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1307 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,446.4,Equip Hire & Rental,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,446.4,Equip Hire & Rental,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1308 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,397.5,Conferences/Seminars,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,397.5,Conferences/Seminars,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1309 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,395.83,Conferences/Seminars,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,395.83,Conferences/Seminars,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1310 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,317.17,Computer Software,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,317.17,Computer Software,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1311 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,290,Publications & Perio,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,290,Publications & Perio,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Empty Payment Date on line 1312 of data/london/processed/2019-P05.csv
+ERROR:	No date given for ,495,Bank Charges,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+WARNING:	Date is before the year 2000 () - ,495,Bank Charges,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P05.csv
+Processing data/london/processed/2019-P06.csv
+573 rows
+WARNING:	Empty Payment Date on line 97 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,6375.00,Marketing Services,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,6375.00,Marketing Services,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 164 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,2139.96,Photography & Video,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,2139.96,Photography & Video,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 342 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,928.77,Publications & Perio,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,928.77,Publications & Perio,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 393 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,790,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,790,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 457 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,592.01,Computer Software,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,592.01,Computer Software,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 458 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,586.35,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,586.35,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 459 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,586.35,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,586.35,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 508 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,405,Comm Property Rent,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,405,Comm Property Rent,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 514 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,390.6,Software Maintenance,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,390.6,Software Maintenance,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 529 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,330,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,330,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 530 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,330,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,330,Staff Training,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Empty Payment Date on line 566 of data/london/processed/2019-P06.csv
+ERROR:	No date given for ,3000.00,Recruitment Expenses,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+WARNING:	Date is before the year 2000 () - ,3000.00,Recruitment Expenses,NATWEST CORPORATE CREDIT CARD,, from data/london/processed/2019-P06.csv
+Processing data/london/processed/2019-P07.csv
+1279 rows
+Processing data/london/processed/2019-P08.csv
+1355 rows
+Processing data/london/processed/2019-P09.csv
+1228 rows
+Processing data/london/processed/2019-P10.csv
+1040 rows
+Processing data/london/processed/2019-P11.csv
+1115 rows
+Processing data/london/processed/2019-P12.csv
+1184 rows
+Processing data/london/processed/2019-P13.csv
+1624 rows
+Processing data/london/processed/2020-P01.csv
+1604 rows
+Processing data/london/processed/2020-P02.csv
+1038 rows
+Processing data/london/processed/2020-P03.csv
+1012 rows
+Processing data/london/processed/2020-P04.csv
+1123 rows
+Processing data/london/processed/2020-P05.csv
+974 rows
+Processing data/london/processed/2020-P06.csv
+928 rows
+Processing data/london/processed/2020-P07.csv
+942 rows
+Processing data/london/processed/2020-P08.csv
+1012 rows
+Processing data/london/processed/2020-P09.csv
+951 rows
+Processing data/london/processed/2021-P01.csv
+2075 rows
+Processing data/london/processed/2021-P02.csv
+1099 rows
+Processing data/london/processed/2021-P03.csv
+1110 rows
+Processing data/london/processed/2021-P04.csv
+1161 rows
+Processing data/london/processed/2021-P05.csv
+1271 rows
+Processing data/london/processed/2021-P06.csv
+1076 rows
+Processing data/london/processed/2021-P07.csv
+1492 rows
+Processing data/london/processed/2021-P08.csv
+1422 rows
+Processing data/london/processed/2021-P09.csv
+1383 rows
+Processing data/london/processed/2021-P10.csv
+1049 rows
+Processing data/london/processed/2021-P11.csv
+1082 rows
+Processing data/london/processed/2021-P12.csv
+1124 rows
+Processing data/london/processed/2021-P13.csv
+1855 rows
+Processing data/london/processed/2022-P01.csv
+1805 rows
+Processing data/london/processed/2022-P02.csv
+1070 rows
+Processing data/london/processed/2022-P10.csv
+1296 rows
+Processing data/london/processed/2022-P11.csv
+1164 rows
+Processing data/london/processed/2022-P12.csv
+1478 rows
+Processing data/london/processed/2022-P13.csv
+2554 rows
+Data goes from 2013-04 to 2022-05
+Services:
+		""Development, Enterprise & Environment"":"c1-bg",
+		""MAPS, TIMETABLES & FARE INFORMATION"":"c1-bg",
+		""MOBILE PHONE LINE RENT, CALLS & EQUIPMENT"":"c1-bg",
+		""Maps, Timetables & Fare Information"":"c1-bg",
+		""Mobile Phone Line Rent, Calls & Equipment"":"c1-bg",
+		""TELEPHONE LINE RENT, CALLS & EQUIPMENT"":"c1-bg",
+		""Telephone Line Rent, Calls & Equipment"":"c1-bg",
+		"0":"c1-bg",
+		"AGENCY FEES PAID TO MARKETING AGENCIES":"c1-bg",
+		"AGENCY STAFF":"c1-bg",
+		"AM PENSIONS LOAN":"c1-bg",
+		"ART AND POETRY INSTALLATIONS AND PROGRAMMES":"c1-bg",
+		"ARTWORK":"c1-bg",
+		"AUDIT FEES":"c1-bg",
+		"Advertising":"c1-bg",
+		"Agency Fees Paid To Marketing Agencies":"c1-bg",
+		"Agency Staff":"c1-bg",
+		"Assembly & Secretariat":"c1-bg",
+		"Audit Fees":"c1-bg",
+		"BANK CHARGES":"c1-bg",
+		"BLKD Data Migration - Vendor Open Items":"c1-bg",
+		"BROKERS FEES":"c1-bg",
+		"BUILDING MAINTENANCE & REPAIRS":"c1-bg",
+		"BUSINESS ENTERTAININ":"c1-bg",
+		"BUSINESS ENTERTAINING":"c1-bg",
+		"BUSINESS FARES":"c1-bg",
+		"BUSINESS RATE RETENTION-CLG":"c1-bg",
+		"Bank Charges":"c1-bg",
+		"Broadcast Ad Space":"c1-bg",
+		"Brokers Fees":"c1-bg",
+		"Building Maintenance & Repairs":"c1-bg",
+		"Bus Rates Retent-CLG":"c1-bg",
+		"Business Entertainin":"c1-bg",
+		"Business Entertaining":"c1-bg",
+		"Business Fares":"c1-bg",
+		"C19 S&C MORTUARY LOGISTICS":"c1-bg",
+		"CASH DISCOUNT RECEIVED":"c1-bg",
+		"CATERERS SERVICE CHARGES":"c1-bg",
+		"CATERERS SERVICE CHG":"c1-bg",
+		"CCS Adjudication Services Contract":"c1-bg",
+		"CHARITABLE DONATIONS":"c1-bg",
+		"CHILDCARE VOUCHERS":"c1-bg",
+		"CIVIL ENGINEERING CONSTRUCTION WORKS":"c1-bg",
+		"CLAIM SETTLEMENTS":"c1-bg",
+		"COMM LOANS - MKT RATE %":"c1-bg",
+		"COMM LOANS - MKT RATE%":"c1-bg",
+		"COMM LOANS-MKT RATE %":"c1-bg",
+		"COMMERCIAL PROPERTY RENT":"c1-bg",
+		"COMMUNITIES & INTELLIGENCE":"c1-bg",
+		"COMPUTER CONSUMABLES":"c1-bg",
+		"COMPUTER HARDWARE":"c1-bg",
+		"COMPUTER SOFTWARE":"c1-bg",
+		"CONFERENCES & SEMINARS":"c1-bg",
+		"CONFERENCES/SEMINARS":"c1-bg",
+		"CONSULTANCY  EVALUATION ASSESSMENT":"c1-bg",
+		"CONSULTANCY - PROJECT MANAGEMENT":"c1-bg",
+		"CONSULTANCY-COMMISSIONED REPORT":"c1-bg",
+		"CONSULTANCY-PROJECT MANAGEMENT":"c1-bg",
+		"CONSULTANTS (CONTRACTORS)":"c1-bg",
+		"CONTINGENT GRANT LA":"c1-bg",
+		"CONTINGENT GRANT-EXT ORG":"c1-bg",
+		"CONTRACTED SERVICES BUILDINGS":"c1-bg",
+		"CONTRACTORS":"c1-bg",
+		"CORPORATE SUBSCRIPTIONS":"c1-bg",
+		"CORPORATE SUBSCRIPTS":"c1-bg",
+		"COURIERS":"c1-bg",
+		"CRB CHECKS":"c1-bg",
+		"CRB Checks":"c1-bg",
+		"CUSTOMER RESEARCH AND COUNTS":"c1-bg",
+		"CYCLE TO WORK BIKES":"c1-bg",
+		"Cash Discount Receiv":"c1-bg",
+		"Caterers Service Charges":"c1-bg",
+		"Caterers Service Chg":"c1-bg",
+		"Childcare Vouchers":"c1-bg",
+		"Claim Settlements":"c1-bg",
+		"Comm Property Rent":"c1-bg",
+		"Commercial Property Rent":"c1-bg",
+		"Communities and Intelligence":"c1-bg",
+		"Computer Consumables":"c1-bg",
+		"Computer Hardware":"c1-bg",
+		"Computer Software":"c1-bg",
+		"Computer consumables":"c1-bg",
+		"Conferences & Seminars":"c1-bg",
+		"Conferences/Seminars":"c1-bg",
+		"Consultancy  Evaluation Assessment":"c1-bg",
+		"Consultancy-Commissioned Report":"c1-bg",
+		"Consultancy-Project Management":"c1-bg",
+		"Consultants (Contractors)":"c1-bg",
+		"Contracted Services Buildings":"c1-bg",
+		"Corporate Management":"c1-bg",
+		"Corporate Subsciptions":"c1-bg",
+		"Corporate Subscriptions":"c1-bg",
+		"Corporate Subscripts":"c1-bg",
+		"Couriers":"c1-bg",
+		"Customer Research and Counts":"c1-bg",
+		"DATA HOSTING EMAIL DESIGN AND TRANSMISSION INC SMS":"c1-bg",
+		"DATA PURCHASE":"c1-bg",
+		"DESIGN & PRODUCTION OF MAPS & TIMETABLE PUBLICITY":"c1-bg",
+		"DESIGN AND PRODUCTION OF FARES INFORMATION":"c1-bg",
+		"DFT FACILITY ANNUAL INTEREST":"c1-bg",
+		"DIGITAL AD SPACE":"c1-bg",
+		"DILAPIDATIONS":"c1-bg",
+		"DIRECT CONSTRUCTION COST":"c1-bg",
+		"DISPOSAL FEES - LEGAL":"c1-bg",
+		"DISPOSAL FEES - PROPERTY":"c1-bg",
+		"DOCUMENT ARCHIVE & STORAGE":"c1-bg",
+		"Data Purchase":"c1-bg",
+		"Development & Environment":"c1-bg",
+		"Digital Ad Space":"c1-bg",
+		"Disposal Fees - Legal":"c1-bg",
+		"Disposal Fees - Property":"c1-bg",
+		"Document Archive & Storage":"c1-bg",
+		"ELECTRICAL EQUIPMENT MAINTENANCE":"c1-bg",
+		"ELECTRICITY":"c1-bg",
+		"ELEPHANT & CASTLE GRANT":"c1-bg",
+		"EQUIP HIRE & RENTAL":"c1-bg",
+		"EQUIPMENT HIRE & RENTAL":"c1-bg",
+		"EQUIPMENT REPAIRS & MAINTENANCE":"c1-bg",
+		"ERDF_Local Auth_Current":"c1-bg",
+		"ERDF_Private Sector Companies_Current":"c1-bg",
+		"ERDF_Private Sector NPISH_Current":"c1-bg",
+		"ESTATE AGENTS FEES":"c1-bg",
+		"EVENT MANAGEMENT FEE":"c1-bg",
+		"EXCHANGE GAIN REALISED":"c1-bg",
+		"EXPENDITURE":"c1-bg",
+		"EXT MTNG RM HIRE/EXP":"c1-bg",
+		"EXTERNAL AUDIT FEES":"c1-bg",
+		"EXTERNAL BUILDING MAINTENANCE":"c1-bg",
+		"EXTERNAL EVENTS ROADS SHOWS":"c1-bg",
+		"EXTERNAL EVENTS ROADS SHOWS AND FACE TO FACE":"c1-bg",
+		"EXTERNAL GRANT":"c1-bg",
+		"EXTERNAL MEETING ROOM HIRE & EXPENSES":"c1-bg",
+		"Electricity":"c1-bg",
+		"Equip Hire & Rental":"c1-bg",
+		"Equipment Hire & Rental":"c1-bg",
+		"Equipment R&M":"c1-bg",
+		"Equipment Repairs & Maintenance":"c1-bg",
+		"Estate Agent Fees":"c1-bg",
+		"Estate agents fees":"c1-bg",
+		"European flights":"c1-bg",
+		"Event Management Fee":"c1-bg",
+		"Expenditure":"c1-bg",
+		"Ext Mtng Rm Hire/Exp":"c1-bg",
+		"External Affairs":"c1-bg",
+		"External Building Maintenance":"c1-bg",
+		"External Events Roads Shows and Face To Face":"c1-bg",
+		"External Meeting Room Hire & Expenses":"c1-bg",
+		"FIRE AND SAFETY EQUIPMENT":"c1-bg",
+		"FIXTURES & FITTINGS":"c1-bg",
+		"FUNCTIONAL BODIES GRANT PAYMENT":"c1-bg",
+		"FUNCTIONAL BODIES GRANT PAYMENTS":"c1-bg",
+		"FUNCTIONAL BODY GRANT PAYMENT":"c1-bg",
+		"FURNITURE & EQUIPMEN":"c1-bg",
+		"FURNITURE & EQUIPMENT":"c1-bg",
+		"Fence Maintenance":"c1-bg",
+		"Functional Bodies Grant Payments":"c1-bg",
+		"Furniture & Equipmen":"c1-bg",
+		"Furniture & Equipment":"c1-bg",
+		"GAS":"c1-bg",
+		"GENERAL FEES & CHARGES":"c1-bg",
+		"GENERAL INSURANCE":"c1-bg",
+		"GOODS RECEIVED / INVOICE RECEIVED":"c1-bg",
+		"GRANTS PAYMENT TO FUNCTIONAL BODY":"c1-bg",
+		"GRANTS TO EXTERNAL ORGANISATIONS":"c1-bg",
+		"GROUNDS MAINTENANCE":"c1-bg",
+		"GUARANTEE FEE":"c1-bg",
+		"Gas":"c1-bg",
+		"General Insurance":"c1-bg",
+		"Grants to Ext Orgs":"c1-bg",
+		"Grants to External Organisations":"c1-bg",
+		"Ground Maintenance":"c1-bg",
+		"Grounds Maintenance":"c1-bg",
+		"HARDWARE MAINTENANCE":"c1-bg",
+		"HEALTH & SAFETY PEST CONTROL":"c1-bg",
+		"HEALTH & SAFETY SYSTEMS & ASSURANCE":"c1-bg",
+		"HOME BUY AGENTS FEES":"c1-bg",
+		"HORTICULTURAL EXPENSES":"c1-bg",
+		"HOTEL ACCOMMODATION":"c1-bg",
+		"HOTELROOM CLEANING-NON STAFF":"c1-bg",
+		"HOUSING GRANTS":"c1-bg",
+		"HOUSING ZONES":"c1-bg",
+		"HSG GRANTS TO LOCAL AUTHORITIES":"c1-bg",
+		"HSG GRANTS TO NON-REGISTERED PROVIDERS":"c1-bg",
+		"HSG GRANTS TO REGISTERED PROVIDERS":"c1-bg",
+		"HSG Grants to Local Authorities":"c1-bg",
+		"HSG Grants to Non-Registered Providers":"c1-bg",
+		"HSG Grants to Registered Providers":"c1-bg",
+		"HSG-ROUGH SLEEPING":"c1-bg",
+		"HZ CONTINGENT GRANT LA":"c1-bg",
+		"HZ CONTINGENT GRANT-EXT ORG":"c1-bg",
+		"HZ LOANS LOCAL AUTHORITIES":"c1-bg",
+		"Health & Safety Pest Control":"c1-bg",
+		"Health & Safety Systems & Assurance":"c1-bg",
+		"Horticultural Expenses":"c1-bg",
+		"Hotel Accommodation":"c1-bg",
+		"Housing":"c1-bg",
+		"Housing & Land":"c1-bg",
+		"Housing and Regeneration":"c1-bg",
+		"Hsg-Rough Sleeping":"c1-bg",
+		"IMPAIRMENT OF LAND":"c1-bg",
+		"INCOME MAX EXPENSES":"c1-bg",
+		"INCOME MAXIMISATION EXPENSES":"c1-bg",
+		"INSURANCE":"c1-bg",
+		"INSURANCE PREMIUM":"c1-bg",
+		"INTERFACE PAYMENT SUSPENSE":"c1-bg",
+		"INTERNAL AUDIT FEES":"c1-bg",
+		"INTERPRETERS":"c1-bg",
+		"INVESTMENT MANAGER FEES":"c1-bg",
+		"IT CONSULTANCY":"c1-bg",
+		"IT Consultancy":"c1-bg",
+		"Interest Payable Late Payments":"c1-bg",
+		"Internal Audit Fees":"c1-bg",
+		"Interpreters":"c1-bg",
+		"Investment Mngr Fees":"c1-bg",
+		"LAND/GROUND RENTS":"c1-bg",
+		"LANDSCAPE ARCHITECT FEES":"c1-bg",
+		"LANDSCAPE MAINTENANCE":"c1-bg",
+		"LEGAL ADVICE":"c1-bg",
+		"LEGAL FEES":"c1-bg",
+		"LIFT MAINTENANCE":"c1-bg",
+		"LLITE-ELECTRICITY DEFICIT (TOP UP)":"c1-bg",
+		"LLITE-TPLS MNGT FEE":"c1-bg",
+		"LOANS - HOUSING ZONES":"c1-bg",
+		"LOANS LOCAL AUTHORITIES":"c1-bg",
+		"LOANS TO EXT ORGS":"c1-bg",
+		"Land/Ground Rents":"c1-bg",
+		"Landscape Architect Fees":"c1-bg",
+		"Landscape Architect fees":"c1-bg",
+		"Landscape Maintenance":"c1-bg",
+		"Legal Fees":"c1-bg",
+		"Lift Maintenance":"c1-bg",
+		"MAINTENANCE MATERIALS":"c1-bg",
+		"MAINTENANCE OF TELECOMMUNICATIONS EQUIPMENT":"c1-bg",
+		"MANAGE IT SERVICES":"c1-bg",
+		"MANAGEMENT & SUPPORT CONSULTANCY":"c1-bg",
+		"MANAGEMENT FEES":"c1-bg",
+		"MARKETING & ECONOMIC RESEARCH":"c1-bg",
+		"MARKETING DESIGN & ARTWORK":"c1-bg",
+		"MARKETING EXHIBITIONS & EVENTS":"c1-bg",
+		"MARKETING SERVICES":"c1-bg",
+		"MARKETING STRATEGY":"c1-bg",
+		"MARKETING STRATEGY AND CONSULTANCY":"c1-bg",
+		"MEALS REFRESHMENTS & SUBSISTENCE":"c1-bg",
+		"MEALS REFRSH SUBSIST":"c1-bg",
+		"MEDICAL & FIRST AID MATERIALS":"c1-bg",
+		"MINOR PROPERTY EXPENSES":"c1-bg",
+		"MINOR STAFF EXPENSES":"c1-bg",
+		"MISCELLANEOUS COSTS":"c1-bg",
+		"MISCELLANEOUS FINANCE EXPENSES":"c1-bg",
+		"MONITORING OF PR AND SOCIAL MEDIA":"c1-bg",
+		"Maintenance of Telecommunications Equipment":"c1-bg",
+		"Manag & Support Cons":"c1-bg",
+		"Manage IT Services":"c1-bg",
+		"Managed IT Services":"c1-bg",
+		"Management & Support Consultancy":"c1-bg",
+		"Marketing & Economic Research":"c1-bg",
+		"Marketing Design & Artwork":"c1-bg",
+		"Marketing Exhibitions & Events":"c1-bg",
+		"Marketing Incentives":"c1-bg",
+		"Marketing Services":"c1-bg",
+		"Marketing Strategy":"c1-bg",
+		"Meals Refreshments & Subsistence":"c1-bg",
+		"Meals Refrsh Subsist":"c1-bg",
+		"Media Monitoring":"c1-bg",
+		"Medical & First Aid Materials":"c1-bg",
+		"Medical Ins & Treatm":"c1-bg",
+		"Minor Staff Expenses":"c1-bg",
+		"Miscellaneous Costs":"c1-bg",
+		"Miscellaneous Finance Expenses":"c1-bg",
+		"Mkt Exhibit & Events":"c1-bg",
+		"Mkting Events & F2F":"c1-bg",
+		"Mkting Incentives":"c1-bg",
+		"Mkting Production":"c1-bg",
+		"Monitoring Of PR and Social Media":"c1-bg",
+		"NDR INCOME MAXIMISATION EXPENSES":"c1-bg",
+		"NLE - GRANT PAYMENT":"c1-bg",
+		"NLE - GRANT PMT TO TFL":"c1-bg",
+		"NLE - Grant pmt to TfL":"c1-bg",
+		"NLE OUTSTANDING FEES":"c1-bg",
+		"NLE SUBMISSION 62":"c1-bg",
+		"NLE-Grant pmt TfL":"c1-bg",
+		"NON KPMG AUDIT FEES":"c1-bg",
+		"NON PERMANENT SIGNAGE AND WAY FINDING":"c1-bg",
+		"NON RECYCLABLE WASTE DISPOSAL/REFUSE COLLECTION":"c1-bg",
+		"NON-GLA BUSINESS FARES":"c1-bg",
+		"NON-GLA STAFF-HOTEL ACCOMMODATION":"c1-bg",
+		"NON-GLA STAFF-MEALS":"c1-bg",
+		"NON-GLA STAFF-OTHER EXPENSES":"c1-bg",
+		"Non KPMG Audit Fees":"c1-bg",
+		"Non Recyclable Waste Disposal/Refuse Collection":"c1-bg",
+		"Non-GLA Business Fares":"c1-bg",
+		"Non-GLA staff-Hotel Accommodation":"c1-bg",
+		"NonGLA Business Fare":"c1-bg",
+		"OFFICE ACCOMMODATION MOVES":"c1-bg",
+		"OFFICE CLEANING":"c1-bg",
+		"OTHER CONTRIBUTIONS":"c1-bg",
+		"OTHER PROFESIONAL FEES":"c1-bg",
+		"OTHER PROFESSIONAL FEES":"c1-bg",
+		"OTHER PROFESSNL FEES":"c1-bg",
+		"OVERAGE PAYABLE":"c1-bg",
+		"Office Accommodation Moves":"c1-bg",
+		"Office Cleaning":"c1-bg",
+		"Other Professional Fees":"c1-bg",
+		"Other Professnl Fees":"c1-bg",
+		"PARTNERSHIP MARKETING - COSTS INCURRED":"c1-bg",
+		"PAYE ON STAFF BENEFITS":"c1-bg",
+		"PAYE on Staff Benefits":"c1-bg",
+		"PAYROLL SERVICES FEES":"c1-bg",
+		"PENSION AUGMENTATION":"c1-bg",
+		"PENSION COSTS":"c1-bg",
+		"PENSION/SUPERANNUATION":"c1-bg",
+		"PHOTOGRAPHY & VIDEO":"c1-bg",
+		"PHOTOGRAPHY AND VIDEO DESIGN AND PRODUCTION":"c1-bg",
+		"PLANNING & DEVELOPMENT CONSULTANCY":"c1-bg",
+		"PLANNING AND PREMISE LICENCE FEES":"c1-bg",
+		"PLANNING FEES":"c1-bg",
+		"PLANT & EQUIPMENT PURCHASES":"c1-bg",
+		"POLITICAL PRTY CONF":"c1-bg",
+		"POSTAGE":"c1-bg",
+		"PR COST PRODUCT COST & PR FEES":"c1-bg",
+		"PR Cost Product Cost & PR Fees":"c1-bg",
+		"PR Costs":"c1-bg",
+		"PRINTING":"c1-bg",
+		"PRINTING FOR CUSTOMER INFO MATERIALS":"c1-bg",
+		"PRINTING FOR MARKETING MATERIALS":"c1-bg",
+		"PRODUCTION ARTWORK AND DESIGN FOR MARKETING":"c1-bg",
+		"PROFESS & ACADEMIC":"c1-bg",
+		"PROMOTIONS INCENTIVES MERCHANDISE GIVE-AWAYS":"c1-bg",
+		"PROPERTY CONSULTANCY  ECONOMIC APPRAISALS":"c1-bg",
+		"PROPERTY MANAGEMENT FEES":"c1-bg",
+		"PROPERTY SERVICE CHARGES":"c1-bg",
+		"PUBLIC AFFAIRS & MEDIA RELATIONS":"c1-bg",
+		"PUBLICATIONS & PERIO":"c1-bg",
+		"PUBLICATIONS & PERIODICALS":"c1-bg",
+		"PUBLICATIONS & PUBLICITY MATERIAL":"c1-bg",
+		"PURCHASE OF LAND & BUILDINGS":"c1-bg",
+		"PURCHASE OF TELECOMMUNICATIONS EQUIPMENT":"c1-bg",
+		"Payroll Services Fees":"c1-bg",
+		"Pension Augmentation":"c1-bg",
+		"Pension Costs":"c1-bg",
+		"Photography & Video":"c1-bg",
+		"Photography and Video Design and Production":"c1-bg",
+		"Planning & Development Consultancy":"c1-bg",
+		"Planning Fees":"c1-bg",
+		"Plant & Equipment Purchases":"c1-bg",
+		"Political Prty Conf":"c1-bg",
+		"Postage":"c1-bg",
+		"Printing":"c1-bg",
+		"Printing For Marketing Materials":"c1-bg",
+		"Private Office":"c1-bg",
+		"Production Artwork and Design For Marketing":"c1-bg",
+		"Profess & Academic":"c1-bg",
+		"Professional & Academic Fees - Employees":"c1-bg",
+		"Professional Subscriptions":"c1-bg",
+		"Property Consultancy  Economic Appraisals":"c1-bg",
+		"Property Insurance":"c1-bg",
+		"Property Management Fees":"c1-bg",
+		"Property Service Charges":"c1-bg",
+		"Public Affairs & Media Relations":"c1-bg",
+		"Publications & Perio":"c1-bg",
+		"Publications & Periodicals":"c1-bg",
+		"Publications & Periods":"c1-bg",
+		"Publications & Publicity Material":"c1-bg",
+		"Purchase of Telecommunications Equipment":"c1-bg",
+		"Quantity Surveyor fees":"c1-bg",
+		"RADIO TV PRESS POSTER CINEMA AIRTIME AND SPACE":"c1-bg",
+		"RATES":"c1-bg",
+		"RECRUITMENT ADVERTISING":"c1-bg",
+		"RECRUITMENT AGENCY FEES":"c1-bg",
+		"RECRUITMENT EXPENSES":"c1-bg",
+		"REFRESHMENTS/MEALS AT MEETINGS":"c1-bg",
+		"RESEARCH & STUDY FEES":"c1-bg",
+		"RESEARCH FOR MARKETING CAMPAIGNS AND ACTIVITIES":"c1-bg",
+		"RESOURCES":"c1-bg",
+		"Radio TV Press Poster Cinema Airtime and Space":"c1-bg",
+		"Rates":"c1-bg",
+		"Recruitment Advertis":"c1-bg",
+		"Recruitment Advertising":"c1-bg",
+		"Recruitment Agency Fees":"c1-bg",
+		"Recruitment Expenses":"c1-bg",
+		"Refreshments/Meals at Meetings":"c1-bg",
+		"Research & Study Fees":"c1-bg",
+		"Research For Marketing Campaigns and Activities":"c1-bg",
+		"Resources":"c1-bg",
+		"SALARIES & WAGES":"c1-bg",
+		"SECONDED STAFF":"c1-bg",
+		"SECONDED STAFF - NON GROUP":"c1-bg",
+		"SECURITY EQUIPMENT":"c1-bg",
+		"SECURITY SERVICES (GUARDS)":"c1-bg",
+		"SHARE OF DISPOSAL PROCEEDS":"c1-bg",
+		"SHARED SERVICES FEES":"c1-bg",
+		"SHARING CITIES RP3 INTERIM PAYMENT":"c1-bg",
+		"SITE SUPERVISION":"c1-bg",
+		"SNARESBROOK LAND DEPOSIT":"c1-bg",
+		"SOCIAL MEDIA AND DIGITAL ADVERTISING SPACE":"c1-bg",
+		"SOFTWARE MAINTENANCE":"c1-bg",
+		"SPECIAL EVENTS COVER - NYE FIREWORKS":"c1-bg",
+		"STAFF & SALARIES":"c1-bg",
+		"STAFF AWARDS & COMMENDATIONS":"c1-bg",
+		"STAFF ENTERTAINMENT":"c1-bg",
+		"STAFF MEDICAL INSURANCE & TREATMENT":"c1-bg",
+		"STAFF RELOCATION":"c1-bg",
+		"STAFF TRAINING":"c1-bg",
+		"STAFF TRAVEL":"c1-bg",
+		"STAFF TRAVEL (BUSINESS FARES)":"c1-bg",
+		"STAFF TRAVELL":"c1-bg",
+		"STAFF WELFARE BENEFITS":"c1-bg",
+		"STAMP DUTY":"c1-bg",
+		"STATIONERY":"c1-bg",
+		"STATUTORY ADS NOTICES COMMUNICATIONS & CONSULTATIO":"c1-bg",
+		"STATUTORY COMMS":"c1-bg",
+		"STORAGE AND DISTRIBUTION OF PUBLICITY MATERIALS":"c1-bg",
+		"SUNDRY CREDITORS":"c1-bg",
+		"Seconded Staff":"c1-bg",
+		"Seconded Staff - Non Group":"c1-bg",
+		"Security Equipment":"c1-bg",
+		"Security Services (Guards)":"c1-bg",
+		"Security Services (guards)":"c1-bg",
+		"Shared Services Fees":"c1-bg",
+		"Site Supervision":"c1-bg",
+		"Social Media and Digital Advertising Space":"c1-bg",
+		"Software Maintenance":"c1-bg",
+		"Staff Awards & Commendations":"c1-bg",
+		"Staff Medical Insurance & Treatment":"c1-bg",
+		"Staff Relocation":"c1-bg",
+		"Staff Teambuilding":"c1-bg",
+		"Staff Training":"c1-bg",
+		"Staff Travel":"c1-bg",
+		"Staff Welfare Benefits":"c1-bg",
+		"Stationery":"c1-bg",
+		"Statutory Advertising & Notifications":"c1-bg",
+		"Statutory Comms":"c1-bg",
+		"Storage and Distribution Of Publicity Materials":"c1-bg",
+		"TELEPHONY FIXED":"c1-bg",
+		"TELEPHONY MOBILE":"c1-bg",
+		"TICKET & PASS PRODUCTION":"c1-bg",
+		"TRANSCRIPTION":"c1-bg",
+		"TRANSLATION SIGN LANGUAGE":"c1-bg",
+		"TRANSPORT GRANT":"c1-bg",
+		"TRAVEL CARD DISCOUNT PAYMENT":"c1-bg",
+		"TRAVEL TO/FROM WORK (UNSOCIAL HOURS)":"c1-bg",
+		"TRIBUNAL AWARDS & OTHER SETTLEMENTS":"c1-bg",
+		"Telephony Fixed":"c1-bg",
+		"Telephony Mobile":"c1-bg",
+		"Ticket & Pass Production":"c1-bg",
+		"Transcription":"c1-bg",
+		"Translation Sign Language":"c1-bg",
+		"UNIFORMS":"c1-bg",
+		"Uniforms":"c1-bg",
+		"VALUATION FEES":"c1-bg",
+		"VEHICLE REPAIRS & MAINTENANCE":"c1-bg",
+		"Valuation Fees":"c1-bg",
+		"Vehicle Repairs & Maintenance":"c1-bg",
+		"WATER":"c1-bg",
+		"WIRELESS LOCAL AREA NETWORK":"c1-bg",
+		"Water":"c1-bg",
