@@ -764,5 +764,83 @@
 		"url": "https://www.salford.gov.uk/media/396818/expenditure-report-june-2021.csv",
 		"name": "June 2021",
 		"file": "2021-06.csv"
+	},{
+		"format": "csv",
+		"month": "2021-07",
+		"url": "https://www.salford.gov.uk/media/396920/expenditure-report-july-2021.csv",
+		"name": "July 2021",
+		"file": "2021-07.csv"
+	},{
+		"format": "csv",
+		"month": "2021-08",
+		"url": "https://www.salford.gov.uk/media/396951/expenditure-report-august-2021.csv",
+		"name": "August 2021",
+		"file": "2021-08.csv"
+	},{
+		"format": "csv",
+		"month": "2021-09",
+		"url": "https://www.salford.gov.uk/media/397150/expenditure-report-september-2021.csv",
+		"name": "September 2021",
+		"file": "2021-09.csv"
+	},{
+		"format": "csv",
+		"month": "2021-10",
+		"url": "https://www.salford.gov.uk/media/397319/expenditure-report-october-2021.csv",
+		"name": "October 2021",
+		"file": "2021-10.csv"
+	},{
+		"format": "csv",
+		"month": "2021-11",
+		"url": "https://www.salford.gov.uk/media/397670/expenditure-report-november-2021.csv",
+		"name": "November 2021",
+		"file": "2021-11.csv"
+	},{
+		"format": "csv",
+		"month": "2021-12",
+		"url": "https://www.salford.gov.uk/media/397668/expenditure-report-december-2021.csv",
+		"name": "December 2021",
+		"file": "2021-12.csv"
+	},{
+		"format": "csv",
+		"month": "2022-01",
+		"url": "https://www.salford.gov.uk/media/397854/expenditure-report-january-2022.csv",
+		"name": "January 2022",
+		"file": "2022-01.csv"
+	},{
+		"format": "csv",
+		"month": "2022-02",
+		"url": "https://www.salford.gov.uk/media/397856/expenditure-report-february-2022.csv",
+		"name": "February 2022",
+		"file": "2022-02.csv"
+	},{
+		"format": "csv",
+		"month": "2022-03",
+		"url": "https://www.salford.gov.uk/media/398004/expenditure-report-march-2022.csv",
+		"name": "March 2022",
+		"file": "2022-03.csv"
+	},{
+		"format": "csv",
+		"month": "2022-04",
+		"url": "https://www.salford.gov.uk/media/398002/expenditure-report-april-2022.csv",
+		"name": "April 2022",
+		"file": "2022-04.csv"
+	},{
+		"format": "csv",
+		"month": "2022-05",
+		"url": "https://www.salford.gov.uk/media/398083/expenditure-report-may-2022.csv",
+		"name": "May 2022",
+		"file": "2022-05.csv"
+	},{
+		"format": "csv",
+		"month": "2022-06",
+		"url": "https://www.salford.gov.uk/media/398082/expenditure-report-june-2022.csv",
+		"name": "June 2022",
+		"file": "2022-06.csv"
+	},{
+		"format": "csv",
+		"month": "2022-07",
+		"url": "https://www.salford.gov.uk/media/398042/contracts-register-july-2022.csv",
+		"name": "July 2022",
+		"file": "2022-07.csv"
 	}]
 }

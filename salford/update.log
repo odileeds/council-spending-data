@@ -1,0 +1,385 @@
+Downloading data/salford/raw/2022-04.csv from https://www.salford.gov.uk/media/398002/expenditure-report-april-2022.csv
+Making temporary clean version of the file for salford from data/salford/raw/2022-04.csv to data/salford/clean/2022-04.csv
+1787 lines at this point.
+Tidying data/salford/raw/2022-04.csv into data/salford/clean/2022-04.csv
+Processing data/salford/clean/2022-04.csv
+1787 rows
+Downloading data/salford/raw/2022-05.csv from https://www.salford.gov.uk/media/398083/expenditure-report-may-2022.csv
+Making temporary clean version of the file for salford from data/salford/raw/2022-05.csv to data/salford/clean/2022-05.csv
+2023 lines at this point.
+Tidying data/salford/raw/2022-05.csv into data/salford/clean/2022-05.csv
+Processing data/salford/clean/2022-05.csv
+2023 rows
+Downloading data/salford/raw/2022-06.csv from https://www.salford.gov.uk/media/398082/expenditure-report-june-2022.csv
+Making temporary clean version of the file for salford from data/salford/raw/2022-06.csv to data/salford/clean/2022-06.csv
+1810 lines at this point.
+Tidying data/salford/raw/2022-06.csv into data/salford/clean/2022-06.csv
+Processing data/salford/clean/2022-06.csv
+1810 rows
+Downloading data/salford/raw/2022-07.csv from https://www.salford.gov.uk/media/398042/contracts-register-july-2022.csv
+Making temporary clean version of the file for salford from data/salford/raw/2022-07.csv to data/salford/clean/2022-07.csv
+366 lines at this point.
+Tidying data/salford/raw/2022-07.csv into data/salford/clean/2022-07.csv
+ERROR:	Time travel alert! 2106-08-20 seems way too far in the future (Regeneration ITT Salford City Council S1096 Annual Maintenance Agreement based on Agreement 21st August 2006 Annual Maintenance Agreement based on Agreement 21st August 2006 Canal & River Trust MK9 1BB £35,000.00 £3,500,000.00 Yes 21/08/2006 20/08/2106 1200 0 0 N/A N/A 20/08/2106 No 390000 Works - Construction, Repair & Maintenance  1146792 Public)
+ERROR:	Time travel alert! 2106-08-20 seems way too far in the future (Regeneration ITT Salford City Council S1096 Annual Maintenance Agreement based on Agreement 21st August 2006 Annual Maintenance Agreement based on Agreement 21st August 2006 Canal & River Trust MK9 1BB £35,000.00 £3,500,000.00 Yes 21/08/2006 20/08/2106 1200 0 0 N/A N/A 20/08/2106 No 390000 Works - Construction, Repair & Maintenance  1146792 Public)
+ERROR:	Time travel alert! 2032-03-31 seems way too far in the future (Place ITT Salford City Council S1033 Archaeological Planning Services for the AGMA Authorities Archaeological Planning Services for the AGMA Authorities The University of Salford M5 4WT £130,000.00 £1,560,000.00 Yes 01/04/2020 31/03/2026 60 60 3   31/03/2032 No 180000 Environmental Services RC000666 Public)
+ERROR:	Time travel alert! 2043-08-31 seems way too far in the future (Regeneration ITT Salford City Council S1094 Management, Maintenance & Modernisation of New Pendleton (PFI) Management, Maintenance & Modernisation of New Pendleton (PFI) Pendleton Together Operating Ltd HX1 2EB £14,548,166.00 £436,444,980.00 Yes 01/09/2013 31/08/2043 360 0 0 N/A N/A 31/08/2043 No 200000 Financial Services 8626238 Public)
+ERROR:	Time travel alert! 2043-08-31 seems way too far in the future (Regeneration ITT Salford City Council S1094 Management, Maintenance & Modernisation of New Pendleton (PFI) Management, Maintenance & Modernisation of New Pendleton (PFI) Pendleton Together Operating Ltd HX1 2EB £14,548,166.00 £436,444,980.00 Yes 01/09/2013 31/08/2043 360 0 0 N/A N/A 31/08/2043 No 200000 Financial Services 8626238 Public)
+ERROR:	Time travel alert! 2033-09-11 seems way too far in the future (People ITT Salford City Council S1093 PFI 2: Provision of School Buildings, Catering & Facilities Management PFI 2: Provision of School Buildings, Catering & Facilities Management Salford Schools Solutions Ltd SN5 6NS £6,327,000.00 £158,175,000.00 Yes 12/09/2008 11/09/2033 300 0 0 N/A N/A 11/09/2033 Yes 190000 Facilities & Management Services 5847755 Public)
+ERROR:	Time travel alert! 2033-09-11 seems way too far in the future (People ITT Salford City Council S1093 PFI 2: Provision of School Buildings, Catering & Facilities Management PFI 2: Provision of School Buildings, Catering & Facilities Management Salford Schools Solutions Ltd SN5 6NS £6,327,000.00 £158,175,000.00 Yes 12/09/2008 11/09/2033 300 0 0 N/A N/A 11/09/2033 Yes 190000 Facilities & Management Services 5847755 Public)
+ERROR:	Time travel alert! 2036-09-13 seems way too far in the future (People ITT Salford City Council S1093 PFI 3:  Provision of School Buildings, Catering & Facilities Management PFI 3:  Provision of School Buildings, Catering & Facilities Management S&W TLP (Project Co One) Ltd SN5 6NX £9,131,000.00 £228,275,000.00 Yes 14/09/2011 13/09/2036 300 0 0 N/A N/A 13/09/2036 Yes 200000 Financial Services 7028471 Public)
+ERROR:	Time travel alert! 2036-09-13 seems way too far in the future (People ITT Salford City Council S1093 PFI 3:  Provision of School Buildings, Catering & Facilities Management PFI 3:  Provision of School Buildings, Catering & Facilities Management S&W TLP (Project Co One) Ltd SN5 6NX £9,131,000.00 £228,275,000.00 Yes 14/09/2011 13/09/2036 300 0 0 N/A N/A 13/09/2036 Yes 200000 Financial Services 7028471 Public)
+ERROR:	Time travel alert! 2038-08-13 seems way too far in the future (People ITT Salford City Council S1093 PFI 4:  Provision of School Buildings, Catering & Facilities Management PFI 4:  Provision of School Buildings, Catering & Facilities Management S&W TLP (Project Co Two) Ltd DA2 6NS £10,609,505.00 £268,774,126.67 Yes 14/04/2013 13/08/2038 304 0 0 N/A N/A 13/08/2038 Yes 200000 Financial Services 7796896 Public)
+ERROR:	Time travel alert! 2038-08-13 seems way too far in the future (People ITT Salford City Council S1093 PFI 4:  Provision of School Buildings, Catering & Facilities Management PFI 4:  Provision of School Buildings, Catering & Facilities Management S&W TLP (Project Co Two) Ltd DA2 6NS £10,609,505.00 £268,774,126.67 Yes 14/04/2013 13/08/2038 304 0 0 N/A N/A 13/08/2038 Yes 200000 Financial Services 7796896 Public)
+Processing data/salford/clean/2022-07.csv
+361 rows
+ERROR:	We don't have all the columns necessary for data/salford/clean/2022-07.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns "ï»¿Directorate Name,Process Used,Purchasing Body,Contract Reference,Contract Title,Contract Description,Supplier Company Name,Supplier Postcode,Annual Value,Total Contract Value (including extensions),OJEU/FTS?,Start Date,End Date,Contract Duration (months),Option to extend (months),How many extensions,Extension 1 Taken?,Extension 2 Taken?,Current Expiry Date,SME Supplier?,ProClass Classification,ProClass Description,Company Number,Visibility".
+ERROR:			Place,RFQ,Salford City Council,S1417,3No. Underwater Dive Surveys for Principal Inspections,3No. Underwater Dive Surveys for Principal Inspections,Underwater Diving Services Ltd,LA14 2TB,5015.20,5015.20,No,2022-03-07,2022-03-07,0.3,0,0,N/A,N/A,2022-03-07,Yes,231810,Surveys,2535986,Public
+ERROR:			Place,CSO Exception,Salford City Council,S1465,A5063 Trafford Road Improvements Metrolink Signals Work,A5063 Trafford Road Improvements Metrolink Signals Work,Keolis Amey Metrolink Limited,M8 0RY,15000.00,15000.00,No,2021-02-08,2021-08-06,6,0,0,N/A,N/A,2021-08-06,No,391400,Roads,9871073,Public
+ERROR:			Place,CSO Exception,Salford City Council,S1465,A5063 Trafford Road Improvements Metrolink Signals Work - Extension,A5063 Trafford Road Improvements Metrolink Signals Work - Extension,Keolis Amey Metrolink Limited,M8 0RY,5000.00,5000.00,No,2022-04-04,2022-09-09,5,0,0,N/A,N/A,2022-09-09,No,391400,Roads,9871073,Public
+ERROR:			Public Health,Other,Salford City Council,S1152,Active Lifestyle Service for Adults & Physical Activities in Schools,Active Lifestyles for Adults and Physical Activiity in Schools Service,Salford Community Leisure Ltd,M30 0EJ,190000.00,380000.00,No,2021-04-01,2022-03-31,12,12,1,Yes,,2023-03-31,No,290000,Arts & Leisure Services,IP29627R,Public
+Processing data/salford/processed/2011-08.csv
+1935 rows
+Processing data/salford/processed/2011-09.csv
+2008 rows
+Processing data/salford/processed/2011-10.csv
+2415 rows
+Processing data/salford/processed/2011-11.csv
+2310 rows
+Processing data/salford/processed/2011-12.csv
+2542 rows
+Processing data/salford/processed/2012-01.csv
+2614 rows
+Processing data/salford/processed/2012-02.csv
+2567 rows
+Processing data/salford/processed/2012-03.csv
+2964 rows
+Processing data/salford/processed/2012-04.csv
+2589 rows
+Processing data/salford/processed/2012-05.csv
+2295 rows
+Processing data/salford/processed/2012-06.csv
+2020 rows
+Processing data/salford/processed/2012-07.csv
+2239 rows
+Processing data/salford/processed/2012-08.csv
+2204 rows
+Processing data/salford/processed/2012-09.csv
+2069 rows
+Processing data/salford/processed/2012-10.csv
+2406 rows
+Processing data/salford/processed/2012-11.csv
+2339 rows
+Processing data/salford/processed/2012-12.csv
+2183 rows
+Processing data/salford/processed/2013-01.csv
+2733 rows
+Processing data/salford/processed/2013-02.csv
+2166 rows
+Processing data/salford/processed/2013-03.csv
+2573 rows
+Processing data/salford/processed/2013-04.csv
+2295 rows
+Processing data/salford/processed/2013-05.csv
+2108 rows
+Processing data/salford/processed/2013-06.csv
+1941 rows
+Processing data/salford/processed/2013-07.csv
+2246 rows
+Processing data/salford/processed/2013-08.csv
+2072 rows
+Processing data/salford/processed/2013-09.csv
+1860 rows
+Processing data/salford/processed/2013-10.csv
+2240 rows
+Processing data/salford/processed/2013-11.csv
+2440 rows
+Processing data/salford/processed/2013-12.csv
+2453 rows
+Processing data/salford/processed/2014-01.csv
+2145 rows
+Processing data/salford/processed/2014-02.csv
+2425 rows
+Processing data/salford/processed/2014-03.csv
+2915 rows
+Processing data/salford/processed/2014-04.csv
+2257 rows
+Processing data/salford/processed/2014-05.csv
+1951 rows
+Processing data/salford/processed/2014-06.csv
+2339 rows
+Processing data/salford/processed/2014-07.csv
+2272 rows
+Processing data/salford/processed/2014-08.csv
+2190 rows
+Processing data/salford/processed/2014-09.csv
+2201 rows
+Processing data/salford/processed/2014-10.csv
+2447 rows
+Processing data/salford/processed/2014-11.csv
+2032 rows
+Processing data/salford/processed/2014-12.csv
+2498 rows
+Processing data/salford/processed/2015-01.csv
+2109 rows
+Processing data/salford/processed/2015-02.csv
+2137 rows
+Processing data/salford/processed/2015-03.csv
+2414 rows
+WARNING:	Empty Beneficiary Name on line 2389 of data/salford/processed/2015-03.csv
+Processing data/salford/processed/2015-04.csv
+2171 rows
+Processing data/salford/processed/2015-05.csv
+1737 rows
+Processing data/salford/processed/2015-06.csv
+2080 rows
+Processing data/salford/processed/2015-07.csv
+1973 rows
+Processing data/salford/processed/2015-08.csv
+1778 rows
+Processing data/salford/processed/2015-09.csv
+1788 rows
+Processing data/salford/processed/2015-10.csv
+2061 rows
+Processing data/salford/processed/2015-11.csv
+1780 rows
+Processing data/salford/processed/2015-12.csv
+2221 rows
+Processing data/salford/processed/2016-01.csv
+1761 rows
+Processing data/salford/processed/2016-02.csv
+2082 rows
+Processing data/salford/processed/2016-03.csv
+2051 rows
+Processing data/salford/processed/2016-04.csv
+1859 rows
+Processing data/salford/processed/2016-05.csv
+1910 rows
+Processing data/salford/processed/2016-06.csv
+2112 rows
+Processing data/salford/processed/2016-07.csv
+1133 rows
+Processing data/salford/processed/2016-08.csv
+1137 rows
+Processing data/salford/processed/2016-09.csv
+872 rows
+Processing data/salford/processed/2016-10.csv
+1149 rows
+Processing data/salford/processed/2016-11.csv
+1293 rows
+Processing data/salford/processed/2016-12.csv
+1061 rows
+Processing data/salford/processed/2017-01.csv
+1065 rows
+Processing data/salford/processed/2017-02.csv
+897 rows
+Processing data/salford/processed/2017-03.csv
+1485 rows
+Processing data/salford/processed/2017-04.csv
+1189 rows
+Processing data/salford/processed/2017-05.csv
+1251 rows
+Processing data/salford/processed/2017-06.csv
+1262 rows
+Processing data/salford/processed/2017-07.csv
+1069 rows
+Processing data/salford/processed/2017-08.csv
+1116 rows
+Processing data/salford/processed/2017-09.csv
+997 rows
+Processing data/salford/processed/2017-10.csv
+1141 rows
+Processing data/salford/processed/2017-11.csv
+1137 rows
+Processing data/salford/processed/2017-12.csv
+1068 rows
+Processing data/salford/processed/2018-01.csv
+1180 rows
+Processing data/salford/processed/2018-02.csv
+1248 rows
+Processing data/salford/processed/2018-03.csv
+1415 rows
+Processing data/salford/processed/2018-04.csv
+1250 rows
+Processing data/salford/processed/2018-05.csv
+1426 rows
+Processing data/salford/processed/2018-06.csv
+1291 rows
+Processing data/salford/processed/2018-07.csv
+1449 rows
+Processing data/salford/processed/2018-08.csv
+1116 rows
+Processing data/salford/processed/2018-09.csv
+1125 rows
+Processing data/salford/processed/2018-09.csv
+1125 rows
+Processing data/salford/processed/2018-10.csv
+1491 rows
+Processing data/salford/processed/2018-11.csv
+1454 rows
+Processing data/salford/processed/2018-12.csv
+1283 rows
+Processing data/salford/processed/2019-01.csv
+1376 rows
+Processing data/salford/processed/2019-02.csv
+1521 rows
+Processing data/salford/processed/2019-03.csv
+1653 rows
+Processing data/salford/processed/2019-03.csv
+1653 rows
+Processing data/salford/processed/2019-04.csv
+1424 rows
+Processing data/salford/processed/2019-05.csv
+1340 rows
+Processing data/salford/processed/2019-06.csv
+1418 rows
+Processing data/salford/processed/2019-07.csv
+1776 rows
+Processing data/salford/processed/2019-07.csv
+1776 rows
+Processing data/salford/processed/2019-08.csv
+1193 rows
+Processing data/salford/processed/2019-09.csv
+1156 rows
+Processing data/salford/processed/2019-09.csv
+1156 rows
+Processing data/salford/processed/2019-10.csv
+1425 rows
+Processing data/salford/processed/2019-11.csv
+1407 rows
+Processing data/salford/processed/2019-12.csv
+1116 rows
+Processing data/salford/processed/2020-01.csv
+1410 rows
+Processing data/salford/processed/2020-02.csv
+1449 rows
+Processing data/salford/processed/2020-02.csv
+1449 rows
+Processing data/salford/processed/2020-03.csv
+1665 rows
+Processing data/salford/processed/2020-04.csv
+3054 rows
+Processing data/salford/processed/2020-05.csv
+2549 rows
+Processing data/salford/processed/2020-06.csv
+1966 rows
+Processing data/salford/processed/2020-07.csv
+1640 rows
+Processing data/salford/processed/2020-07.csv
+1640 rows
+Processing data/salford/processed/2020-08.csv
+1041 rows
+Processing data/salford/processed/2020-09.csv
+1557 rows
+WARNING:	Empty Organisational Unit on line 333 of data/salford/processed/2020-09.csv
+Processing data/salford/processed/2020-10.csv
+1657 rows
+Processing data/salford/processed/2020-11.csv
+1808 rows
+Processing data/salford/processed/2020-12.csv
+3180 rows
+Processing data/salford/processed/2021-01.csv
+4729 rows
+Processing data/salford/processed/2021-02.csv
+2734 rows
+WARNING:	Empty Organisational Unit on line 162 of data/salford/processed/2021-02.csv
+Processing data/salford/processed/2021-03.csv
+5650 rows
+Processing data/salford/processed/2021-04.csv
+3087 rows
+Processing data/salford/processed/2021-05.csv
+1891 rows
+Processing data/salford/processed/2021-06.csv
+1549 rows
+WARNING:	Empty Organisational Unit on line 512 of data/salford/processed/2021-06.csv
+Processing data/salford/processed/2021-07.csv
+1975 rows
+Processing data/salford/processed/2021-08.csv
+1234 rows
+Processing data/salford/processed/2021-09.csv
+1302 rows
+Processing data/salford/processed/2021-10.csv
+1431 rows
+WARNING:	Empty Organisational Unit on line 276 of data/salford/processed/2021-10.csv
+Processing data/salford/processed/2021-11.csv
+2036 rows
+Processing data/salford/processed/2021-12.csv
+1688 rows
+Processing data/salford/processed/2022-01.csv
+1850 rows
+Processing data/salford/processed/2022-02.csv
+2081 rows
+Processing data/salford/processed/2022-03.csv
+2806 rows
+Processing data/salford/processed/2022-04.csv
+1787 rows
+Processing data/salford/processed/2022-05.csv
+2023 rows
+Processing data/salford/processed/2022-06.csv
+1810 rows
+Data goes from 2011-08 to 2022-06
+Services:
+		"":"c1-bg",
+		""Community, Health & Social Care"":"c1-bg",
+		""Community, Health & Social Careocial Care"":"c1-bg",
+		""Community, Health & Social care"":"c1-bg",
+		"Administration":"c1-bg",
+		"Agency Fees":"c1-bg",
+		"Capital Expenditure":"c1-bg",
+		"Capital Works":"c1-bg",
+		"Capital expenditure":"c1-bg",
+		"Chief Executive":"c1-bg",
+		"Chief Executives":"c1-bg",
+		"Chikdren's Services":"c1-bg",
+		"Children Services":"c1-bg",
+		"Childrens Services":"c1-bg",
+		"Citywide Catering":"c1-bg",
+		"Community Health & Social Care":"c1-bg",
+		"Community Health and Social Care":"c1-bg",
+		"Corporate":"c1-bg",
+		"Corporate Accountancy":"c1-bg",
+		"Corporate Business":"c1-bg",
+		"Customer & Support Services":"c1-bg",
+		"Customer Services":"c1-bg",
+		"Customer and Regulatory Services":"c1-bg",
+		"Customer and Support":"c1-bg",
+		"Customer and Support Services":"c1-bg",
+		"Customer and Support Services Services":"c1-bg",
+		"Education":"c1-bg",
+		"Environment and Comm":"c1-bg",
+		"Environment and Community Health":"c1-bg",
+		"Environment and Community Safety":"c1-bg",
+		"Environment and Community Safetyal Services":"c1-bg",
+		"Environment and Community Safetyunity Health":"c1-bg",
+		"Environment and Community Safetyunity Safety":"c1-bg",
+		"Environmental & Community Safety":"c1-bg",
+		"Environmental and Community Health":"c1-bg",
+		"Finance":"c1-bg",
+		"Housing":"c1-bg",
+		"Housing Futures":"c1-bg",
+		"ICT Services":"c1-bg",
+		"Marketing and Communications":"c1-bg",
+		"Office of the Chief Executive":"c1-bg",
+		"Office of the Chief Executives":"c1-bg",
+		"Outside Hierarchy":"c1-bg",
+		"People (Adults) - CHSC":"c1-bg",
+		"People (Childrens) Service Group":"c1-bg",
+		"Personalisation and Care Management":"c1-bg",
+		"Place Directorate":"c1-bg",
+		"Precepts and Charges - dummy level":"c1-bg",
+		"Provider Modernisation":"c1-bg",
+		"Public Health":"c1-bg",
+		"Resources":"c1-bg",
+		"Safeguarding":"c1-bg",
+		"Service":"c1-bg",
+		"Service Reform":"c1-bg",
+		"Service Reform (Corp Bus & Transform)":"c1-bg",
+		"Social Services":"c1-bg",
+		"Sustainable Regeneration":"c1-bg",
+		"Sustainable Regenerationtion":"c1-bg",
+		"The Office of the Chief Executive":"c1-bg",
+		"Urban Vision":"c1-bg",
+		"VAT Adjustment":"c1-bg",
+		"VMS":"c1-bg",
