@@ -1,0 +1,1027 @@
+Processing data/tfl/processed/2014-03.csv
+204690 rows
+Processing data/tfl/processed/2015-03.csv
+245507 rows
+Processing data/tfl/processed/2016-03.csv
+274390 rows
+Processing data/tfl/processed/2017-03.csv
+251873 rows
+Processing data/tfl/processed/2018-03.csv
+198668 rows
+Processing data/tfl/processed/2019-03.csv
+172518 rows
+Processing data/tfl/processed/2020-03.csv
+186348 rows
+WARNING:	Empty Amount on line 66500 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66501 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66502 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66503 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66504 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66505 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66506 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66507 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66508 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66509 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66510 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66511 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66512 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66513 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66514 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66515 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66516 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66517 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66518 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66519 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66520 of data/tfl/processed/2020-03.csv
+WARNING:	Empty Amount on line 66521 of data/tfl/processed/2020-03.csv
+Processing data/tfl/processed/2021-P01.csv
+38682 rows
+Processing data/tfl/processed/2021-P02.csv
+20015 rows
+Processing data/tfl/processed/2021-P03.csv
+12796 rows
+Processing data/tfl/processed/2021-P04.csv
+10292 rows
+Processing data/tfl/processed/2021-P05.csv
+9521 rows
+Processing data/tfl/processed/2021-P06.csv
+9873 rows
+WARNING:	Empty Amount on line 9725 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9725 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9726 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9726 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9727 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9727 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9728 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9728 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9729 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9729 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9730 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9730 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9731 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9731 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9732 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9732 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9733 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9733 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9734 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9734 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9735 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9735 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9736 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9736 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9737 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9737 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9738 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9738 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9739 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9739 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9740 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9740 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9741 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9741 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9742 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9742 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9743 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9743 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9744 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9744 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9745 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9745 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9746 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9746 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9747 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9747 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9748 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9748 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9749 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9749 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9750 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9750 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9751 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9751 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9752 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9752 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9753 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9753 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9754 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9754 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9755 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9755 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9756 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9756 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9757 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9757 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9758 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9758 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9759 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9759 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9760 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9760 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9761 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9761 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9762 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9762 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9763 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9763 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9764 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9764 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9765 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9765 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9766 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9766 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9767 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9767 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9768 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9768 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9769 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9769 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9770 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9770 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9771 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9771 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9772 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9772 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9773 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9773 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9774 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9774 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9775 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9775 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9776 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9776 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9777 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9777 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9778 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9778 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9779 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9779 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9780 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9780 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9781 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9781 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9782 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9782 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9783 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9783 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9784 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9784 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9785 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9785 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9786 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9786 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9787 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9787 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9788 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9788 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9789 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9789 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9790 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9790 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9791 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9791 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9792 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9792 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9793 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9793 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9794 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9794 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9795 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9795 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9796 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9796 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9797 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9797 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9798 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9798 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9799 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9799 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9800 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9800 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9801 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9801 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9802 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9802 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9803 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9803 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9804 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9804 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9805 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9805 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9806 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9806 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9807 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9807 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9808 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9808 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9809 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9809 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9810 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9810 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9811 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9811 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9812 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9812 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9813 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9813 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9814 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9814 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9815 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9815 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9816 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9816 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9817 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9817 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9818 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9818 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9819 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9819 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9820 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9820 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9821 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9821 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9822 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9822 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9823 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9823 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9824 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9824 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9825 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9825 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9826 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9826 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9827 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9827 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9828 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9828 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9829 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9829 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9830 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9830 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9831 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9831 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9832 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9832 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9833 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9833 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9834 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9834 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9835 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9835 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9836 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9836 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9837 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9837 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9838 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9838 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9839 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9839 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9840 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9840 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9841 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9841 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9842 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9842 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9843 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9843 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9844 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9844 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9845 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9845 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9846 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9846 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9847 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9847 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9848 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9848 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9849 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9849 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9850 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9850 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9851 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9851 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9852 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9852 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9853 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9853 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9854 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9854 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9855 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9855 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9856 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9856 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9857 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9857 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9858 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9858 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9859 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9859 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9860 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9860 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9861 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9861 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9862 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9862 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9863 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9863 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9864 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9864 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9865 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9865 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9866 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9866 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9867 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9867 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9868 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9868 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9869 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9869 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9870 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9870 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9871 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9871 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Amount on line 9872 of data/tfl/processed/2021-P06.csv
+WARNING:	Empty Beneficiary Name on line 9872 of data/tfl/processed/2021-P06.csv
+Processing data/tfl/processed/2021-P07.csv
+9530 rows
+Processing data/tfl/processed/2021-P08.csv
+9571 rows
+Processing data/tfl/processed/2021-P09.csv
+8808 rows
+Processing data/tfl/processed/2021-P10.csv
+8674 rows
+Processing data/tfl/processed/2021-P11.csv
+8564 rows
+Processing data/tfl/processed/2021-P12.csv
+10662 rows
+WARNING:	Empty Amount on line 10533 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10533 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10534 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10534 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10535 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10535 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10536 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10536 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10537 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10537 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10538 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10538 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10539 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10539 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10540 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10540 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10541 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10541 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10542 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10542 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10543 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10543 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10544 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10544 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10545 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10545 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10546 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10546 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10547 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10547 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10548 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10548 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10549 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10549 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10550 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10550 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10551 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10551 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10552 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10552 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10553 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10553 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10554 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10554 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10555 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10555 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10556 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10556 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10557 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10557 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10558 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10558 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10559 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10559 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10560 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10560 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10561 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10561 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10562 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10562 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10563 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10563 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10564 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10564 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10565 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10565 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10566 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10566 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10567 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10567 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10568 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10568 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10569 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10569 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10570 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10570 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10571 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10571 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10572 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10572 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10573 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10573 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10574 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10574 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10575 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10575 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10576 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10576 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10577 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10577 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10578 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10578 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10579 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10579 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10580 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10580 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10581 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10581 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10582 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10582 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10583 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10583 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10584 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10584 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10585 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10585 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10586 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10586 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10587 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10587 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10588 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10588 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10589 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10589 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10590 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10590 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10591 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10591 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10592 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10592 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10593 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10593 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10594 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10594 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10595 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10595 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10596 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10596 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10597 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10597 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10598 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10598 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10599 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10599 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10600 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10600 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10601 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10601 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10602 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10602 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10603 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10603 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10604 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10604 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10605 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10605 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10606 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10606 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10607 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10607 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10608 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10608 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10609 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10609 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10610 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10610 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10611 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10611 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10612 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10612 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10613 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10613 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10614 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10614 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10615 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10615 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10616 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10616 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10617 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10617 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10618 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10618 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10619 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10619 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10620 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10620 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10621 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10621 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10622 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10622 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10623 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10623 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10624 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10624 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10625 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10625 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10626 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10626 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10627 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10627 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10628 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10628 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10629 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10629 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10630 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10630 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10631 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10631 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10632 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10632 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10633 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10633 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10634 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10634 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10635 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10635 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10636 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10636 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10637 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10637 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10638 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10638 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10639 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10639 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10640 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10640 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10641 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10641 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10642 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10642 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10643 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10643 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10644 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10644 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10645 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10645 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10646 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10646 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10647 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10647 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10648 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10648 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10649 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10649 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10650 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10650 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10651 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10651 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10652 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10652 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10653 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10653 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10654 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10654 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10655 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10655 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10656 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10656 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10657 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10657 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10658 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10658 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10659 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10659 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10660 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10660 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Amount on line 10661 of data/tfl/processed/2021-P12.csv
+WARNING:	Empty Beneficiary Name on line 10661 of data/tfl/processed/2021-P12.csv
+Processing data/tfl/processed/2021-P13.csv
+9576 rows
+Processing data/tfl/processed/2022-P01.csv
+12233 rows
+Processing data/tfl/processed/2022-P02.csv
+9626 rows
+Processing data/tfl/processed/2022-P03.csv
+9652 rows
+WARNING:	Empty Beneficiary Name on line 8132 of data/tfl/processed/2022-P03.csv
+Processing data/tfl/processed/2022-P04.csv
+9135 rows
+Processing data/tfl/processed/2022-P05.csv
+10381 rows
+Processing data/tfl/processed/2022-P06.csv
+10232 rows
+Processing data/tfl/processed/2022-P07.csv
+10268 rows
+WARNING:	Empty Beneficiary Name on line 8800 of data/tfl/processed/2022-P07.csv
+Processing data/tfl/processed/2022-P08.csv
+12925 rows
+Processing data/tfl/processed/2022-P09.csv
+11411 rows
+Processing data/tfl/processed/2022-P10.csv
+11418 rows
+Processing data/tfl/processed/2022-P11.csv
+9106 rows
+Processing data/tfl/processed/2022-P12.csv
+12322 rows
+Processing data/tfl/processed/2022-P13.csv
+12316 rows
+Processing data/tfl/processed/2023-P01.csv
+14179 rows
+Processing data/tfl/processed/2023-P02.csv
+11644 rows
+Processing data/tfl/processed/2023-P03.csv
+12804 rows
+Processing data/tfl/processed/2023-P04.csv
+12786 rows
+Processing data/tfl/processed/2023-P05.csv
+12835 rows
+Data goes from 2013-04 to 2022-08
+Services:
+		""Maps, Timetables & Fare Information"":"c1-bg",
+		""Mobile Phone Line Rent, Calls & Equipment"":"c1-bg",
+		""Telephone Line Rent, Calls & Equipment"":"c1-bg",
+		"1st Unpresented Cheques":"c1-bg",
+		"2nd Unpaid (Returned) Cheques":"c1-bg",
+		"A13 PFI Service Costs":"c1-bg",
+		"Accounts Payable - External":"c1-bg",
+		"Accounts Payable > 1 year (Operational)":"c1-bg",
+		"Advertising":"c1-bg",
+		"Agency Staff":"c1-bg",
+		"Amounts Recoverable from Franchisee":"c1-bg",
+		"Archive/Retrieval":"c1-bg",
+		"Art and Poetry Installations and Programmes":"c1-bg",
+		"Audit Fees":"c1-bg",
+		"BTP L  Area Payroll Control":"c1-bg",
+		"BTP PFI Service Costs":"c1-bg",
+		"Bank Charges":"c1-bg",
+		"Bombardier Capability Payments":"c1-bg",
+		"Books & Periodicals":"c1-bg",
+		"Borough Services":"c1-bg",
+		"Borough Services - Claim Against Pr Yr Accrual":"c1-bg",
+		"Brokers Fees":"c1-bg",
+		"Building Maintenance & Repairs":"c1-bg",
+		"Building Rent and Associated Costs":"c1-bg",
+		"Building Rent and Associated Costs.Property Rent":"c1-bg",
+		"Bus Contract Payments":"c1-bg",
+		"Business Entertaining":"c1-bg",
+		"Business Fares":"c1-bg",
+		"CCS DVLA Costs":"c1-bg",
+		"CCS Service Contract":"c1-bg",
+		"CCS Street Patrols Contract":"c1-bg",
+		"CIS Withholding Tax":"c1-bg",
+		"CROSSRAIL LTD.":"c1-bg",
+		"CYCLE HIRE SCHEME":"c1-bg",
+		"Cameras":"c1-bg",
+		"Car Mileage":"c1-bg",
+		"Car Mileage - Private Cars":"c1-bg",
+		"Car Parking":"c1-bg",
+		"Carriage":"c1-bg",
+		"Cash Discount Received":"c1-bg",
+		"Cash Handling & Processing":"c1-bg",
+		"Caterers Service Charges":"c1-bg",
+		"Catering":"c1-bg",
+		"Childcare Adjustment Control":"c1-bg",
+		"Civil Engineering Construction Works":"c1-bg",
+		"Claim Settlements":"c1-bg",
+		"Cleaning":"c1-bg",
+		"Climate Change Fund":"c1-bg",
+		"Commercial Property Rent":"c1-bg",
+		"Community Relations":"c1-bg",
+		"Component Repairs Sub Contracted":"c1-bg",
+		"Computer Consumables":"c1-bg",
+		"Computer Hardware":"c1-bg",
+		"Computer Software":"c1-bg",
+		"Conferences & Seminars":"c1-bg",
+		"Connect PFI Service Costs":"c1-bg",
+		"Consultancy":"c1-bg",
+		"Consultants (Contractors)":"c1-bg",
+		"Consumables":"c1-bg",
+		"Contracted Services - Highway Bridges":"c1-bg",
+		"Contracted Services - Roads":"c1-bg",
+		"Contracted Services - Tunnels":"c1-bg",
+		"Contracted Services Buildings":"c1-bg",
+		"Corporate Subscriptions":"c1-bg",
+		"Couriers":"c1-bg",
+		"Cubic Oyster Contract Costs":"c1-bg",
+		"Cycle Superhighways":"c1-bg",
+		"DIAL A RIDE":"c1-bg",
+		"DLR Concession Liability CGLR":"c1-bg",
+		"DOCKLANDS LIGHT RAILWAY":"c1-bg",
+		"Design Services":"c1-bg",
+		"Developers Contributions":"c1-bg",
+		"Document Archive & Storage":"c1-bg",
+		"EAST THAMES BUSES":"c1-bg",
+		"Education Activities":"c1-bg",
+		"Electrical & Electronic Engineering":"c1-bg",
+		"Electrical Equipment Maintenance":"c1-bg",
+		"Electricity":"c1-bg",
+		"Employee Awards & Events":"c1-bg",
+		"Employee Benefits":"c1-bg",
+		"Engineering Feasibility Studies":"c1-bg",
+		"Environmental Services":"c1-bg",
+		"Equipment Hire & Rental":"c1-bg",
+		"Equipment Repairs & Maintenance":"c1-bg",
+		"Equipment Repairs and Maintenance":"c1-bg",
+		"Escalators":"c1-bg",
+		"Event Management Fee":"c1-bg",
+		"Events":"c1-bg",
+		"External Meeting Room Hire & Expenses":"c1-bg",
+		"Fares Refund Control  (TTL Only)":"c1-bg",
+		"Financial Statement Audit Fees":"c1-bg",
+		"Financial statement Audit Fees":"c1-bg",
+		"Fire Safety Equipment":"c1-bg",
+		"Fire and Safety Equipment":"c1-bg",
+		"Fixtures & Fittings":"c1-bg",
+		"Fleet":"c1-bg",
+		"Fleet stock issues":"c1-bg",
+		"Forensic Services (BTP)":"c1-bg",
+		"Franchise/Concession Fixed Fee":"c1-bg",
+		"Franchise/Concession Variable Fee":"c1-bg",
+		"Fuel":"c1-bg",
+		"Furniture":"c1-bg",
+		"Furniture & Equipment":"c1-bg",
+		"Gas":"c1-bg",
+		"General Insurance":"c1-bg",
+		"Graffiti Removal":"c1-bg",
+		"Gross Sales Clearance":"c1-bg",
+		"Hardware Maintenance":"c1-bg",
+		"Haulage Services":"c1-bg",
+		"Health & Safety":"c1-bg",
+		"Health & Safety General":"c1-bg",
+		"Health & Safety Pest Control":"c1-bg",
+		"Health Ins & Screening":"c1-bg",
+		"Heating & Lighting":"c1-bg",
+		"Heavy Haulage":"c1-bg",
+		"Hire Plant & Equipment":"c1-bg",
+		"Horticultural Expenses":"c1-bg",
+		"Hosting & Services":"c1-bg",
+		"Hotel Accommodation":"c1-bg",
+		"IT":"c1-bg",
+		"IT Consultancy":"c1-bg",
+		"Insurance":"c1-bg",
+		"Interim Account - Receipts Clearing":"c1-bg",
+		"Interpreters":"c1-bg",
+		"LONDON BUS SERVICES LTD":"c1-bg",
+		"LONDON RIVER SERVICES LTD":"c1-bg",
+		"LONDON TRANSPORT MUSEUM":"c1-bg",
+		"LONDON TRANSPORT PROPERTY":"c1-bg",
+		"LONDON UNDERGROUND LTD":"c1-bg",
+		"LRS Operator Costs":"c1-bg",
+		"LT MUSEUM TRADING LTD":"c1-bg",
+		"LUL NOMINEE BCV LIMITED":"c1-bg",
+		"LUL NOMINEE SSL LIMITED":"c1-bg",
+		"Labour":"c1-bg",
+		"Landscape Maintenance":"c1-bg",
+		"Lease/Rental of Telecommunications Equipment":"c1-bg",
+		"Legal Fees":"c1-bg",
+		"Legal/Professional":"c1-bg",
+		"Licence Fee Refunds":"c1-bg",
+		"Licence Fees":"c1-bg",
+		"Lift Maintenance":"c1-bg",
+		"Lifts & Escalators stock issues":"c1-bg",
+		"Litter/Refuse Removal":"c1-bg",
+		"MPS Employment Costs SM":"c1-bg",
+		"MPS Enforcement TPED":"c1-bg",
+		"MR Construction Costs":"c1-bg",
+		"Maintenance":"c1-bg",
+		"Maintenance & Operations":"c1-bg",
+		"Maintenance Gang Costs":"c1-bg",
+		"Maintenance Materials":"c1-bg",
+		"Maintenance of  Bus Stops":"c1-bg",
+		"Maintenance of Bus Stations LBL":"c1-bg",
+		"Maintenance of Information Signs":"c1-bg",
+		"Maintenance of Plant & Equipment":"c1-bg",
+		"Maintenance of Telecommunications Equipm":"c1-bg",
+		"Maintenance of Telecommunications Equipment":"c1-bg",
+		"Manage IT Services":"c1-bg",
+		"Management & Support Consultancy":"c1-bg",
+		"Marketing & Economic Research":"c1-bg",
+		"Marketing Design & Artwork":"c1-bg",
+		"Marketing Exhibitions & Events":"c1-bg",
+		"Marketing Services":"c1-bg",
+		"Material":"c1-bg",
+		"Materials":"c1-bg",
+		"Meals Refreshments & Subsistence":"c1-bg",
+		"Medical & First Aid Materials":"c1-bg",
+		"Medical Reports":"c1-bg",
+		"Minor Property Expenses":"c1-bg",
+		"Minor Staff Expenses":"c1-bg",
+		"Miscellaneous Costs":"c1-bg",
+		"Miscellaneous Finance Expenses":"c1-bg",
+		"Miscellaneous Publicity Expenses":"c1-bg",
+		"National Rail Contribution":"c1-bg",
+		"National Rail Fixed Track Access Charges":"c1-bg",
+		"National Rail Long Term Charges":"c1-bg",
+		"National Rail Performance Charges":"c1-bg",
+		"National Rail Prestige Gates":"c1-bg",
+		"National Rail Qualifying Expenditure Charges":"c1-bg",
+		"National Rail Schedule 4 Payments":"c1-bg",
+		"National Rail Signal Control Charges":"c1-bg",
+		"National Rail Variable Track Access Charges":"c1-bg",
+		"Non KPMG Audit Fees":"c1-bg",
+		"Non Recyclable Waste Disposal/Refuse Collection":"c1-bg",
+		"Office Accommodation Moves":"c1-bg",
+		"Office Cleaning":"c1-bg",
+		"Office Repairs / Adaptions":"c1-bg",
+		"Operating Licenses":"c1-bg",
+		"Operational Cleaning":"c1-bg",
+		"Operator Costs":"c1-bg",
+		"Opted in Non Recoverable VAT - Premises":"c1-bg",
+		"Other Landlord Charges LRS":"c1-bg",
+		"Other Professional Fees":"c1-bg",
+		"Other Spares stock issues":"c1-bg",
+		"Oystercard Prepay Creditor":"c1-bg",
+		"PCN and Penalty Fare Processing":"c1-bg",
+		"PCO Outsourced Services":"c1-bg",
+		"PFI Service Costs - Power":"c1-bg",
+		"PUBLIC CARRIAGE OFFICE":"c1-bg",
+		"Passenger Surveys":"c1-bg",
+		"Payroll Intercompany Suspense Account":"c1-bg",
+		"Payroll Services Fees":"c1-bg",
+		"Payroll Suspense":"c1-bg",
+		"Pension Current Service Costs":"c1-bg",
+		"Pensioner Care":"c1-bg",
+		"Pest & Vegetation Control":"c1-bg",
+		"Photocopying":"c1-bg",
+		"Photography & Video":"c1-bg",
+		"Pier Charges":"c1-bg",
+		"Planning & Development Consultancy":"c1-bg",
+		"Plant & Equipment Purchases":"c1-bg",
+		"Plant Hire":"c1-bg",
+		"Postage":"c1-bg",
+		"Postage & Couriers":"c1-bg",
+		"Power PFI Equipment Costs":"c1-bg",
+		"Prestige PFI Service Costs":"c1-bg",
+		"Printing":"c1-bg",
+		"Printing & Stationery":"c1-bg",
+		"Professional & Academic Fees - Employees":"c1-bg",
+		"Professional Engineering Services":"c1-bg",
+		"Professional Subscriptions":"c1-bg",
+		"Property":"c1-bg",
+		"Property Consultancy":"c1-bg",
+		"Property Development - Management & Support Consul":"c1-bg",
+		"Property Development-Planning & Development Consul":"c1-bg",
+		"Property Development-Professional Engineering Serv":"c1-bg",
+		"Property Developmnt-Gross Proceeds on Sale of Assets":"c1-bg",
+		"Property Insurance":"c1-bg",
+		"Property Letting Costs":"c1-bg",
+		"Property Management Fees":"c1-bg",
+		"Property Service Charges":"c1-bg",
+		"Protective Clothing":"c1-bg",
+		"Provision for Unfunded Pensions":"c1-bg",
+		"Public Affairs & Media Relations":"c1-bg",
+		"Publications & Periodicals":"c1-bg",
+		"Publications & Publicity Material":"c1-bg",
+		"Pumps & Drainage":"c1-bg",
+		"Purchase of Books for Resale":"c1-bg",
+		"Purchase of Bus Shelters":"c1-bg",
+		"Purchase of Cards for Resale":"c1-bg",
+		"Purchase of Clothing for Resale":"c1-bg",
+		"Purchase of Confectionery for Resale":"c1-bg",
+		"Purchase of Furniture for Resale":"c1-bg",
+		"Purchase of Infrastructure":"c1-bg",
+		"Purchase of Land & Buildings":"c1-bg",
+		"Purchase of Posters for Resale":"c1-bg",
+		"Purchase of Souvenirs for Resale":"c1-bg",
+		"Purchase of Telecommunications Equipment":"c1-bg",
+		"Purchase of Toys & Models for Resale":"c1-bg",
+		"Purchase of Videos for Resale":"c1-bg",
+		"Purchases from East Thames Buses":"c1-bg",
+		"RAIL FOR LONDON LIMITED":"c1-bg",
+		"RFL (IINFRASTRUCTURE) LTD":"c1-bg",
+		"RFL (INFRASTRUCTURE LTD":"c1-bg",
+		"Radio Pagers":"c1-bg",
+		"Radio Systems Equipment & Maintenance":"c1-bg",
+		"Rail Replacement Service Costs":"c1-bg",
+		"Rail Settlement Plan - PAYG Creditor":"c1-bg",
+		"Rates":"c1-bg",
+		"Rates - Central Listed":"c1-bg",
+		"Rates - TfL Stops & Shelters":"c1-bg",
+		"Recruitment Advertising":"c1-bg",
+		"Recruitment Agency Fees":"c1-bg",
+		"Recruitment Expenses":"c1-bg",
+		"Refreshments/Meals at Meetings":"c1-bg",
+		"Release of Retentions":"c1-bg",
+		"Rent":"c1-bg",
+		"Reprographics":"c1-bg",
+		"Research & Study Fees":"c1-bg",
+		"Retail - Souvenirs":"c1-bg",
+		"Retentions Control Account > 1Year":"c1-bg",
+		"RfL (Infrastructure) Ltd":"c1-bg",
+		"Road Maintenance":"c1-bg",
+		"Rolling Stock":"c1-bg",
+		"SURFACE TRANSPORT CORP":"c1-bg",
+		"Section 159 Payments":"c1-bg",
+		"Security":"c1-bg",
+		"Security Equipment":"c1-bg",
+		"Security Services (Guards)":"c1-bg",
+		"Service Charge Clearing (GP&F)":"c1-bg",
+		"Services":"c1-bg",
+		"Sign Manufacture":"c1-bg",
+		"Signage":"c1-bg",
+		"Signalling Systems":"c1-bg",
+		"Signals & Electricals stock issues":"c1-bg",
+		"Software Maintenance":"c1-bg",
+		"Sports & Leisure Club Corporate Membersh":"c1-bg",
+		"Staff":"c1-bg",
+		"Staff Awards & Commendations":"c1-bg",
+		"Staff Benefits":"c1-bg",
+		"Staff Communications":"c1-bg",
+		"Staff Entertainment":"c1-bg",
+		"Staff Expenses - Not P11D related":"c1-bg",
+		"Staff Medical Insurance & Treatment":"c1-bg",
+		"Staff Relocation":"c1-bg",
+		"Staff Training":"c1-bg",
+		"Staff Welfare Benefits":"c1-bg",
+		"Stationery":"c1-bg",
+		"Statutory Advertising & Notifications":"c1-bg",
+		"Stock Consignment Wthdrawals":"c1-bg",
+		"Stock Issues - Repairables":"c1-bg",
+		"Stock Of Tools":"c1-bg",
+		"Stock Of Track":"c1-bg",
+		"Stock Purchase Price Variance":"c1-bg",
+		"Stock of Fleet":"c1-bg",
+		"Stock of General Supplies":"c1-bg",
+		"Stock of Lifts and Escalators":"c1-bg",
+		"Stock of Other Spares":"c1-bg",
+		"Stock of Signals and Electricals":"c1-bg",
+		"Stores & Depot Rent":"c1-bg",
+		"Street Furniture":"c1-bg",
+		"Street Lighting":"c1-bg",
+		"Sub-Contractor":"c1-bg",
+		"Subcontractor":"c1-bg",
+		"Subcontractor Labour":"c1-bg",
+		"Subscriptions":"c1-bg",
+		"Sundry Creditors":"c1-bg",
+		"Sundry Debtors":"c1-bg",
+		"TFL CORPORATE":"c1-bg",
+		"TLL PROPERTIES LTD":"c1-bg",
+		"TPH Licensing System Interest & Capital Charge":"c1-bg",
+		"TRANSPORT TRADING LTD":"c1-bg",
+		"TTL PROPERTIES LTD":"c1-bg",
+		"TTL Properties Ltd":"c1-bg",
+		"TUBE LINES LTD":"c1-bg",
+		"TUBELINES LTD":"c1-bg",
+		"Tax":"c1-bg",
+		"Taxicard Funding":"c1-bg",
+		"Telecommunications":"c1-bg",
+		"Terminal 5 PFI Service Costs":"c1-bg",
+		"Ticket & Pass Production":"c1-bg",
+		"Tools":"c1-bg",
+		"Track General Maintenance":"c1-bg",
+		"Track Labour":"c1-bg",
+		"Track Welding":"c1-bg",
+		"Track stock issues":"c1-bg",
+		"Traction Current":"c1-bg",
+		"Traffic Receipts - LUL Stations":"c1-bg",
+		"Traffic Signals":"c1-bg",
+		"Training":"c1-bg",
+		"Transport Planning Consultancy & Service":"c1-bg",
+		"Transport Planning Consultancy & Services":"c1-bg",
+		"Transys Control - TTL":"c1-bg",
+		"Travel":"c1-bg",
+		"Travel to/from work (Unsocial Hours)":"c1-bg",
+		"Tribunal Awards & Other Settlements":"c1-bg",
+		"Uniforms":"c1-bg",
+		"Utilities":"c1-bg",
+		"VCS Coach Payments":"c1-bg",
+		"VCS Non Coach Payments":"c1-bg",
+		"VCS Repayments & Commission":"c1-bg",
+		"VICTORIA COACH STATN LTD":"c1-bg",
+		"Vehicle":"c1-bg",
+		"Vehicle Cleaning":"c1-bg",
+		"Vehicle Crime Prevention":"c1-bg",
+		"Vehicle Hire":"c1-bg",
+		"Vehicle Operating Leases":"c1-bg",
+		"Vehicle Parts Gas Oil & Lubricants":"c1-bg",
+		"Vehicle Parts General":"c1-bg",
+		"Vehicle Parts Tyres":"c1-bg",
+		"Vehicle Purchases":"c1-bg",
+		"Vehicle Recovery":"c1-bg",
+		"Vehicle Repairs & Maintenance":"c1-bg",
+		"Vehicle Running Costs":"c1-bg",
+		"Vehicles":"c1-bg",
+		"Vending Machine Supplies & Rental":"c1-bg",
+		"Voluntary Severance":"c1-bg",
+		"Waste Containers":"c1-bg",
+		"Waste Removal":"c1-bg",
+		"Water":"c1-bg",
+		"Weather Data":"c1-bg",
+		"oyster":"c1-bg",
