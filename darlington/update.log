@@ -1,0 +1,484 @@
+Processing data/darlington/clean/2013-01.csv
+1825 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-01.csv - we only have 3 :(
+ERROR:		We found "Amount:6:Amount,Organisational Unit:3:Organisational Unit,Beneficiary Name:5:Beneficiary Name"
+ERROR:		We have the columns ",,Directotate,Service,Supplier,Invoice Line Value (net of VAT),Account".
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,BAUER RADIO LTD,1199.96,MARKETING & ADVERTISING
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,BAUER RADIO LTD,3000.00,MARKETING & ADVERTISING
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,BLACK & WHITE ADVERTISING (URWIN GARTON),557.2,MARKETING & ADVERTISING
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,BLACK & WHITE ADVERTISING (URWIN GARTON),546,MARKETING & ADVERTISING
+Processing data/darlington/clean/2013-02.csv
+2856 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-02.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-03.csv
+4439 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-03.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-04.csv
+664 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-04.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-05.csv
+1036 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-05.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-06.csv
+1018 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-06.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-07.csv
+1018 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-07.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-08.csv
+1185 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-08.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-09.csv
+1069 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-09.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-10.csv
+1220 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-10.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2013-12.csv
+900 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2013-12.csv - we only have 0 :(
+ERROR:		We found ""
+ERROR:		We have the columns ""sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"".
+ERROR:			sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+ERROR:			sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+ERROR:			sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+ERROR:			sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+Processing data/darlington/clean/2014-01.csv
+1024 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-01.csv - we only have 3 :(
+ERROR:		We found "Amount:6:Amount,Organisational Unit:3:Organisational Unit,Beneficiary Name:5:Beneficiary Name"
+ERROR:		We have the columns ",,Directotate,Service,Supplier,Invoice Line Value (net of VAT),Account".
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,CIVICA,2940.00,Ict Hardware Purchase
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,ELECTORAL REFORM SERVICES,695.17,Basic Pay
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,ELECTORAL REFORM SERVICES,1702.95,Stationery
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,iCASEWORK LTD,3436.10,Ict Software Purchase
+Processing data/darlington/clean/2014-02.csv
+1066 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-02.csv - we only have 3 :(
+ERROR:		We found "Amount:6:Amount,Organisational Unit:3:Organisational Unit,Beneficiary Name:5:Beneficiary Name"
+ERROR:		We have the columns ",,Directotate,Service,Supplier,Invoice Line Value (net of VAT),Account".
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,ALBANY OFFICE FURNITURE SOLUTIONS,10797.00,Equipment
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,CIVICA,504.00,Ict Hardware Purchase
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,INSIGHT DIRECT (UK) LTD,1730.85,Ict Hardware Purchase
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,INSIGHT DIRECT (UK) LTD,2184.72,Ict Hardware Purchase
+Processing data/darlington/clean/2014-03.csv
+1353 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-03.csv - we only have 3 :(
+ERROR:		We found "Amount:6:Amount,Organisational Unit:3:Organisational Unit,Beneficiary Name:5:Beneficiary Name"
+ERROR:		We have the columns ",,Directotate,Service,Supplier,Invoice Line Value (net of VAT),Account".
+ERROR:			INSERTED DETAIL,,Resources Group,Directorate,CIPFA,7335.00,Subscriptions
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,ALBANY OFFICE FURNITURE SOLUTIONS,676.00,Furniture
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,DX NETWORK SERVICES LTD,2211.62,Postages
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,G J BECKETT & ASSOCIATES LTD,1520.00,Ict Hardware Purchase
+Processing data/darlington/clean/2014-04.csv
+744 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-04.csv - we only have 3 :(
+ERROR:		We found "Amount:6:Amount,Organisational Unit:3:Organisational Unit,Beneficiary Name:5:Beneficiary Name"
+ERROR:		We have the columns ",,Directotate,Service,Supplier,Invoice Line Value (net of VAT),Account".
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,ASSOCIATION OF NORTH EAST COUNCILS LTD,28019.00,Subscriptions
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,ASSOCIATION OF NORTH EAST COUNCILS LTD,7500.00,Subscriptions
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,DADCHECK.COM,567.35,Professional Fees & Consultancy
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,INSIGHT DIRECT (UK) LTD,722.44,Ict Hardware Purchase
+Processing data/darlington/clean/2014-05.csv
+874 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-05.csv - we only have 3 :(
+ERROR:		We found "Amount:6:Amount,Organisational Unit:3:Organisational Unit,Beneficiary Name:5:Beneficiary Name"
+ERROR:		We have the columns ",,Directotate,Service,Supplier,Invoice Line Value (net of VAT),Account".
+ERROR:			INSERTED DETAIL,,Resources Group,Directorate,CIPFA BUSINESS LIMITED,4720.00,Subscriptions
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,ISAPPHIRE LTD,627.90,Marketing & Advertising
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,KANA,4500.00,Ict Software Purchase
+ERROR:			INSERTED DETAIL,,Resources Group,Resources,KANA,39736.62,Ict Software Support & Maintenance
+Processing data/darlington/clean/2014-06.csv
+964 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-06.csv - we only have 3 :(
+ERROR:		We found "Amount:5:Amount,Organisational Unit:1:Organisational Unit,Beneficiary Name:3:Beneficiary Name"
+ERROR:		We have the columns "Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account".
+ERROR:			Resources Group,Resources,ADARE LIMITED,3053440,950,Postages
+ERROR:			Resources Group,Resources,ALBANY OFFICE FURNITURE SOLUTIONS,3052399,756,Furniture
+ERROR:			Resources Group,Resources,DADCHECK.COM,3054652,584,Professional Fees & Consultancy
+ERROR:			Resources Group,Resources,DAVID MEDD,3054656,650,Professional Fees & Consultancy
+Processing data/darlington/clean/2014-07.csv
+1057 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-07.csv - we only have 3 :(
+ERROR:		We found "Amount:5:Amount,Organisational Unit:1:Organisational Unit,Beneficiary Name:3:Beneficiary Name"
+ERROR:		We have the columns "Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account".
+ERROR:			Resources Group,Resources,ADARE LIMITED,3054996,545,Stationery
+ERROR:			Resources Group,Resources,ALBANY OFFICE FURNITURE SOLUTIONS,3054301,556,Furniture
+ERROR:			Resources Group,Resources,CDC RESPOND,3054426,2443.50,Ict Software Support & Maintenance
+ERROR:			Resources Group,Resources,ICO,3054982,500,Subscriptions
+Processing data/darlington/clean/2014-08.csv
+686 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-08.csv - we only have 3 :(
+ERROR:		We found "Amount:5:Amount,Organisational Unit:1:Organisational Unit,Beneficiary Name:3:Beneficiary Name"
+ERROR:		We have the columns "Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account".
+ERROR:			Resources Group,Resources,ADARE LIMITED,3056456,1088.50,Printing
+ERROR:			Resources Group,Resources,ADARE LIMITED,3056456,549.44,Printing
+ERROR:			Resources Group,Resources,ADARE LIMITED,3056456,1102.60,Printing
+ERROR:			Resources Group,Resources,ADARE LIMITED,3056456,1251.19,Printing
+Processing data/darlington/clean/2014-09.csv
+1281 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-09.csv - we only have 3 :(
+ERROR:		We found "Amount:5:Amount,Organisational Unit:1:Organisational Unit,Beneficiary Name:3:Beneficiary Name"
+ERROR:		We have the columns "Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account".
+ERROR:			Resources Group,Resources,COREPEOPLE RECRUITMENT LTD,3054832,549.19,Agency Staff Costs - Non Teaching
+ERROR:			Resources Group,Resources,COREPEOPLE RECRUITMENT LTD,3054832,571.15,Agency Staff Costs - Non Teaching
+ERROR:			Resources Group,Resources,COREPEOPLE RECRUITMENT LTD,3054832,576.26,Agency Staff Costs - Non Teaching
+ERROR:			Resources Group,Resources,F C PARRY,3046938,971.35,Equipment
+Processing data/darlington/clean/2014-10.csv
+1045 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-10.csv - we only have 3 :(
+ERROR:		We found "Amount:5:Amount,Organisational Unit:1:Organisational Unit,Beneficiary Name:3:Beneficiary Name"
+ERROR:		We have the columns "Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account".
+ERROR:			Resources Group,Resources,ADARE LIMITED,3058931,1066.90,Stationery
+ERROR:			Resources Group,Resources,ADARE LIMITED,3058931,983.62,Stationery
+ERROR:			Resources Group,Resources,ADARE LIMITED,3058932,2442.14,Postages
+ERROR:			Resources Group,Resources,APHA BIO LABS,3058246,525,Professional Fees & Consultancy
+Processing data/darlington/clean/2014-11.csv
+1094 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-11.csv - we only have 3 :(
+ERROR:		We found "Amount:5:Amount,Organisational Unit:1:Organisational Unit,Beneficiary Name:3:Beneficiary Name"
+ERROR:		We have the columns "Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account".
+ERROR:			Resources Group,Resources,ADARE LIMITED,3059248,861.55,Stationery
+ERROR:			Resources Group,Resources,ADARE LIMITED,3059712,725.85,Stationery
+ERROR:			Resources Group,Resources,ADARE LIMITED,3059712,917,Stationery
+ERROR:			Resources Group,Resources,CIVICA,3045846,516.6,Ict Hardware Purchase
+Processing data/darlington/clean/2014-12.csv
+951 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-12.csv - we only have 3 :(
+ERROR:		We found "Amount:5:Amount,Organisational Unit:1:Organisational Unit,Beneficiary Name:3:Beneficiary Name"
+ERROR:		We have the columns "Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account".
+ERROR:			Resources Group,Resources,CANON (UK) LIMITED,3059502,3041.45,Ict Hardware Purchase
+ERROR:			Resources Group,Resources,COREPEOPLE RECRUITMENT LTD,3054832,605.69,Agency Staff Costs - Non Teaching
+ERROR:			Resources Group,Resources,DADCHECK.COM,3061582,720.68,Professional Fees & Consultancy
+ERROR:			Resources Group,Resources,DONOVAN GRAPHICS LTD,3060948,1206.00,Marketing & Advertising
+Processing data/darlington/clean/2014-12.csv
+951 rows
+ERROR:	We don't have all the columns necessary for data/darlington/clean/2014-12.csv - we only have 3 :(
+ERROR:		We found "Amount:5:Amount,Organisational Unit:1:Organisational Unit,Beneficiary Name:3:Beneficiary Name"
+ERROR:		We have the columns "Directotate,Service,Supplier,Order,Invoice Line Value (net of VAT),Account".
+ERROR:			Resources Group,Resources,CANON (UK) LIMITED,3059502,3041.45,Ict Hardware Purchase
+ERROR:			Resources Group,Resources,COREPEOPLE RECRUITMENT LTD,3054832,605.69,Agency Staff Costs - Non Teaching
+ERROR:			Resources Group,Resources,DADCHECK.COM,3061582,720.68,Professional Fees & Consultancy
+ERROR:			Resources Group,Resources,DONOVAN GRAPHICS LTD,3060948,1206.00,Marketing & Advertising
+Processing data/darlington/clean/2021-02.csv
+1656 rows
+Processing data/darlington/processed/2010-09.csv
+4105 rows
+Processing data/darlington/processed/2010-12.csv
+795 rows
+Processing data/darlington/processed/2011-01.csv
+1295 rows
+Processing data/darlington/processed/2011-02.csv
+1263 rows
+Processing data/darlington/processed/2011-03.csv
+2000 rows
+Processing data/darlington/processed/2011-04.csv
+729 rows
+Processing data/darlington/processed/2011-05.csv
+1027 rows
+Processing data/darlington/processed/2011-06.csv
+1089 rows
+Processing data/darlington/processed/2011-07.csv
+1103 rows
+Processing data/darlington/processed/2011-08.csv
+1097 rows
+Processing data/darlington/processed/2011-09.csv
+1071 rows
+Processing data/darlington/processed/2011-10.csv
+971 rows
+Processing data/darlington/processed/2011-11.csv
+1234 rows
+Processing data/darlington/processed/2011-12.csv
+1024 rows
+Processing data/darlington/processed/2012-01.csv
+1280 rows
+Processing data/darlington/processed/2012-02.csv
+1048 rows
+Processing data/darlington/processed/2012-03.csv
+1660 rows
+Processing data/darlington/processed/2012-04.csv
+679 rows
+Processing data/darlington/processed/2012-05.csv
+1226 rows
+Processing data/darlington/processed/2012-06.csv
+1038 rows
+Processing data/darlington/processed/2012-07.csv
+1128 rows
+Processing data/darlington/processed/2012-08.csv
+974 rows
+Processing data/darlington/processed/2012-09.csv
+703 rows
+Processing data/darlington/processed/2012-10.csv
+1151 rows
+Processing data/darlington/processed/2012-11.csv
+1209 rows
+Processing data/darlington/processed/2012-12.csv
+905 rows
+Processing data/darlington/processed/2015-01.csv
+928 rows
+Processing data/darlington/processed/2015-02.csv
+1002 rows
+Processing data/darlington/processed/2015-03.csv
+1514 rows
+Processing data/darlington/processed/2015-04.csv
+673 rows
+Processing data/darlington/processed/2015-05.csv
+975 rows
+Processing data/darlington/processed/2015-06.csv
+1001 rows
+Processing data/darlington/processed/2015-07.csv
+1044 rows
+Processing data/darlington/processed/2015-08.csv
+916 rows
+Processing data/darlington/processed/2015-09.csv
+753 rows
+Processing data/darlington/processed/2015-10.csv
+1159 rows
+Processing data/darlington/processed/2015-11.csv
+951 rows
+Processing data/darlington/processed/2016-01.csv
+1021 rows
+Processing data/darlington/processed/2016-02.csv
+1012 rows
+Processing data/darlington/processed/2016-03.csv
+1304 rows
+Processing data/darlington/processed/2016-04.csv
+971 rows
+Processing data/darlington/processed/2016-05.csv
+1360 rows
+Processing data/darlington/processed/2016-06.csv
+1272 rows
+Processing data/darlington/processed/2016-07.csv
+1560 rows
+Processing data/darlington/processed/2016-08.csv
+1521 rows
+Processing data/darlington/processed/2016-09.csv
+1167 rows
+Processing data/darlington/processed/2016-10.csv
+1262 rows
+Processing data/darlington/processed/2016-11.csv
+1142 rows
+Processing data/darlington/processed/2016-12.csv
+1117 rows
+Processing data/darlington/processed/2016-12.csv
+1117 rows
+Processing data/darlington/processed/2017-01.csv
+1283 rows
+Processing data/darlington/processed/2017-02.csv
+1287 rows
+Processing data/darlington/processed/2017-03.csv
+2012 rows
+Processing data/darlington/processed/2017-04.csv
+2021 rows
+Processing data/darlington/processed/2017-05.csv
+2651 rows
+Processing data/darlington/processed/2017-06.csv
+2265 rows
+Processing data/darlington/processed/2017-07.csv
+2220 rows
+Processing data/darlington/processed/2017-08.csv
+3119 rows
+Processing data/darlington/processed/2017-09.csv
+1799 rows
+Processing data/darlington/processed/2017-10.csv
+1811 rows
+Processing data/darlington/processed/2017-11.csv
+1705 rows
+Processing data/darlington/processed/2017-12.csv
+1970 rows
+Processing data/darlington/processed/2018-01.csv
+1841 rows
+Processing data/darlington/processed/2018-02.csv
+1573 rows
+Processing data/darlington/processed/2018-03.csv
+2640 rows
+Processing data/darlington/processed/2018-04.csv
+1739 rows
+Processing data/darlington/processed/2018-05.csv
+2242 rows
+Processing data/darlington/processed/2018-06.csv
+1499 rows
+Processing data/darlington/processed/2018-07.csv
+1840 rows
+Processing data/darlington/processed/2018-08.csv
+1684 rows
+Processing data/darlington/processed/2018-09.csv
+1945 rows
+Processing data/darlington/processed/2018-10.csv
+1853 rows
+Processing data/darlington/processed/2018-11.csv
+2236 rows
+Processing data/darlington/processed/2018-12.csv
+1456 rows
+Processing data/darlington/processed/2019-01.csv
+1715 rows
+Processing data/darlington/processed/2019-02.csv
+1428 rows
+Processing data/darlington/processed/2019-03.csv
+2158 rows
+Processing data/darlington/processed/2019-04.csv
+1520 rows
+Processing data/darlington/processed/2019-05.csv
+1755 rows
+Processing data/darlington/processed/2019-06.csv
+1774 rows
+Processing data/darlington/processed/2019-07.csv
+1752 rows
+Processing data/darlington/processed/2019-08.csv
+1895 rows
+Processing data/darlington/processed/2019-09.csv
+1895 rows
+Processing data/darlington/processed/2019-10.csv
+1698 rows
+Processing data/darlington/processed/2019-11.csv
+1652 rows
+Processing data/darlington/processed/2019-12.csv
+1902 rows
+Processing data/darlington/processed/2020-01.csv
+1752 rows
+Processing data/darlington/processed/2020-02.csv
+1675 rows
+Processing data/darlington/processed/2020-03.csv
+2249 rows
+Processing data/darlington/processed/2020-04.csv
+1466 rows
+Processing data/darlington/processed/2020-05.csv
+1158 rows
+Processing data/darlington/processed/2020-06.csv
+1504 rows
+Processing data/darlington/processed/2020-07.csv
+1659 rows
+Processing data/darlington/processed/2020-08.csv
+1342 rows
+Processing data/darlington/processed/2020-09.csv
+1671 rows
+Processing data/darlington/processed/2020-10.csv
+1953 rows
+Processing data/darlington/processed/2020-11.csv
+1821 rows
+Processing data/darlington/processed/2020-12.csv
+2057 rows
+Processing data/darlington/processed/2021-01.csv
+1499 rows
+Processing data/darlington/processed/2021-02.csv
+1656 rows
+Processing data/darlington/processed/2021-03.csv
+2355 rows
+Processing data/darlington/processed/2021-04.csv
+1680 rows
+Processing data/darlington/processed/2021-05.csv
+1635 rows
+Processing data/darlington/processed/2021-06.csv
+2021 rows
+Processing data/darlington/processed/2021-07.csv
+1754 rows
+Processing data/darlington/processed/2021-08.csv
+1535 rows
+Processing data/darlington/processed/2021-09.csv
+1598 rows
+Processing data/darlington/processed/2021-10.csv
+1738 rows
+Processing data/darlington/processed/2021-11.csv
+2067 rows
+Processing data/darlington/processed/2021-12.csv
+1689 rows
+Processing data/darlington/processed/2022-01.csv
+1713 rows
+Processing data/darlington/processed/2022-02.csv
+1752 rows
+Processing data/darlington/processed/2022-03.csv
+3415 rows
+Processing data/darlington/processed/2022-04.csv
+1508 rows
+Processing data/darlington/processed/2022-05.csv
+1987 rows
+Processing data/darlington/processed/2022-06.csv
+1679 rows
+Processing data/darlington/processed/2022-07.csv
+1758 rows
+Processing data/darlington/processed/2022-08.csv
+1864 rows
+Processing data/darlington/processed/2022-09.csv
+1488 rows
+Data goes from 2010-09 to 2023-03
+Services:
+		"Balance Sheet":"c1-bg",
+		"Bidra":"c1-bg",
+		"CHILDREN'S SERVICES":"c1-bg",
+		"COMMISSIONING":"c1-bg",
+		"Capital":"c1-bg",
+		"Chief Executive":"c1-bg",
+		"Chief Executive's":"c1-bg",
+		"Children & Education Services":"c1-bg",
+		"Children and Adults Services":"c1-bg",
+		"Childrens Services":"c1-bg",
+		"Community Services":"c1-bg",
+		"Contingencies":"c1-bg",
+		"Corporate Services":"c1-bg",
+		"Council Wide":"c1-bg",
+		"ECONOMIC GROWTH":"c1-bg",
+		"Economic Growth":"c1-bg",
+		"Economic Growth & Neighbourhood Services":"c1-bg",
+		"Housing Revenue Account":"c1-bg",
+		"NEIGHBOURHOOD SERVICES & RESOURCES":"c1-bg",
+		"Neighbourhood Services & Resources":"c1-bg",
+		"Neighbourhood Services and Resources":"c1-bg",
+		"Other":"c1-bg",
+		"People":"c1-bg",
+		"Place":"c1-bg",
+		"Resources":"c1-bg",
+		"Resources Group":"c1-bg",

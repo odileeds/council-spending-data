@@ -11,152 +11,152 @@
 			"Beneficiary Name": ["Supplier","Benificiary Name"],
 			"Organisation Label": [],
 			"Organisational Unit": ["Directorate","Directotate"],
-			"Payment Date": ["Transaction Date","Date"]
+			"Payment Date": ["Transaction Date","Date","Payment Date"]
 		}
 	},
 	"files": [{
 		"format": "csv",
 		"month": "2010-09",
 		"url": "https://www.darlington.gov.uk/media/4135/dbc-over-500_julysep2010.csv",
-		"name": "July to September 2010Â CSV",
+		"name": "July to September 2010 CSV",
 		"file": "2010-09.csv"
 	},{
 		"format": "csv",
 		"month": "2010-12",
 		"url": "https://www.darlington.gov.uk/media/4133/dbc_over_500_oct_-_dec_2010.csv",
-		"name": "October to December 2010Â CSV",
+		"name": "October to December 2010 CSV",
 		"file": "2010-12.csv"
 	},{
 		"format": "csv",
 		"month": "2011-01",
 		"url": "https://www.darlington.gov.uk/media/4132/payments_over_500_-_jan_2011.csv",
-		"name": "January 2011Â CSV",
+		"name": "January 2011 CSV",
 		"file": "2011-01.csv"
 	},{
 		"format": "csv",
 		"month": "2011-02",
 		"url": "https://www.darlington.gov.uk/media/4130/payments_over_500_-_feb_run_2011.csv",
-		"name": "February 2011Â CSV",
+		"name": "February 2011 CSV",
 		"file": "2011-02.csv"
 	},{
 		"format": "csv",
 		"month": "2011-03",
 		"url": "https://www.darlington.gov.uk/media/4128/payments_over_500_-_march_2011.csv",
-		"name": "March 2011Â CSV",
+		"name": "March 2011 CSV",
 		"file": "2011-03.csv"
 	},{
 		"format": "csv",
 		"month": "2011-04",
 		"url": "https://www.darlington.gov.uk/media/4126/payments_over_500_-_april_2011.csv",
-		"name": "April 2011Â CSV",
+		"name": "April 2011 CSV",
 		"file": "2011-04.csv"
 	},{
 		"format": "csv",
 		"month": "2011-05",
 		"url": "https://www.darlington.gov.uk/media/4124/payments_over_500_-_may_2011.csv",
-		"name": "May 2011Â CSV",
+		"name": "May 2011 CSV",
 		"file": "2011-05.csv"
 	},{
 		"format": "csv",
 		"month": "2011-06",
 		"url": "https://www.darlington.gov.uk/media/4122/payments_over_500_-_june_2011.csv",
-		"name": "June 2011Â CSV",
+		"name": "June 2011 CSV",
 		"file": "2011-06.csv"
 	},{
 		"format": "csv",
 		"month": "2011-07",
 		"url": "https://www.darlington.gov.uk/media/4120/payments_over_500-july_2011.csv",
-		"name": "July 2011Â CSV",
+		"name": "July 2011 CSV",
 		"file": "2011-07.csv"
 	},{
 		"format": "csv",
 		"month": "2011-08",
 		"url": "https://www.darlington.gov.uk/media/4118/payments_over_500_-_august_2011.csv",
-		"name": "August 2011Â CSV",
+		"name": "August 2011 CSV",
 		"file": "2011-08.csv"
 	},{
 		"format": "csv",
 		"month": "2011-09",
 		"url": "https://www.darlington.gov.uk/media/4116/payments_over_500_-_september_2011.csv",
-		"name": "September 2011Â CSV",
+		"name": "September 2011 CSV",
 		"file": "2011-09.csv"
 	},{
 		"format": "csv",
 		"month": "2011-10",
 		"url": "https://www.darlington.gov.uk/media/4114/payments_over_500_-_october_2011.csv",
-		"name": "October 2011Â CSV",
+		"name": "October 2011 CSV",
 		"file": "2011-10.csv"
 	},{
 		"format": "csv",
 		"month": "2011-11",
 		"url": "https://www.darlington.gov.uk/media/4112/payments_over_500-november_2011.csv",
-		"name": "November 2011Â CSV",
+		"name": "November 2011 CSV",
 		"file": "2011-11.csv"
 	},{
 		"format": "csv",
 		"month": "2011-12",
 		"url": "https://www.darlington.gov.uk/media/4110/payments_over_500-december_2011.csv",
-		"name": "December 2011Â CSV",
+		"name": "December 2011 CSV",
 		"file": "2011-12.csv"
 	},{
 		"format": "csv",
 		"month": "2012-01",
 		"url": "https://www.darlington.gov.uk/media/4108/payments_over_500-january_2012.csv",
-		"name": "January 2012Â CSV",
+		"name": "January 2012 CSV",
 		"file": "2012-01.csv"
 	},{
 		"format": "csv",
 		"month": "2012-02",
 		"url": "https://www.darlington.gov.uk/media/4106/payments_over_500-february_2012.csv",
-		"name": "February 2012Â CSV",
+		"name": "February 2012 CSV",
 		"file": "2012-02.csv"
 	},{
 		"format": "csv",
 		"month": "2012-03",
 		"url": "https://www.darlington.gov.uk/media/4104/payments_over_500-march_2012.csv",
-		"name": "March 2012Â CSV",
+		"name": "March 2012 CSV",
 		"file": "2012-03.csv"
 	},{
 		"format": "csv",
 		"month": "2012-04",
 		"url": "https://www.darlington.gov.uk/media/4102/payments_over_500_-_april_12.csv",
-		"name": "April 2012Â CSV",
+		"name": "April 2012 CSV",
 		"file": "2012-04.csv"
 	},{
 		"format": "csv",
 		"month": "2012-05",
 		"url": "https://www.darlington.gov.uk/media/4100/payments_over_500_-_may_12.csv",
-		"name": "May 2012Â CSV",
+		"name": "May 2012 CSV",
 		"file": "2012-05.csv"
 	},{
 		"format": "csv",
 		"month": "2012-06",
 		"url": "https://www.darlington.gov.uk/media/4098/payments_over_500_-_june_12.csv",
-		"name": "June 2012Â CSV",
+		"name": "June 2012 CSV",
 		"file": "2012-06.csv"
 	},{
 		"format": "csv",
 		"month": "2012-07",
 		"url": "https://www.darlington.gov.uk/media/4096/payments_over_500_-_july_12.csv",
-		"name": "July 2012Â CSV",
+		"name": "July 2012 CSV",
 		"file": "2012-07.csv"
 	},{
 		"format": "csv",
 		"month": "2012-08",
 		"url": "https://www.darlington.gov.uk/media/4094/payments_over_500_-_august_12.csv",
-		"name": "August 2012Â CSV",
+		"name": "August 2012 CSV",
 		"file": "2012-08.csv"
 	},{
 		"format": "csv",
 		"month": "2012-09",
 		"url": "https://www.darlington.gov.uk/media/4092/payments_over_500_-_september_12.csv",
-		"name": "September 2012Â CSV",
+		"name": "September 2012 CSV",
 		"file": "2012-09.csv"
 	},{
 		"format": "csv",
 		"month": "2012-10",
 		"url": "https://www.darlington.gov.uk/media/4090/payments_over_500_-_october_12.csv",
-		"name": "October 2012Â CSV",
+		"name": "October 2012 CSV",
 		"file": "2012-10.csv"
 	},{
 		"format": "csv",
@@ -168,91 +168,97 @@
 		"format": "csv",
 		"month": "2012-12",
 		"url": "https://www.darlington.gov.uk/media/4088/payments_over_500_-_december_12.csv",
-		"name": "December 2012Â CSV",
+		"name": "December 2012 CSV",
 		"file": "2012-12.csv"
 	},{
 		"format": "csv",
 		"month": "2013-01",
 		"url": "https://www.darlington.gov.uk/media/4086/paymentsjan13.csv",
-		"name": "January 2013Â CSV",
+		"name": "January 2013 CSV",
 		"file": "2013-01.csv"
 	},{
 		"format": "csv",
 		"month": "2013-02",
 		"url": "https://www.darlington.gov.uk/media/4084/payments_over_500_-_february_13.csv",
-		"name": "February 2013Â CSV",
+		"name": "February 2013 CSV",
 		"file": "2013-02.csv"
 	},{
 		"format": "csv",
 		"month": "2013-03",
 		"url": "https://www.darlington.gov.uk/media/4082/payments_over_500_-_march_13.csv",
-		"name": "March 2013Â CSV",
+		"name": "March 2013 CSV",
 		"file": "2013-03.csv"
 	},{
 		"format": "csv",
 		"month": "2013-04",
 		"url": "https://www.darlington.gov.uk/media/4080/payments_over_500_-_april_13.csv",
-		"name": "April 2013Â CSV",
+		"name": "April 2013 CSV",
 		"file": "2013-04.csv"
 	},{
 		"format": "csv",
 		"month": "2013-05",
 		"url": "https://www.darlington.gov.uk/media/4148/payments_over_500_-_may_13.csv",
-		"name": "May 2013Â CSV",
+		"name": "May 2013 CSV",
 		"file": "2013-05.csv"
 	},{
 		"format": "csv",
 		"month": "2013-06",
 		"url": "https://www.darlington.gov.uk/media/4145/payments_over_500_-_june_13.csv",
-		"name": "June 2013Â CSV",
+		"name": "June 2013 CSV",
 		"file": "2013-06.csv"
 	},{
 		"format": "csv",
 		"month": "2013-07",
 		"url": "https://www.darlington.gov.uk/media/4079/payments_over_500_-_june_13.csv",
-		"name": "July 2013Â CSV",
+		"name": "July 2013 CSV",
 		"file": "2013-07.csv"
 	},{
 		"format": "csv",
 		"month": "2013-08",
 		"url": "https://www.darlington.gov.uk/media/4077/payments_over_500_-_august_13.csv",
-		"name": "August 2013Â CSV",
+		"name": "August 2013 CSV",
 		"file": "2013-08.csv"
 	},{
 		"format": "csv",
 		"month": "2013-09",
 		"url": "https://www.darlington.gov.uk/media/4075/payments_over_500_-_sept_13.csv",
-		"name": "September 2013Â CSV",
+		"name": "September 2013 CSV",
 		"file": "2013-09.csv"
 	},{
 		"format": "csv",
 		"month": "2013-10",
 		"url": "https://www.darlington.gov.uk/media/4073/payments_over_500_-_oct_13.csv",
-		"name": "October 2013Â CSV",
+		"name": "October 2013 CSV",
 		"file": "2013-10.csv"
+	},{
+		"format": "csv",
+		"month": "2013-12",
+		"url": "https://www.darlington.gov.uk/media/4070/payments_over_500_-_dec_13.csv",
+		"name": "December 2013 CSV",
+		"file": "2013-12.csv"
 	},{
 		"format": "csv",
 		"month": "2014-01",
 		"url": "https://www.darlington.gov.uk/media/4068/payments_over_500_-_jan_14.csv",
-		"name": "January 2014Â CSV",
+		"name": "January 2014 CSV",
 		"file": "2014-01.csv"
 	},{
 		"format": "csv",
 		"month": "2014-02",
 		"url": "https://www.darlington.gov.uk/media/4066/payments_over_500_-_feb_14.csv",
-		"name": "February 2014Â CSV",
+		"name": "February 2014 CSV",
 		"file": "2014-02.csv"
 	},{
 		"format": "csv",
 		"month": "2014-03",
 		"url": "https://www.darlington.gov.uk/media/4139/mar_14csv.csv",
-		"name": "March 2014Â CSV",
+		"name": "March 2014 CSV",
 		"file": "2014-03.csv"
 	},{
 		"format": "csv",
 		"month": "2014-04",
 		"url": "https://www.darlington.gov.uk/media/4137/apr_14csv.csv",
-		"name": "April 2014Â CSV",
+		"name": "April 2014 CSV",
 		"file": "2014-04.csv"
 	},{
 		"format": "csv",
@@ -264,7 +270,7 @@
 		"format": "csv",
 		"month": "2014-06",
 		"url": "https://www.darlington.gov.uk/media/4166/june_14_-_including_orders_numbers.csv",
-		"name": "June 2014Â CSV",
+		"name": "June 2014 CSV",
 		"file": "2014-06.csv"
 	},{
 		"format": "csv",
@@ -306,7 +312,7 @@
 		"format": "csv",
 		"month": "2014-12",
 		"url": "https://www.darlington.gov.uk/media/4070/payments_over_500_-_dec_13.csv",
-		"name": "December 2014Â CSV",
+		"name": "December 2014 CSV",
 		"file": "2014-12.csv"
 	},{
 		"format": "csv",
@@ -318,7 +324,7 @@
 		"format": "csv",
 		"month": "2015-02",
 		"url": "https://www.darlington.gov.uk/media/4158/february_15-_including_orders_numbers.csv",
-		"name": "February 2015Â CSV",
+		"name": "February 2015 CSV",
 		"file": "2015-02.csv"
 	},{
 		"format": "csv",
@@ -472,6 +478,12 @@
 		"file": "2017-03.csv"
 	},{
 		"format": "csv",
+		"month": "2017-04",
+		"url": "https://www.darlington.gov.uk/media/4024/1_transactions_over_500_april_2017.csv",
+		"name": "April 2017 CSV",
+		"file": "2017-04.csv"
+	},{
+		"format": "csv",
 		"month": "2017-05",
 		"url": "https://www.darlington.gov.uk/media/4026/2_transactions_over_500_may_2017.csv",
 		"name": "May 2017 CSV",
@@ -480,7 +492,7 @@
 		"format": "csv",
 		"month": "2017-06",
 		"url": "https://www.darlington.gov.uk/media/4028/3_transactions_over_500_june_2017.csv",
-		"name": "JuneÂ 2017 CSV",
+		"name": "June 2017 CSV",
 		"file": "2017-06.csv"
 	},{
 		"format": "csv",
@@ -516,13 +528,13 @@
 		"format": "csv",
 		"month": "2017-12",
 		"url": "https://www.darlington.gov.uk/media/4041/9_transactions_over_500_december_2017.csv",
-		"name": "DecemberÂ 2017 CSV",
+		"name": "December 2017 CSV",
 		"file": "2017-12.csv"
 	},{
 		"format": "csv",
 		"month": "2018-01",
 		"url": "https://www.darlington.gov.uk/media/4010/10_transactions_over_500_january_2018.csv",
-		"name": "JanuaryÂ 2018 CSV",
+		"name": "January 2018 CSV",
 		"file": "2018-01.csv"
 	},{
 		"format": "csv",
@@ -770,5 +782,95 @@
 		"url": "https://www.darlington.gov.uk/media/14284/transactions_over_500_june__2021.csv",
 		"name": "June 2021 CSV",
 		"file": "2021-06.csv"
+	},{
+		"format": "csv",
+		"month": "2021-07",
+		"url": "https://www.darlington.gov.uk/media/14472/transactions-over-500-july-2021.csv",
+		"name": "July 2021 CSV",
+		"file": "2021-07.csv"
+	},{
+		"format": "csv",
+		"month": "2021-08",
+		"url": "https://www.darlington.gov.uk/media/14625/transactions-over-500-august-2021.csv",
+		"name": "August 2021 CSV",
+		"file": "2021-08.csv"
+	},{
+		"format": "csv",
+		"month": "2021-09",
+		"url": "https://www.darlington.gov.uk/media/14736/transactions-over-500-september-2021.csv",
+		"name": "September 2021 CSV",
+		"file": "2021-09.csv"
+	},{
+		"format": "csv",
+		"month": "2021-10",
+		"url": "https://www.darlington.gov.uk/media/14997/transactions-over-500-october-2021.csv",
+		"name": "October 2021 CSV",
+		"file": "2021-10.csv"
+	},{
+		"format": "csv",
+		"month": "2021-11",
+		"url": "https://www.darlington.gov.uk/media/15114/transactions_over_500_november_2021.csv",
+		"name": "November 2021 CSV",
+		"file": "2021-11.csv"
+	},{
+		"format": "csv",
+		"month": "2021-12",
+		"url": "https://www.darlington.gov.uk/media/15386/transactions-over-500-december-2021.csv",
+		"name": "December 2021 CSV",
+		"file": "2021-12.csv"
+	},{
+		"format": "csv",
+		"month": "2022-01",
+		"url": "https://www.darlington.gov.uk/media/15674/transactions-over-500-january-2022.csv",
+		"name": "January 2022 CSV",
+		"file": "2022-01.csv"
+	},{
+		"format": "csv",
+		"month": "2022-02",
+		"url": "https://www.darlington.gov.uk/media/15846/transactions-over-500-february-2022.csv",
+		"name": "February 2022 CSV",
+		"file": "2022-02.csv"
+	},{
+		"format": "csv",
+		"month": "2022-03",
+		"url": "https://www.darlington.gov.uk/media/16029/transactions_over_500_march_2022.csv",
+		"name": "March 2022 CSV",
+		"file": "2022-03.csv"
+	},{
+		"format": "csv",
+		"month": "2022-04",
+		"url": "https://www.darlington.gov.uk/media/16263/transactions-over-500-april-2022.csv",
+		"name": "April 2022 CSV",
+		"file": "2022-04.csv"
+	},{
+		"format": "csv",
+		"month": "2022-05",
+		"url": "https://www.darlington.gov.uk/media/16511/transactions-over-500-may-2022.csv",
+		"name": "May 2022 CSV",
+		"file": "2022-05.csv"
+	},{
+		"format": "csv",
+		"month": "2022-06",
+		"url": "https://www.darlington.gov.uk/media/16742/transactions-over-500-june-2022.csv",
+		"name": "June 2022 CSV",
+		"file": "2022-06.csv"
+	},{
+		"format": "csv",
+		"month": "2022-07",
+		"url": "https://www.darlington.gov.uk/media/16987/transactions-over-500-july-2022.csv",
+		"name": "July 2022 CSV",
+		"file": "2022-07.csv"
+	},{
+		"format": "csv",
+		"month": "2022-08",
+		"url": "https://www.darlington.gov.uk/media/17209/transactions-over-500-august-2022.csv",
+		"name": "August 2022 CSV",
+		"file": "2022-08.csv"
+	},{
+		"format": "csv",
+		"month": "2022-09",
+		"url": "https://www.darlington.gov.uk/media/17395/transactions-over-500-september-2022.csv",
+		"name": "September 2022 CSV",
+		"file": "2022-09.csv"
 	}]
 }

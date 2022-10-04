@@ -1,15 +1,33 @@
-,,Directotate,Service,Supplier,Invoice Line Value (net of VAT),Account
-INSERTED DETAIL,,Resources Group,Directorate,PRICE WATERHOUSE COOPERS,7500.00,Professional Fees & Consultancy
-INSERTED DETAIL,,Resources Group,Resources,EVOLUTION,4600.00,Consultancy Fees
-INSERTED DETAIL,,Resources Group,Resources,iCASEWORK LTD,950.00,Employee Training Course Costs
-INSERTED DETAIL,,Resources Group,Resources,ISAPPHIRE LTD,727.40,Marketing & Advertising
-INSERTED DETAIL,,Resources Group,Resources,JOHN JACKSON,1525.00,Professional Fees & Consultancy
-INSERTED DETAIL,,Resources Group,Resources,KANA,12500.00,Ict Software Purchase
-INSERTED DETAIL,,Resources Group,Resources,KOMODO DESIGN LTD,528.48,Marketing & Advertising
-INSERTED DETAIL,,Resources Group,Resources,MRS ELAINE AVERIS,1400.00,Professional Fees & Consultancy
-INSERTED DETAIL,,Resources Group,Resources,MULTICORD,528.00,Fixtures And Fittings
-INSERTED DETAIL,,Resources Group,Resources,NEIL COOKSON,1182.25,Consultancy Fees
-INSERTED DETAIL,,Resources Group,Resources,NEWSQUEST (YORKSHIRE & NORTH EAST) LTD,6584.58,Printing
+"sql select t.apar_id, t.amount, t.ext_inv_ref, t.account, t.voucher_date, d.apar_name, s.dim_a, s.dim_b,s1.description, s2.description as servdesc, a.description as accdesc from agltransact t"
+sql inner join aglaccounts a on t.client = a.client and t.account = a.account
+sql inner join asuheader d on t.client = d.client and t.apar_id = d.apar_id
+sql inner join acrtrees s on t.client = s.client and t.dim_1 = s.cat_1 and s.att_agrid = '60'
+sql inner join agldescription s1 on s.client = s1.client and s.dim_a = s1.dim_value and s1.attribute_id = '23'
+sql inner join agldescription s2 on s.client = s2.client and s.dim_b = s2.dim_value and s2.attribute_id = '24'
+sql where t.client = 'DC'
+sql and t.period between '201307' and '201307'
+"sql and t.account not in ('XX01','XX22','XY02')"
+"sql and t.voucher_type in ('P1','P2','HA','HB','HC','HD','HE','HF','HG','HH','HI')"
+sql and t.amount >= 500
+"sql and d.apar_gr_id in ('C1','C2')"
+sql and s.dim_b <> '460'
+"sql order by s.dim_a, s.dim_b, d.apar_name"
+query
+,,Darlington Borough Council - Analysis of Transactions Over 500,,,,
+,,Oct-13,,,,,
+columns,,text description,text servdesc,apar_name,amount,accdesc,
+,,Directotate,Service,Supplier,Invoice Line Value (net of VAT),Account,
+INSERTED DETAIL,,Resources Group,Directorate,PRICE WATERHOUSE COOPERS,7500.00,Professional Fees & Consultancy,
+INSERTED DETAIL,,Resources Group,Resources,EVOLUTION,4600.00,Consultancy Fees,
+INSERTED DETAIL,,Resources Group,Resources,iCASEWORK LTD,950.00,Employee Training Course Costs,
+INSERTED DETAIL,,Resources Group,Resources,ISAPPHIRE LTD,727.40,Marketing & Advertising,
+INSERTED DETAIL,,Resources Group,Resources,JOHN JACKSON,1525.00,Professional Fees & Consultancy,
+INSERTED DETAIL,,Resources Group,Resources,KANA,12500.00,Ict Software Purchase,
+INSERTED DETAIL,,Resources Group,Resources,KOMODO DESIGN LTD,528.48,Marketing & Advertising,
+INSERTED DETAIL,,Resources Group,Resources,MRS ELAINE AVERIS,1400.00,Professional Fees & Consultancy,
+INSERTED DETAIL,,Resources Group,Resources,MULTICORD,528.00,Fixtures And Fittings,
+INSERTED DETAIL,,Resources Group,Resources,NEIL COOKSON,1182.25,Consultancy Fees,
+INSERTED DETAIL,,Resources Group,Resources,NEWSQUEST (YORKSHIRE & NORTH EAST) LTD,6584.58,Printing,
 INSERTED DETAIL,,Resources Group,Resources,NORTHGATE INFORMATION SOLUTIONS,1104.00,Other Supplies & Services
 INSERTED DETAIL,,Resources Group,Resources,POSTURITE (UK) LTD,770.75,Equipment
 INSERTED DETAIL,,Resources Group,Resources,ROYAL MAIL NORTH EAST,888.51,Postages
