@@ -776,5 +776,89 @@
 		"url": "https://www.gateshead.gov.uk/media/28360/June-2021/excel/202103_.csv?m=637622939821300000",
 		"name": "June 2021",
 		"file": "2021-06.csv"
+	},{
+		"format": "csv",
+		"month": "2021-07",
+		"url": "https://www.gateshead.gov.uk/media/29075/July-2021/excel/202104.csv?m=637647882367600000",
+		"name": "July 2021",
+		"file": "2021-07.csv"
+	},{
+		"format": "csv",
+		"month": "2021-08",
+		"url": "https://www.gateshead.gov.uk/media/29648/August-2021/excel/202105.csv?m=637680017380700000",
+		"name": "August 2021",
+		"file": "2021-08.csv"
+	},{
+		"format": "csv",
+		"month": "2021-09",
+		"url": "https://www.gateshead.gov.uk/media/30018/September-2021/excel/202106.csv?m=637698987856130000",
+		"name": "September 2021",
+		"file": "2021-09.csv"
+	},{
+		"format": "csv",
+		"month": "2021-10",
+		"url": "https://www.gateshead.gov.uk/media/30982/October-2021/excel/202107.csv?m=637769801301930000",
+		"name": "October 2021",
+		"file": "2021-10.csv"
+	},{
+		"format": "csv",
+		"month": "2021-11",
+		"url": "https://www.gateshead.gov.uk/media/31353/November-2021/excel/202108.csv?m=637783650664370000",
+		"name": "November 2021",
+		"file": "2021-11.csv"
+	},{
+		"format": "csv",
+		"month": "2021-12",
+		"url": "https://www.gateshead.gov.uk/media/31354/December-2021/excel/202109.csv?m=637783651223330000",
+		"name": "December 2021",
+		"file": "2021-12.csv"
+	},{
+		"format": "csv",
+		"month": "2022-01",
+		"url": "https://www.gateshead.gov.uk/media/31834/January-2022/excel/202110.csv?m=637806150299370000",
+		"name": "January 2022",
+		"file": "2022-01.csv"
+	},{
+		"format": "csv",
+		"month": "2022-02",
+		"url": "https://www.gateshead.gov.uk/media/32350/February-2022/excel/202111.csv?m=637830312987630000",
+		"name": "February 2022",
+		"file": "2022-02.csv"
+	},{
+		"format": "csv",
+		"month": "2022-03",
+		"url": "https://www.gateshead.gov.uk/media/33128/March-2022/excel/202112.csv?m=637871674341470000",
+		"name": "March 2022",
+		"file": "2022-03.csv"
+	},{
+		"format": "csv",
+		"month": "2022-04",
+		"url": "https://www.gateshead.gov.uk/media/33729/April-2022/excel/202201.csv?m=637902866819100000",
+		"name": "April 2022",
+		"file": "2022-04.csv"
+	},{
+		"format": "csv",
+		"month": "2022-05",
+		"url": "https://www.gateshead.gov.uk/media/33938/May-2022/excel/202202.csv?m=637914884439370000",
+		"name": "May 2022",
+		"file": "2022-05.csv"
+	},{
+		"format": "csv",
+		"month": "2022-06",
+		"url": "https://www.gateshead.gov.uk/media/34425/June-2022/excel/202203.csv?m=637946977918770000",
+		"name": "June 2022",
+		"file": "2022-06.csv"
+	},{
+		"format": "csv",
+		"month": "2022-07",
+		"url": "https://www.gateshead.gov.uk/media/34613/July-2022/excel/202204.csv?m=637975381941730000",
+		"name": "July 2022",
+		"file": "2022-07.csv"
+	},{
+		"format": "csv",
+		"month": "2022-08",
+		"url": "https://www.gateshead.gov.uk/media/34791/August-2022/excel/202205.csv?m=638000495890000000",
+		"name": "August 2022",
+		"file": "2022-08.csv"
 	}]
 }
