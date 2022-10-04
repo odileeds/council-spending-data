@@ -11,16 +11,10 @@
 			"Beneficiary Name": ["Supplier name","SupplierName","Supplier Name","Benificiary Name"],
 			"Organisation Label": [],
 			"Organisational Unit": ["Procurement Classification"],
-			"Payment Date": ["Date","Date paid","Date Paid","DatePaid","Payment date"]
+			"Payment Date": ["Date","Date paid","Date Paid","DatePaid","Payment date","Payment Date"]
 		}
 	},
 	"files": [{
-		"format": "csv",
-		"month": "",
-		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/c2515334-98a8-4e79-a72c-9cb670507a2d/Wakefield%2520Council%2520Procurement%2520Card%2520Transactions%25202021%2520Qtr%25203.csv",
-		"name": "Wakefield Council Procurement Card Transactions 2021 Qtr 3.csv",
-		"file": ".csv"
-	},{
 		"format": "csv",
 		"month": "2014-Q1",
 		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/31a812ad-3f88-40d9-98d1-cf01ae17cb36/spend-over-500-q1-2014-2015.csv",
@@ -212,5 +206,23 @@
 		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/b4a4cfaa-1efe-4d5b-bcb5-af7fd97240c0/Supplier%2520Spend%25202021-22%2520Q3.csv",
 		"name": "Supplier Spend 2021-22 Q3.csv",
 		"file": "2021-Q3.csv"
+	},{
+		"format": "csv",
+		"month": "2021-Q3-card",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/c2515334-98a8-4e79-a72c-9cb670507a2d/Wakefield%2520Council%2520Procurement%2520Card%2520Transactions%25202021%2520Qtr%25203.csv",
+		"name": "Wakefield Council Procurement Card Transactions 2021 Qtr 3.csv",
+		"file": "2021-Q3-card.csv"
+	},{
+		"format": "csv",
+		"month": "2021-Q4",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/6b52381b-2652-478d-adec-1385c7ebc1e1/Wakefield%2520Council%2520Procurement%2520Card%2520Transactions%25202122%2520Quarter%25204.csv",
+		"name": "Supplier Spend 2021-22 Q4.csv",
+		"file": "2021-Q4.csv"
+	},{
+		"format": "csv",
+		"month": "2022-Q1",
+		"url": "https://datamillnorth.org/download/wakefield-council-spend-over-500-pounds/ac3203ac-ccca-42c3-a5c6-d3fda8ee7612/Supplier%2520Spend%25202022-23%2520Q1.csv",
+		"name": "Supplier Spend 2022-23 Q1.csv",
+		"file": "2022-Q1.csv"
 	}]
 }
